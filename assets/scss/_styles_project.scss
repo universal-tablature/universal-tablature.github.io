@@ -1,0 +1,12 @@
+// Default AsciiDoc pages place their rendered content directly in .td-main.
+// Docsy's built-in navbar clearance targets a nested main element instead.
+.td-default > .td-main {
+  padding-top: 1.5rem;
+  padding-bottom: 2rem;
+}
+
+@media (min-width: 768px) {
+  .td-default > .td-main {
+    padding-top: calc(4rem + 1.5rem);
+  }
+}

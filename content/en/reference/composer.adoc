@@ -1,0 +1,277 @@
+---
+title: Universal Tablature Composer Language
+linkTitle: Composer Language
+weight: 10
+description: Reference for the high-level Universal Tablature authoring language.
+---
+
+The *Universal Tablature Composer Language* is the high-level authoring format.
+Source files use the `.utab` extension. A compiler resolves the musical intent,
+instrument definitions, and arrangement into Universal Tablature JSON.
+
+[NOTE]
+====
+This page describes the implemented `0.1-draft` text language. It is an evolving
+reference rather than a compatibility promise.
+====
+
+== Lexical structure
+
+Identifiers begin with a letter or underscore and may contain letters, decimal
+digits, underscores, and hyphens. Keywords use the same lexical form as
+identifiers and are case-sensitive.
+
+String literals are enclosed in double quotes. They support `\n`, `\r`, `\t`,
+`\"`, and `\\` escapes. Integer and decimal literals may have a leading `+` or
+`-`. A line comment begins with `//`.
+
+Newlines separate declarations and sequential musical expressions. A semicolon
+may be used instead, which is useful for several expressions on one line. A
+comma combines musical expressions in parallel.
+
+[source,utab]
+----
+C4 q; D4 q       // sequential: D4 follows C4
+C4 h, E4 h, G4 h // parallel: the notes begin together
+----
+
+== Document declarations
+
+A document may contain the following top-level declarations. `module`, when
+present, must appear once. Imports and declarations may follow in source order.
+
+[source,utab]
+----
+module examples.twinkle
+import instruments.piano
+
+title "Twinkle Twinkle Little Star"
+meter 4/4
+tempo 100
+scale C major
+
+instrument piano : Piano as "Piano"
+
+phrase melody { bar { C4 q; C4 q; G4 q; G4 q } }
+
+section verse : 1 bars {
+    piano {
+        voice melody { melody }
+    }
+}
+
+main { verse }
+----
+
+`module name`:: Declares a dot-qualified module name, such as
+`examples.twinkle`.
+
+`import name`:: Makes public symbols from another dot-qualified module
+available to this module.
+
+`title "text"`:: Sets the composition title.
+
+`meter numerator/denominator`:: Sets the meter. Both values are positive
+integers.
+
+`tempo number`:: Sets the tempo in quarter notes per minute. The value must be
+positive.
+
+`scale tonic mode`:: Sets the tonic pitch class and scale name used to resolve
+scale-relative notes and chords.
+
+`instrument name : Model`:: Creates an instrument instance. Add `as "Display
+name"` to set its displayed name or `fingering symbol` to select a fingering.
+Model and fingering references may be local identifiers, qualified names, or
+quoted stable catalogue IDs.
+
+`main { section ... }`:: Gives the ordered section arrangement. Section names
+may be separated by newlines, semicolons, or commas.
+
+== Musical expressions
+
+Every musical expression has a duration. Sequence duration is the sum of its
+children; parallel duration is the maximum child duration.
+
+=== Notes, rests, and durations
+
+Absolute notes combine a pitch name and octave with a duration. Pitch classes
+use `A` through `G`, with `#` or `b` accidentals.
+
+[cols="1,2,2",options="header"]
+|===
+|Form |Example |Meaning
+
+|Absolute note
+|`F#4 q`
+|F sharp in octave 4, quarter-note duration
+
+|Relative note
+|`@3[4] e`
+|Third degree of the active scale in octave 4, eighth-note duration
+
+|Altered relative note
+|`@4#[3] h`
+|Raised fourth degree in octave 3, half-note duration
+
+|Rest
+|`rest q` or `_ q`
+|A quarter-note rest
+|===
+
+Duration symbols are `w` (whole), `h` (half), `q` (quarter), `e` (eighth), and
+`s` (sixteenth).
+
+=== Chords
+
+An absolute chord has the form `chord root quality duration`. A relative chord
+starts with a scale degree. `using` selects a named instrument-specific shape.
+
+[source,utab]
+----
+chord C major w
+chord F# minor h
+chord @5 dominant7 q
+chord G major w using cowboyG
+----
+
+Chord quality is an identifier resolved by the semantic layer. Common built-in
+qualities include `major`, `minor`, `diminished`, `augmented`, `dominant7`,
+`major7`, `minor7`, `sus2`, and `sus4`.
+
+=== Grouping and reuse
+
+`bar { expressions }`:: Groups expressions into an explicit bar. Its resolved
+duration must match the active meter.
+
+`( expressions )`:: Groups a sequence as one expression.
+
+`repeat count { expressions }`:: Repeats a sequence a positive number of times.
+
+`phrase name { expressions }`:: Declares a reusable sequence. Writing the phrase
+name as an expression references it.
+
+`perform pattern { chords }`:: Applies a declared performance pattern to a chord
+progression.
+
+== Sections, instruments, voices, and lyrics
+
+A section establishes a shared timeline. Instrument blocks in the section run
+in parallel; each instrument contains one or more voices, which also run in
+parallel.
+
+[source,utab]
+----
+section chorus : 2 bars {
+    harmony {
+        chord C major w
+        chord G major w
+    }
+    piano {
+        voice rightHand { melody }
+        voice leftHand  { accompaniment }
+    }
+    singer {
+        voice melody {
+            lyrics { "Twin-kle twin-kle"; "lit-tle star" }
+            melody
+        }
+    }
+}
+----
+
+The optional `: count bars` annotation declares the section length. A `harmony`
+block records harmonic expressions independently of an instrument voice.
+`lyrics` contains one or more quoted strings and belongs to the surrounding
+voice.
+
+== Constants and custom scales
+
+`let` declares integer, pitch-class, scale-degree, or chord constants.
+
+[source,utab]
+----
+let tonic = C
+let dominant = @5
+let V = chord @5 major
+let midiProgram = 25
+
+scale maqamRast = cents { 0, 204, 386, 498, 702, 884, 1088 }
+----
+
+A custom scale declaration defines the cent offsets within an octave. Select it
+with a top-level declaration such as `scale C maqamRast`.
+
+== Performance patterns
+
+A performance pattern divides each input chord into equal steps. A step names
+an interaction; steps in parentheses and separated by commas occur in parallel.
+
+[source,utab]
+----
+performancePattern downUp {
+    subdivision e
+    steps {
+        strum down
+        strum up
+        (strum down, strum up)
+    }
+}
+----
+
+== Instrument catalogue declarations
+
+Composer modules can define the instrument catalogue used by scores.
+
+`profile Name { ... }`:: Defines actuator capabilities, interactions, and
+techniques. Profile items include `actuator`, `interaction`, and `technique`.
+
+`model Name : Profile { ... }`:: Defines an instrument model conforming to a
+profile. Model bodies contain properties and `geometry name { ... }` blocks.
+
+`extension Model { ... }`:: Adds `tuning`, `fingering`, or `chordShape`
+definitions to a model.
+
+Properties accept identifiers, strings, integers, decimals, qualified symbol
+references, or comma-separated values. The meaning and validation of individual
+properties depends on the surrounding declaration.
+
+[source,utab]
+----
+model Guitar : FrettedStrings {
+    id "instrument:guitar:classical-six-string"
+    name "Six-string Classical Guitar"
+    geometry strings { count 6 }
+    geometry frets { count 19; movable false }
+}
+
+extension Guitar {
+    tuning standard default {
+        id "tuning:guitar:standard"
+        tags guitar, standard
+        course E2
+        course A2
+        course D3
+        course G3
+        course B3
+        course E4
+    }
+    chordShape cowboyG : G major {
+        string 6 fret 3
+        string 5 fret 2
+        string 4 fret 0
+        string 3 fret 0
+        string 2 fret 0
+        string 1 fret 3
+    }
+}
+----
+
+== Compilation model
+
+Compilation parses and validates Composer source, expands references and the
+`main` arrangement, resolves scales and chords, realizes notes for concrete
+instruments, and emits link:/en/reference/json/[Universal Tablature JSON]. Diagnostics use
+one-based line and column positions. Source references may be preserved in the
+JSON editing map so authoring tools can trace resolved events back to Composer
+declarations.

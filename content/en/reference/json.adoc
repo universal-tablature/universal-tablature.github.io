@@ -1,0 +1,210 @@
+---
+title: Universal Tablature JSON
+linkTitle: Universal Tablature JSON
+weight: 20
+description: Reference for the Universal Tablature JSON interchange format.
+---
+
+*Universal Tablature JSON* is the resolved interchange and playback format.
+Documents use the `.utab.json` extension. The current schema identifies itself
+as `0.1-draft`.
+
+[NOTE]
+====
+This page is an overview of the implemented draft schema. Fields not described
+here may still be accepted because most extensible schema objects allow
+additional properties.
+====
+
+== Document shape
+
+A document requires `utab`, `setup`, and `tracks`. `harmony` and `editingMap`
+are optional.
+
+[source,json]
+----
+{
+  "utab": {
+    "version": "0.1-draft",
+    "title": "Example"
+  },
+  "setup": {
+    "profiles": [
+      { "id": "guitar-profile", "source": "profiles/guitar.json" }
+    ],
+    "instruments": [
+      { "id": "guitar", "profile": "guitar-profile" }
+    ],
+    "time": {
+      "meter": { "numerator": 4, "denominator": 4 },
+      "tempo": { "quarterNotesPerMinute": 100 }
+    }
+  },
+  "tracks": [
+    {
+      "id": "guitar-track",
+      "instrument": "guitar",
+      "events": [
+        {
+          "at": { "musical": { "measure": 1, "beat": 1 } },
+          "duration": { "quarterNotes": 1 },
+          "action": "pluck",
+          "target": "string:1"
+        }
+      ]
+    }
+  ]
+}
+----
+
+== Common value types
+
+Identifier:: A non-empty string containing no whitespace.
+
+Rational:: Either a JSON integer or a string such as `"3/2"` or `"-1/4"`.
+The denominator must be positive and nonzero.
+
+Time position:: Exactly one of a musical or absolute position. A musical
+position contains a one-based `measure`, optional one-based `beat`, and optional
+rational `offset`. An absolute position is a quantity.
+
+Duration:: Either `{ "quarterNotes": rational }` or a nonnegative numeric
+`value` paired with a `unit`.
+
+Quantity:: An object with numeric `value` and non-empty string `unit`.
+
+== `utab` metadata
+
+The `utab` object requires `version`. It may also include:
+
+`documentId`:: Stable identifier for the document.
+
+`title`, `authors`, `source`, `relations`:: Descriptive and provenance metadata.
+
+`work`, `movement`:: Work and movement number/title information; `work` may also
+contain `opus`.
+
+`contributors`:: Objects with required `name` and optional `role`.
+
+`rights`:: Objects with required `text` and optional `type`.
+
+`encoding`:: Encoding date, software, encoders, and description.
+
+`miscellaneous`:: String-valued extension metadata.
+
+== `setup`
+
+The `setup` object requires `profiles` and `instruments`.
+
+=== Profiles and instruments
+
+Each profile is either an inline profile object or a reference containing an
+`id` and `source`. An instrument requires `id` and a `profile` identifier. It
+may also contain `name` and an open-ended `configuration` object.
+
+A performer requires `id` and may have a `name`. Tracks refer to instruments
+and performers by identifier.
+
+=== Time
+
+`setup.time` may contain a default `meter`, `tempo`, `meterMap`, `tempoMap`, and
+`absoluteOrigin`.
+
+* A meter requires positive integer `numerator` and `denominator` values.
+* A tempo requires a positive `quarterNotesPerMinute` number.
+* Map entries may use `at` to locate a change.
+
+=== Sections and arrangement
+
+A section requires `id` and `length.measures`, where the measure count is a
+positive integer. It may include `name`, `role`, and its own `meterMap`.
+
+An arrangement entry requires `id` and a referenced `section`. `playCount` is a
+positive integer and defaults to one.
+
+=== Tunings
+
+A tuning requires `id`, `type`, `periodRatio`, and `reference`. `type` is either
+`equalDivision` or `ratioScale`.
+
+* `equalDivision` also requires a positive `divisions` count.
+* `ratioScale` also requires a non-empty `degrees` array.
+* `periodRatio` and ratio-scale degrees are ratio strings.
+* `reference` supplies a pitch as `degree` and `period`, plus a positive
+  `frequencyHz`.
+* `names` maps pitch names to nonnegative degree indexes.
+
+== Tracks and parts
+
+A track requires `id`, `instrument`, and exactly one representation of its
+content: direct `events` or sectioned `parts`. It may also include `name`,
+`performer`, and `role`.
+
+A track part requires `events` and associates them with either a `section` or an
+arrangement `entry`. Its `mode` is `replace` or `overlay`; it may also carry a
+`source` reference.
+
+== Events
+
+Every event requires `at` and one supported payload shape:
+
+[cols="1,2",options="header"]
+|===
+|Payload |Required fields
+
+|Action
+|`action` and either `target` or `targets`
+
+|Gesture
+|`gesture` and either `target` or `targets`
+
+|State changes
+|A non-empty `changes` array
+
+|Control curve
+|`target`, `parameter`, and a `curve` with at least two points
+|===
+
+An event cannot contain both `target` and `targets`. Optional common fields are
+`id`, `duration`, `type` (`action`, `state`, `control`, or `gesture`),
+`parameters`, `techniques`, and `source`.
+
+A state change requires `target`, `parameter`, and a JSON `value`.
+
+== Harmony
+
+The optional top-level `harmony` array records harmony independently of actuator
+events. Each entry requires `at` and `value.symbol`. Optional fields include
+`id`, `section`, `duration`, `source`, and the value's `root`, `quality`, and
+`bass`.
+
+== Editing map and source references
+
+`editingMap` preserves high-level structure for editors, training tools, and
+diagnostics. Playback does not need it. It requires `version`, `occurrences`,
+`containers`, and `measures`, and may include the active scale.
+
+Occurrences:: Resolved `note`, `rest`, or `actuator` occurrences with definition,
+track, section, time, duration, optional pitch representation, and source.
+
+Containers:: `sequence`, `parallel`, `technique`, or `explicitBar` nodes that
+retain parent/child structure after lowering.
+
+Measures:: Map a track and section measure to the occurrences that contributed
+to it and, when available, the source of an explicit bar.
+
+A source reference always has an `id`. It may include file and one-based source
+coordinates, an ancestry list, and an object `path`. These fields allow emitted
+events to be traced back to link:/en/reference/composer/[Composer Language] source.
+
+Pitch representations are either `absolute` or `scaleRelative`. Absolute forms
+carry `letter`, integer `accidental`, integer `tuningOffsetCents`, and `octave`.
+Scale-relative forms carry positive `degree` and `octave`, with optional
+`alteration`. Either form may retain a resolved MIDI pitch from 0 through 127.
+
+== Compatibility
+
+Producers should write `utab.version` and preserve extension fields they do not
+interpret when performing a lossless edit. Consumers should validate required
+fields and payload alternatives, reject versions they cannot safely interpret,
+and avoid depending on `editingMap` for basic playback.

@@ -1,0 +1,25 @@
+---
+title: Universal Tablature
+linkTitle: Home
+---
+
+Universal Tablature is a pair of formats for describing music for conventional,
+virtual, and mechanically actuated instruments.
+
+== Language references
+
+link:/en/reference/composer/[Universal Tablature Composer Language]::
+The high-level authoring language. Composer source uses the `.utab` extension
+and expresses musical intent, reusable phrases, parts, voices, and arrangements.
+
+link:/en/reference/json/[Universal Tablature JSON]::
+The resolved interchange format. JSON documents use the `.utab.json` extension
+and carry timing, instrument setup, actuator events, and optional editing/source-map
+information.
+
+The formats are related, but serve different layers. A Composer implementation
+can compile a `.utab` score into `.utab.json`; a player can consume the JSON
+without understanding the high-level source.
+
+See the link:/en/reference/[language reference index] for an overview of both
+formats.

@@ -1,0 +1,20 @@
+---
+title: Language reference
+linkTitle: Language reference
+weight: 10
+---
+
+This section documents the two Universal Tablature formats.
+
+== Formats
+
+link:/en/reference/composer/[Universal Tablature Composer Language]::
+The high-level, human-authored composition language stored in `.utab` files.
+
+link:/en/reference/json/[Universal Tablature JSON]::
+The resolved interchange and playback representation stored in `.utab.json`
+files.
+
+Both references currently describe the implemented `0.1-draft` formats. The
+formats are evolving, so producers should emit an explicit version and consumers
+should report unsupported versions.
