@@ -1,0 +1,23 @@
+---
+title: Tutorials
+linkTitle: Tutorials
+weight: 20
+---
+
+These tutorials develop complete Composer Language scores and explain how their
+modules, phrases, sections, voices, and arrangements fit together.
+
+link:/en/tutorials/twinkle/[Arrange “Twinkle, Twinkle, Little Star”]::
+Build a complete 12-bar arrangement for piano, two guitars, and voice using
+scale-relative melody phrases, chords, lyrics, and repetition.
+
+link:/en/tutorials/hurrian-hymn/[Encode a reconstruction of Hurrian Hymn No. 6]::
+Represent a nine-bar reconstruction for the standard-library sammûm while
+keeping editorial choices visible in the source.
+
+The examples target the `0.1-draft` implementation described in the
+link:/en/reference/composer/[Composer Language reference].
+
+Each tutorial includes an inline MIDI player and links to its Composer source,
+compiled Universal Tablature JSON, and Standard MIDI File. Maintainers can
+regenerate these committed artifacts with `scripts/generate-tutorial-media.sh`.

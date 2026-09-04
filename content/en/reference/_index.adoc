@@ -15,6 +15,12 @@ link:/en/reference/json/[Universal Tablature JSON]::
 The resolved interchange and playback representation stored in `.utab.json`
 files.
 
+link:/en/reference/standard-library/[Composer standard library]::
+The modules, profiles, instruments, tunings, and musical symbols bundled with
+the Composer implementation.
+
 Both references currently describe the implemented `0.1-draft` formats. The
 formats are evolving, so producers should emit an explicit version and consumers
 should report unsupported versions.
+
+For complete scores with commentary, continue to the link:/en/tutorials/[tutorials].

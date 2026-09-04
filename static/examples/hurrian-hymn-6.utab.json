@@ -1,0 +1,3641 @@
+{
+  "editingMap" : {
+    "containers" : [
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence:3b67c3eb6c8e8f9d"
+        ],
+        "definitionID" : "voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30:fab1b1881b40b3df",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "column" : 30,
+          "endColumn" : 10,
+          "endLine" : 39,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+          "line" : 32,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5:7e344efad4899735",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5:75317e4e5205d006",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5:a57e16cc933b2b92",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5:d5e059e27b18ca5a",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5:37db788156b908fe",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5:53765049dfaaca16",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5:e06f37896eb1b62a",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5:f1a9dd7566bbe722",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:8:bar:static\/examples\/hurrian-hymn-6.utab:27:5:7dc0042479391c5e"
+        ],
+        "definitionID" : "phrase-body:b78ec16baf832e6",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence:3b67c3eb6c8e8f9d",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence"
+          ],
+          "column" : 35,
+          "endColumn" : 2,
+          "endLine" : 28,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "phrase-body:b78ec16baf832e6",
+          "line" : 18,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5\/sequence:0:4df990d696eb5aa2",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5\/sequence:1:44b5481ba04c4bc7",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5\/sequence:2:e48abba22cd9d2a0",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5\/sequence:3:be82fcdb17305dc9"
+        ],
+        "definitionID" : "sequence:static\/examples\/hurrian-hymn-6.utab:19:5",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5:7e344efad4899735",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:19:5"
+          ],
+          "column" : 5,
+          "endColumn" : 5,
+          "endLine" : 19,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "sequence:static\/examples\/hurrian-hymn-6.utab:19:5",
+          "line" : 19,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5\/sequence:0:d1ccc4f01fe0fe39",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5\/sequence:1:1c3cd4a3702de704",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5\/sequence:2:df195798d5782eb7",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5\/sequence:3:1bead3523a08ee3e"
+        ],
+        "definitionID" : "sequence:static\/examples\/hurrian-hymn-6.utab:20:5",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5:75317e4e5205d006",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:20:5"
+          ],
+          "column" : 5,
+          "endColumn" : 5,
+          "endLine" : 20,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "sequence:static\/examples\/hurrian-hymn-6.utab:20:5",
+          "line" : 20,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5\/sequence:0:fc69e4ab2075d25",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5\/sequence:1:492cd1d873b47a38",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5\/sequence:2:e27a7ca897ea363",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5\/sequence:3:c8b2122b00004d62"
+        ],
+        "definitionID" : "sequence:static\/examples\/hurrian-hymn-6.utab:21:5",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5:a57e16cc933b2b92",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:21:5"
+          ],
+          "column" : 5,
+          "endColumn" : 5,
+          "endLine" : 21,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "sequence:static\/examples\/hurrian-hymn-6.utab:21:5",
+          "line" : 21,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5\/sequence:0:47b6d3bcec5f71d1",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5\/sequence:1:76e1ec935b546284",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5\/sequence:2:8d3c1d1c9be45e2f",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5\/sequence:3:a99333c9721cf9de"
+        ],
+        "definitionID" : "sequence:static\/examples\/hurrian-hymn-6.utab:22:5",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5:d5e059e27b18ca5a",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:22:5"
+          ],
+          "column" : 5,
+          "endColumn" : 5,
+          "endLine" : 22,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "sequence:static\/examples\/hurrian-hymn-6.utab:22:5",
+          "line" : 22,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5\/sequence:0:89bbec051c24a37d",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5\/sequence:1:cd1c1acc27dc6f8",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5\/sequence:2:f6df1ed9203fed1b",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5\/sequence:3:52bdbc0269857f32"
+        ],
+        "definitionID" : "sequence:static\/examples\/hurrian-hymn-6.utab:23:5",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5:37db788156b908fe",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:23:5"
+          ],
+          "column" : 5,
+          "endColumn" : 5,
+          "endLine" : 23,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "sequence:static\/examples\/hurrian-hymn-6.utab:23:5",
+          "line" : 23,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5\/sequence:0:b6b93c63932f2491",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5\/sequence:1:a7d0c4153d67999c",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5\/sequence:2:c404a0c7a2d4897f",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5\/sequence:3:bfdca035d0219616"
+        ],
+        "definitionID" : "sequence:static\/examples\/hurrian-hymn-6.utab:24:5",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5:53765049dfaaca16",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:24:5"
+          ],
+          "column" : 5,
+          "endColumn" : 5,
+          "endLine" : 24,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "sequence:static\/examples\/hurrian-hymn-6.utab:24:5",
+          "line" : 24,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5\/sequence:0:b496026163c49f85",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5\/sequence:1:fbcdd746fa78c428",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5\/sequence:2:9581b22fe6844ec3",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5\/sequence:3:7021a07546338e42"
+        ],
+        "definitionID" : "sequence:static\/examples\/hurrian-hymn-6.utab:25:5",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5:e06f37896eb1b62a",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:25:5"
+          ],
+          "column" : 5,
+          "endColumn" : 5,
+          "endLine" : 25,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "sequence:static\/examples\/hurrian-hymn-6.utab:25:5",
+          "line" : 25,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5\/sequence:0:307314f651584d99",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5\/sequence:1:84a24ad8677482dc",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5\/sequence:2:c8e718cf8ca17f67",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5\/sequence:3:215507c685e03f6"
+        ],
+        "definitionID" : "sequence:static\/examples\/hurrian-hymn-6.utab:26:5",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5:f1a9dd7566bbe722",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:26:5"
+          ],
+          "column" : 5,
+          "endColumn" : 5,
+          "endLine" : 26,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "sequence:static\/examples\/hurrian-hymn-6.utab:26:5",
+          "line" : 26,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:8:bar:static\/examples\/hurrian-hymn-6.utab:27:5\/sequence:0:c532990cc5ba5d5d",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:8:bar:static\/examples\/hurrian-hymn-6.utab:27:5\/sequence:1:62acb039117cfe58",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:8:bar:static\/examples\/hurrian-hymn-6.utab:27:5\/sequence:2:e288aa9cf7414682"
+        ],
+        "definitionID" : "sequence:static\/examples\/hurrian-hymn-6.utab:27:5",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:8:bar:static\/examples\/hurrian-hymn-6.utab:27:5:7dc0042479391c5e",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:27:5"
+          ],
+          "column" : 5,
+          "endColumn" : 5,
+          "endLine" : 27,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "sequence:static\/examples\/hurrian-hymn-6.utab:27:5",
+          "line" : 27,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:8:bar:static\/examples\/hurrian-hymn-6.utab:27:5"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      }
+    ],
+    "measures" : [
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5\/sequence:0:4df990d696eb5aa2",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5\/sequence:1:44b5481ba04c4bc7",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5\/sequence:2:e48abba22cd9d2a0",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5\/sequence:3:be82fcdb17305dc9"
+        ],
+        "id" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30:section:tablet:measure:1",
+        "measure" : 1,
+        "sectionID" : "section:tablet",
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5\/sequence:0:d1ccc4f01fe0fe39",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5\/sequence:1:1c3cd4a3702de704",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5\/sequence:2:df195798d5782eb7",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5\/sequence:3:1bead3523a08ee3e"
+        ],
+        "id" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30:section:tablet:measure:2",
+        "measure" : 2,
+        "sectionID" : "section:tablet",
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5\/sequence:0:fc69e4ab2075d25",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5\/sequence:1:492cd1d873b47a38",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5\/sequence:2:e27a7ca897ea363",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5\/sequence:3:c8b2122b00004d62"
+        ],
+        "id" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30:section:tablet:measure:3",
+        "measure" : 3,
+        "sectionID" : "section:tablet",
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5\/sequence:0:47b6d3bcec5f71d1",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5\/sequence:1:76e1ec935b546284",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5\/sequence:2:8d3c1d1c9be45e2f",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5\/sequence:3:a99333c9721cf9de"
+        ],
+        "id" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30:section:tablet:measure:4",
+        "measure" : 4,
+        "sectionID" : "section:tablet",
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5\/sequence:0:89bbec051c24a37d",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5\/sequence:1:cd1c1acc27dc6f8",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5\/sequence:2:f6df1ed9203fed1b",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5\/sequence:3:52bdbc0269857f32"
+        ],
+        "id" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30:section:tablet:measure:5",
+        "measure" : 5,
+        "sectionID" : "section:tablet",
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5\/sequence:0:b6b93c63932f2491",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5\/sequence:1:a7d0c4153d67999c",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5\/sequence:2:c404a0c7a2d4897f",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5\/sequence:3:bfdca035d0219616"
+        ],
+        "id" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30:section:tablet:measure:6",
+        "measure" : 6,
+        "sectionID" : "section:tablet",
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5\/sequence:0:b496026163c49f85",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5\/sequence:1:fbcdd746fa78c428",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5\/sequence:2:9581b22fe6844ec3",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5\/sequence:3:7021a07546338e42"
+        ],
+        "id" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30:section:tablet:measure:7",
+        "measure" : 7,
+        "sectionID" : "section:tablet",
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5\/sequence:0:307314f651584d99",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5\/sequence:1:84a24ad8677482dc",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5\/sequence:2:c8e718cf8ca17f67",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5\/sequence:3:215507c685e03f6"
+        ],
+        "id" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30:section:tablet:measure:8",
+        "measure" : 8,
+        "sectionID" : "section:tablet",
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:8:bar:static\/examples\/hurrian-hymn-6.utab:27:5\/sequence:0:c532990cc5ba5d5d",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:8:bar:static\/examples\/hurrian-hymn-6.utab:27:5\/sequence:1:62acb039117cfe58",
+          "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:8:bar:static\/examples\/hurrian-hymn-6.utab:27:5\/sequence:2:e288aa9cf7414682"
+        ],
+        "id" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30:section:tablet:measure:9",
+        "measure" : 9,
+        "sectionID" : "section:tablet",
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      }
+    ],
+    "occurrences" : [
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:19:11",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5\/sequence:0:4df990d696eb5aa2",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:19:5"
+          ],
+          "column" : 11,
+          "endColumn" : 29,
+          "endLine" : 19,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:19:11",
+          "line" : 19,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:19:31",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5\/sequence:1:44b5481ba04c4bc7",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:19:5"
+          ],
+          "column" : 31,
+          "endColumn" : 49,
+          "endLine" : 19,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:19:31",
+          "line" : 19,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:19:51",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5\/sequence:2:e48abba22cd9d2a0",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:19:5"
+          ],
+          "column" : 51,
+          "endColumn" : 69,
+          "endLine" : 19,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:19:51",
+          "line" : 19,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:19:71",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5\/sequence:3:be82fcdb17305dc9",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:19:5"
+          ],
+          "column" : 71,
+          "endColumn" : 89,
+          "endLine" : 19,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:19:71",
+          "line" : 19,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:20:11",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5\/sequence:0:d1ccc4f01fe0fe39",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:20:5"
+          ],
+          "column" : 11,
+          "endColumn" : 29,
+          "endLine" : 20,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:20:11",
+          "line" : 20,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:20:31",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5\/sequence:1:1c3cd4a3702de704",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:20:5"
+          ],
+          "column" : 31,
+          "endColumn" : 49,
+          "endLine" : 20,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:20:31",
+          "line" : 20,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:20:51",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5\/sequence:2:df195798d5782eb7",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:20:5"
+          ],
+          "column" : 51,
+          "endColumn" : 69,
+          "endLine" : 20,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:20:51",
+          "line" : 20,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:20:71",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5\/sequence:3:1bead3523a08ee3e",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:20:5"
+          ],
+          "column" : 71,
+          "endColumn" : 89,
+          "endLine" : 20,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:20:71",
+          "line" : 20,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 3
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:21:11",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5\/sequence:0:fc69e4ab2075d25",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:21:5"
+          ],
+          "column" : 11,
+          "endColumn" : 29,
+          "endLine" : 21,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:21:11",
+          "line" : 21,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 3
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:21:31",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5\/sequence:1:492cd1d873b47a38",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:21:5"
+          ],
+          "column" : 31,
+          "endColumn" : 49,
+          "endLine" : 21,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:21:31",
+          "line" : 21,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 3
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:21:51",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5\/sequence:2:e27a7ca897ea363",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:21:5"
+          ],
+          "column" : 51,
+          "endColumn" : 69,
+          "endLine" : 21,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:21:51",
+          "line" : 21,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 3
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:21:71",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5\/sequence:3:c8b2122b00004d62",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:21:5"
+          ],
+          "column" : 71,
+          "endColumn" : 89,
+          "endLine" : 21,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:21:71",
+          "line" : 21,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 4
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:22:11",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5\/sequence:0:47b6d3bcec5f71d1",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:22:5"
+          ],
+          "column" : 11,
+          "endColumn" : 29,
+          "endLine" : 22,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:22:11",
+          "line" : 22,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 4
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:22:31",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5\/sequence:1:76e1ec935b546284",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:22:5"
+          ],
+          "column" : 31,
+          "endColumn" : 49,
+          "endLine" : 22,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:22:31",
+          "line" : 22,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 4
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:22:51",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5\/sequence:2:8d3c1d1c9be45e2f",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:22:5"
+          ],
+          "column" : 51,
+          "endColumn" : 69,
+          "endLine" : 22,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:22:51",
+          "line" : 22,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 4
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:22:71",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5\/sequence:3:a99333c9721cf9de",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:22:5"
+          ],
+          "column" : 71,
+          "endColumn" : 89,
+          "endLine" : 22,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:22:71",
+          "line" : 22,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 5
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:23:11",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5\/sequence:0:89bbec051c24a37d",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:23:5"
+          ],
+          "column" : 11,
+          "endColumn" : 29,
+          "endLine" : 23,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:23:11",
+          "line" : 23,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 5
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:23:31",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5\/sequence:1:cd1c1acc27dc6f8",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:23:5"
+          ],
+          "column" : 31,
+          "endColumn" : 49,
+          "endLine" : 23,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:23:31",
+          "line" : 23,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 5
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:23:51",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5\/sequence:2:f6df1ed9203fed1b",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:23:5"
+          ],
+          "column" : 51,
+          "endColumn" : 69,
+          "endLine" : 23,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:23:51",
+          "line" : 23,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 5
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:23:71",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5\/sequence:3:52bdbc0269857f32",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:23:5"
+          ],
+          "column" : 71,
+          "endColumn" : 89,
+          "endLine" : 23,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:23:71",
+          "line" : 23,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 6
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:24:11",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5\/sequence:0:b6b93c63932f2491",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:24:5"
+          ],
+          "column" : 11,
+          "endColumn" : 29,
+          "endLine" : 24,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:24:11",
+          "line" : 24,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 6
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:24:31",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5\/sequence:1:a7d0c4153d67999c",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:24:5"
+          ],
+          "column" : 31,
+          "endColumn" : 49,
+          "endLine" : 24,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:24:31",
+          "line" : 24,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 6
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:24:51",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5\/sequence:2:c404a0c7a2d4897f",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:24:5"
+          ],
+          "column" : 51,
+          "endColumn" : 69,
+          "endLine" : 24,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:24:51",
+          "line" : 24,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 6
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:24:71",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5\/sequence:3:bfdca035d0219616",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:24:5"
+          ],
+          "column" : 71,
+          "endColumn" : 89,
+          "endLine" : 24,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:24:71",
+          "line" : 24,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 7
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:25:11",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5\/sequence:0:b496026163c49f85",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:25:5"
+          ],
+          "column" : 11,
+          "endColumn" : 29,
+          "endLine" : 25,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:25:11",
+          "line" : 25,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 7
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:25:31",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5\/sequence:1:fbcdd746fa78c428",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:25:5"
+          ],
+          "column" : 31,
+          "endColumn" : 49,
+          "endLine" : 25,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:25:31",
+          "line" : 25,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 7
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:25:51",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5\/sequence:2:9581b22fe6844ec3",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:25:5"
+          ],
+          "column" : 51,
+          "endColumn" : 69,
+          "endLine" : 25,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:25:51",
+          "line" : 25,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 7
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:25:71",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5\/sequence:3:7021a07546338e42",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:25:5"
+          ],
+          "column" : 71,
+          "endColumn" : 89,
+          "endLine" : 25,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:25:71",
+          "line" : 25,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 8
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:26:11",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5\/sequence:0:307314f651584d99",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:26:5"
+          ],
+          "column" : 11,
+          "endColumn" : 29,
+          "endLine" : 26,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:26:11",
+          "line" : 26,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 8
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:26:31",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5\/sequence:1:84a24ad8677482dc",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:26:5"
+          ],
+          "column" : 31,
+          "endColumn" : 49,
+          "endLine" : 26,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:26:31",
+          "line" : 26,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 8
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:26:51",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5\/sequence:2:c8e718cf8ca17f67",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:26:5"
+          ],
+          "column" : 51,
+          "endColumn" : 69,
+          "endLine" : 26,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:26:51",
+          "line" : 26,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 8
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:26:71",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5\/sequence:3:215507c685e03f6",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:26:5"
+          ],
+          "column" : 71,
+          "endColumn" : 89,
+          "endLine" : 26,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:26:71",
+          "line" : 26,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 9
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:27:11",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:8:bar:static\/examples\/hurrian-hymn-6.utab:27:5\/sequence:0:c532990cc5ba5d5d",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:27:5"
+          ],
+          "column" : 11,
+          "endColumn" : 29,
+          "endLine" : 27,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:27:11",
+          "line" : 27,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:8:bar:static\/examples\/hurrian-hymn-6.utab:27:5",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 9
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/hurrian-hymn-6.utab:27:31",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:8:bar:static\/examples\/hurrian-hymn-6.utab:27:5\/sequence:1:62acb039117cfe58",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:27:5"
+          ],
+          "column" : 31,
+          "endColumn" : 49,
+          "endLine" : 27,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:27:31",
+          "line" : 27,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:8:bar:static\/examples\/hurrian-hymn-6.utab:27:5",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 9
+          }
+        },
+        "definitionID" : "rest:static\/examples\/hurrian-hymn-6.utab:27:51",
+        "duration" : {
+          "quarterNotes" : "2\/1"
+        },
+        "kind" : "rest",
+        "occurrenceID" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:8:bar:static\/examples\/hurrian-hymn-6.utab:27:5\/sequence:2:e288aa9cf7414682",
+        "sectionID" : "section:tablet",
+        "source" : {
+          "ancestry" : [
+            "phrase:reconstructedPitchSequence",
+            "bar:static\/examples\/hurrian-hymn-6.utab:27:5"
+          ],
+          "column" : 51,
+          "endColumn" : 57,
+          "endLine" : 27,
+          "file" : "static\/examples\/hurrian-hymn-6.utab",
+          "id" : "rest:static\/examples\/hurrian-hymn-6.utab:27:51",
+          "line" : 27,
+          "path" : [
+            "section:section:tablet",
+            "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+            "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+            "content:0",
+            "phrase:phrase:reconstructedPitchSequence",
+            "bar:8:bar:static\/examples\/hurrian-hymn-6.utab:27:5",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30"
+      }
+    ],
+    "scale" : {
+      "centIntervals" : [
+        0,
+        200,
+        300,
+        500,
+        700,
+        800,
+        1000
+      ],
+      "name" : "natural minor",
+      "tonic" : "D"
+    },
+    "version" : 1
+  },
+  "setup" : {
+    "arrangement" : [
+      {
+        "id" : "section-occurrence:main\/sequence:0\/reference:section-reference:static\/examples\/hurrian-hymn-6.utab:43:8:cff6c94f2b32579f",
+        "section" : "section:tablet"
+      }
+    ],
+    "instruments" : [
+      {
+        "id" : "sammu",
+        "name" : "Nine-string Sammûm \/ Lyre",
+        "profile" : "profile:generated:sammu"
+      }
+    ],
+    "profiles" : [
+      {
+        "actuators" : {
+          "strings" : {
+            "count" : 9,
+            "type" : "generated"
+          }
+        },
+        "id" : "profile:generated:sammu",
+        "interactions" : {
+          "pluck" : {
+
+          }
+        },
+        "name" : "Generated Nine-string Sammûm \/ Lyre profile",
+        "profileVersion" : "0.1-draft"
+      }
+    ],
+    "sections" : [
+      {
+        "id" : "section:tablet",
+        "length" : {
+          "measures" : 9
+        },
+        "meterMap" : [
+          {
+            "at" : {
+              "measure" : 1
+            },
+            "denominator" : 4,
+            "numerator" : 4
+          }
+        ],
+        "name" : "tablet"
+      }
+    ],
+    "time" : {
+      "meter" : {
+        "denominator" : 4,
+        "numerator" : 4
+      },
+      "tempo" : {
+        "quarterNotesPerMinute" : 60
+      }
+    },
+    "tunings" : [
+      {
+        "divisions" : 12,
+        "id" : "12edo",
+        "names" : {
+          "A" : 9,
+          "Ab" : 8,
+          "B" : 11,
+          "Bb" : 10,
+          "C" : 0,
+          "C#" : 1,
+          "D" : 2,
+          "E" : 4,
+          "Eb" : 3,
+          "F" : 5,
+          "F#" : 6,
+          "G" : 7
+        },
+        "periodRatio" : "2\/1",
+        "reference" : {
+          "frequencyHz" : 440,
+          "pitch" : {
+            "degree" : 9,
+            "period" : 4
+          }
+        },
+        "type" : "equalDivision"
+      }
+    ]
+  },
+  "tracks" : [
+    {
+      "id" : "track:sammu:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+      "instrument" : "sammu",
+      "name" : "Nine-string Sammûm \/ Lyre — reconstruction",
+      "parts" : [
+        {
+          "events" : [
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5\/sequence:0:4df990d696eb5aa2",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "beginning",
+                    "syllable" : "lyric-syllable:0:3c2d429119bfe2bc",
+                    "text" : "a",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:0:6a2e6251900a783d"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 2,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:19:5"
+                ],
+                "column" : 11,
+                "endColumn" : 29,
+                "endLine" : 19,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:19:11",
+                "line" : 19,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5",
+                  "sequence:0"
+                ]
+              },
+              "target" : "strings[9]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5\/sequence:1:44b5481ba04c4bc7",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "middle",
+                    "syllable" : "lyric-syllable:1:e608869e2e90c8f7",
+                    "text" : "ta",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:0:6a2e6251900a783d"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 5,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:19:5"
+                ],
+                "column" : 31,
+                "endColumn" : 49,
+                "endLine" : 19,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:19:31",
+                "line" : 19,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5",
+                  "sequence:1"
+                ]
+              },
+              "target" : "strings[7]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5\/sequence:2:e48abba22cd9d2a0",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "middle",
+                    "syllable" : "lyric-syllable:2:37f8642c7acba8c6",
+                    "text" : "aḫ",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:0:6a2e6251900a783d"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 2,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:19:5"
+                ],
+                "column" : 51,
+                "endColumn" : 69,
+                "endLine" : 19,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:19:51",
+                "line" : 19,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5",
+                  "sequence:2"
+                ]
+              },
+              "target" : "strings[9]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5\/sequence:3:be82fcdb17305dc9",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "middle",
+                    "syllable" : "lyric-syllable:3:a300d637dbe72a49",
+                    "text" : "ḫa",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:0:6a2e6251900a783d"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 9,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:19:5"
+                ],
+                "column" : 71,
+                "endColumn" : 89,
+                "endLine" : 19,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:19:71",
+                "line" : 19,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:0:bar:static\/examples\/hurrian-hymn-6.utab:19:5",
+                  "sequence:3"
+                ]
+              },
+              "target" : "strings[5]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5\/sequence:0:d1ccc4f01fe0fe39",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "middle",
+                    "syllable" : "lyric-syllable:4:91d35c4b07ea0860",
+                    "text" : "aš",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:0:6a2e6251900a783d"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 7,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:20:5"
+                ],
+                "column" : 11,
+                "endColumn" : 29,
+                "endLine" : 20,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:20:11",
+                "line" : 20,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5",
+                  "sequence:0"
+                ]
+              },
+              "target" : "strings[6]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5\/sequence:1:1c3cd4a3702de704",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "end",
+                    "syllable" : "lyric-syllable:5:a9dd1ffed588f41b",
+                    "text" : "ta",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:0:6a2e6251900a783d"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 9,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:20:5"
+                ],
+                "column" : 31,
+                "endColumn" : 49,
+                "endLine" : 20,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:20:31",
+                "line" : 20,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5",
+                  "sequence:1"
+                ]
+              },
+              "target" : "strings[5]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5\/sequence:2:df195798d5782eb7",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "beginning",
+                    "syllable" : "lyric-syllable:0:77963bc98803e135",
+                    "text" : "a",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:1:be17b667e39cd48"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 7,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:20:5"
+                ],
+                "column" : 51,
+                "endColumn" : 69,
+                "endLine" : 20,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:20:51",
+                "line" : 20,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5",
+                  "sequence:2"
+                ]
+              },
+              "target" : "strings[6]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5\/sequence:3:1bead3523a08ee3e",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "middle",
+                    "syllable" : "lyric-syllable:1:f4f4730dc7984b44",
+                    "text" : "li",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:1:be17b667e39cd48"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 9,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:20:5"
+                ],
+                "column" : 71,
+                "endColumn" : 89,
+                "endLine" : 20,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:20:71",
+                "line" : 20,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:1:bar:static\/examples\/hurrian-hymn-6.utab:20:5",
+                  "sequence:3"
+                ]
+              },
+              "target" : "strings[5]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 3
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5\/sequence:0:fc69e4ab2075d25",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "middle",
+                    "syllable" : "lyric-syllable:2:6cb54208c851cbcb",
+                    "text" : "it",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:1:be17b667e39cd48"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 7,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:21:5"
+                ],
+                "column" : 11,
+                "endColumn" : 29,
+                "endLine" : 21,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:21:11",
+                "line" : 21,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5",
+                  "sequence:0"
+                ]
+              },
+              "target" : "strings[6]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 3
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5\/sequence:1:492cd1d873b47a38",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "end",
+                    "syllable" : "lyric-syllable:3:78cb470d901003ca",
+                    "text" : "ta",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:1:be17b667e39cd48"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 5,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:21:5"
+                ],
+                "column" : 31,
+                "endColumn" : 49,
+                "endLine" : 21,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:21:31",
+                "line" : 21,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5",
+                  "sequence:1"
+                ]
+              },
+              "target" : "strings[7]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 3
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5\/sequence:2:e27a7ca897ea363",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "beginning",
+                    "syllable" : "lyric-syllable:0:353854aff3be72ca",
+                    "text" : "nu",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:2:8d8ef8d6b7a4f733"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 5,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:21:5"
+                ],
+                "column" : 51,
+                "endColumn" : 69,
+                "endLine" : 21,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:21:51",
+                "line" : 21,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5",
+                  "sequence:2"
+                ]
+              },
+              "target" : "strings[7]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 3
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5\/sequence:3:c8b2122b00004d62",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "middle",
+                    "syllable" : "lyric-syllable:1:7517f356482727fd",
+                    "text" : "ú",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:2:8d8ef8d6b7a4f733"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 7,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:21:5"
+                ],
+                "column" : 71,
+                "endColumn" : 89,
+                "endLine" : 21,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:21:71",
+                "line" : 21,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:2:bar:static\/examples\/hurrian-hymn-6.utab:21:5",
+                  "sequence:3"
+                ]
+              },
+              "target" : "strings[6]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 4
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5\/sequence:0:47b6d3bcec5f71d1",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "middle",
+                    "syllable" : "lyric-syllable:2:3741aeb5510b0c10",
+                    "text" : "ḫa",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:2:8d8ef8d6b7a4f733"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 5,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:22:5"
+                ],
+                "column" : 11,
+                "endColumn" : 29,
+                "endLine" : 22,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:22:11",
+                "line" : 22,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5",
+                  "sequence:0"
+                ]
+              },
+              "target" : "strings[7]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 4
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5\/sequence:1:76e1ec935b546284",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "middle",
+                    "syllable" : "lyric-syllable:3:87333c2164f8b463",
+                    "text" : "aš",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:2:8d8ef8d6b7a4f733"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 4,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:22:5"
+                ],
+                "column" : 31,
+                "endColumn" : 49,
+                "endLine" : 22,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:22:31",
+                "line" : 22,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5",
+                  "sequence:1"
+                ]
+              },
+              "target" : "strings[8]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 4
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5\/sequence:2:8d3c1d1c9be45e2f",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "end",
+                    "syllable" : "lyric-syllable:4:44566d67fb11b0e6",
+                    "text" : "ta",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:2:8d8ef8d6b7a4f733"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 11,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:22:5"
+                ],
+                "column" : 51,
+                "endColumn" : 69,
+                "endLine" : 22,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:22:51",
+                "line" : 22,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5",
+                  "sequence:2"
+                ]
+              },
+              "target" : "strings[4]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 4
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5\/sequence:3:a99333c9721cf9de",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "beginning",
+                    "syllable" : "lyric-syllable:0:598c4daa59d53328",
+                    "text" : "ti",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:3:8a251a5b642cbbbe"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 9,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:22:5"
+                ],
+                "column" : 71,
+                "endColumn" : 89,
+                "endLine" : 22,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:22:71",
+                "line" : 22,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:3:bar:static\/examples\/hurrian-hymn-6.utab:22:5",
+                  "sequence:3"
+                ]
+              },
+              "target" : "strings[5]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 5
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5\/sequence:0:89bbec051c24a37d",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "middle",
+                    "syllable" : "lyric-syllable:1:de1227e335949d53",
+                    "text" : "ta",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:3:8a251a5b642cbbbe"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 7,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:23:5"
+                ],
+                "column" : 11,
+                "endColumn" : 29,
+                "endLine" : 23,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:23:11",
+                "line" : 23,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5",
+                  "sequence:0"
+                ]
+              },
+              "target" : "strings[6]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 5
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5\/sequence:1:cd1c1acc27dc6f8",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "middle",
+                    "syllable" : "lyric-syllable:2:2b8a481ae0410bfe",
+                    "text" : "an",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:3:8a251a5b642cbbbe"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 9,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:23:5"
+                ],
+                "column" : 31,
+                "endColumn" : 49,
+                "endLine" : 23,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:23:31",
+                "line" : 23,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5",
+                  "sequence:1"
+                ]
+              },
+              "target" : "strings[5]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 5
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5\/sequence:2:f6df1ed9203fed1b",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "middle",
+                    "syllable" : "lyric-syllable:3:cc52b5ba48cac9c9",
+                    "text" : "na",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:3:8a251a5b642cbbbe"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 7,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:23:5"
+                ],
+                "column" : 51,
+                "endColumn" : 69,
+                "endLine" : 23,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:23:51",
+                "line" : 23,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5",
+                  "sequence:2"
+                ]
+              },
+              "target" : "strings[6]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 5
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5\/sequence:3:52bdbc0269857f32",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "middle",
+                    "syllable" : "lyric-syllable:4:3457c58fbfa53404",
+                    "text" : "pí",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:3:8a251a5b642cbbbe"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 5,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:23:5"
+                ],
+                "column" : 71,
+                "endColumn" : 89,
+                "endLine" : 23,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:23:71",
+                "line" : 23,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:4:bar:static\/examples\/hurrian-hymn-6.utab:23:5",
+                  "sequence:3"
+                ]
+              },
+              "target" : "strings[7]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 6
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5\/sequence:0:b6b93c63932f2491",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "end",
+                    "syllable" : "lyric-syllable:5:5da5bfe6beb2122f",
+                    "text" : "en",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:3:8a251a5b642cbbbe"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 4,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:24:5"
+                ],
+                "column" : 11,
+                "endColumn" : 29,
+                "endLine" : 24,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:24:11",
+                "line" : 24,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5",
+                  "sequence:0"
+                ]
+              },
+              "target" : "strings[8]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 6
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5\/sequence:1:a7d0c4153d67999c",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "beginning",
+                    "syllable" : "lyric-syllable:0:79d9e75c6b5ae28b",
+                    "text" : "za",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:4:d189b901587e6819"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 9,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:24:5"
+                ],
+                "column" : 31,
+                "endColumn" : 49,
+                "endLine" : 24,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:24:31",
+                "line" : 24,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5",
+                  "sequence:1"
+                ]
+              },
+              "target" : "strings[5]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 6
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5\/sequence:2:c404a0c7a2d4897f",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "middle",
+                    "syllable" : "lyric-syllable:1:8cf720ef8e46c7a4",
+                    "text" : "zi",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:4:d189b901587e6819"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 7,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:24:5"
+                ],
+                "column" : 51,
+                "endColumn" : 69,
+                "endLine" : 24,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:24:51",
+                "line" : 24,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5",
+                  "sequence:2"
+                ]
+              },
+              "target" : "strings[6]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 6
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5\/sequence:3:bfdca035d0219616",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "end",
+                    "syllable" : "lyric-syllable:2:261505746a7b3299",
+                    "text" : "na",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:4:d189b901587e6819"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 9,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:24:5"
+                ],
+                "column" : 71,
+                "endColumn" : 89,
+                "endLine" : 24,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:24:71",
+                "line" : 24,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:5:bar:static\/examples\/hurrian-hymn-6.utab:24:5",
+                  "sequence:3"
+                ]
+              },
+              "target" : "strings[5]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 7
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5\/sequence:0:b496026163c49f85",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "beginning",
+                    "syllable" : "lyric-syllable:0:2c07a16546a02a11",
+                    "text" : "ku",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:5:889f316ac3d9a514"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 7,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:25:5"
+                ],
+                "column" : 11,
+                "endColumn" : 29,
+                "endLine" : 25,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:25:11",
+                "line" : 25,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5",
+                  "sequence:0"
+                ]
+              },
+              "target" : "strings[6]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 7
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5\/sequence:1:fbcdd746fa78c428",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "middle",
+                    "syllable" : "lyric-syllable:1:5f963c8cebffcfae",
+                    "text" : "uk",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:5:889f316ac3d9a514"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 9,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:25:5"
+                ],
+                "column" : 31,
+                "endColumn" : 49,
+                "endLine" : 25,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:25:31",
+                "line" : 25,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5",
+                  "sequence:1"
+                ]
+              },
+              "target" : "strings[5]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 7
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5\/sequence:2:9581b22fe6844ec3",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "middle",
+                    "syllable" : "lyric-syllable:2:a0f4e04701895cf7",
+                    "text" : "ku",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:5:889f316ac3d9a514"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 7,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:25:5"
+                ],
+                "column" : 51,
+                "endColumn" : 69,
+                "endLine" : 25,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:25:51",
+                "line" : 25,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5",
+                  "sequence:2"
+                ]
+              },
+              "target" : "strings[6]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 7
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5\/sequence:3:7021a07546338e42",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "middle",
+                    "syllable" : "lyric-syllable:3:610bd86b80e2a664",
+                    "text" : "ub",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:5:889f316ac3d9a514"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 5,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:25:5"
+                ],
+                "column" : 71,
+                "endColumn" : 89,
+                "endLine" : 25,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:25:71",
+                "line" : 25,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:6:bar:static\/examples\/hurrian-hymn-6.utab:25:5",
+                  "sequence:3"
+                ]
+              },
+              "target" : "strings[7]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 8
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5\/sequence:0:307314f651584d99",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "end",
+                    "syllable" : "lyric-syllable:4:974e4ebe89870e45",
+                    "text" : "bi",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:5:889f316ac3d9a514"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 0,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:26:5"
+                ],
+                "column" : 11,
+                "endColumn" : 29,
+                "endLine" : 26,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:26:11",
+                "line" : 26,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5",
+                  "sequence:0"
+                ]
+              },
+              "target" : "strings[3]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 8
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5\/sequence:1:84a24ad8677482dc",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "beginning",
+                    "syllable" : "lyric-syllable:0:781479a9b1191a6",
+                    "text" : "za",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:6:add50314574dca8f"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 2,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:26:5"
+                ],
+                "column" : 31,
+                "endColumn" : 49,
+                "endLine" : 26,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:26:31",
+                "line" : 26,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5",
+                  "sequence:1"
+                ]
+              },
+              "target" : "strings[9]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 8
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5\/sequence:2:c8e718cf8ca17f67",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "middle",
+                    "syllable" : "lyric-syllable:1:9063a809eace798d",
+                    "text" : "ar",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:6:add50314574dca8f"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 0,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:26:5"
+                ],
+                "column" : 51,
+                "endColumn" : 69,
+                "endLine" : 26,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:26:51",
+                "line" : 26,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5",
+                  "sequence:2"
+                ]
+              },
+              "target" : "strings[3]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 8
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5\/sequence:3:215507c685e03f6",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "middle",
+                    "syllable" : "lyric-syllable:2:2785e70f1173dd4",
+                    "text" : "pí",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:6:add50314574dca8f"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 2,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:26:5"
+                ],
+                "column" : 71,
+                "endColumn" : 89,
+                "endLine" : 26,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:26:71",
+                "line" : 26,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:7:bar:static\/examples\/hurrian-hymn-6.utab:26:5",
+                  "sequence:3"
+                ]
+              },
+              "target" : "strings[9]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 9
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:8:bar:static\/examples\/hurrian-hymn-6.utab:27:5\/sequence:0:c532990cc5ba5d5d",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "middle",
+                    "syllable" : "lyric-syllable:3:aa3ff223557458ab",
+                    "text" : "iš",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:6:add50314574dca8f"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 0,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:27:5"
+                ],
+                "column" : 11,
+                "endColumn" : 29,
+                "endLine" : 27,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:27:11",
+                "line" : 27,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:8:bar:static\/examples\/hurrian-hymn-6.utab:27:5",
+                  "sequence:0"
+                ]
+              },
+              "target" : "strings[3]"
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 9
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:tablet\/part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11\/voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30\/content:0\/phrase:phrase:reconstructedPitchSequence\/bar:8:bar:static\/examples\/hurrian-hymn-6.utab:27:5\/sequence:1:62acb039117cfe58",
+              "parameters" : {
+                "_lyrics" : [
+                  {
+                    "position" : "end",
+                    "syllable" : "lyric-syllable:4:eab7f3ecbcfc8a3a",
+                    "text" : "ša",
+                    "verse" : "lyrics:static\/examples\/hurrian-hymn-6.utab:36:17",
+                    "word" : "lyric-word:6:add50314574dca8f"
+                  }
+                ],
+                "pitch" : {
+                  "degree" : 2,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:reconstructedPitchSequence",
+                  "bar:static\/examples\/hurrian-hymn-6.utab:27:5"
+                ],
+                "column" : 31,
+                "endColumn" : 49,
+                "endLine" : 27,
+                "file" : "static\/examples\/hurrian-hymn-6.utab",
+                "id" : "actuator:static\/examples\/hurrian-hymn-6.utab:27:31",
+                "line" : 27,
+                "path" : [
+                  "section:section:tablet",
+                  "part:0:part:static\/examples\/hurrian-hymn-6.utab:31:11",
+                  "voice:0:voice:static\/examples\/hurrian-hymn-6.utab:32:30",
+                  "content:0",
+                  "phrase:phrase:reconstructedPitchSequence",
+                  "bar:8:bar:static\/examples\/hurrian-hymn-6.utab:27:5",
+                  "sequence:1"
+                ]
+              },
+              "target" : "strings[9]"
+            }
+          ],
+          "section" : "section:tablet",
+          "source" : {
+            "column" : 25,
+            "endColumn" : 2,
+            "endLine" : 41,
+            "file" : "static\/examples\/hurrian-hymn-6.utab",
+            "id" : "section:tablet",
+            "line" : 30
+          }
+        }
+      ]
+    }
+  ],
+  "utab" : {
+    "documentId" : "composition:static\/examples\/hurrian-hymn-6.utab:1:1",
+    "encoding" : {
+      "description" : "Generated from the high-level semantic compiler pipeline",
+      "software" : [
+        "UTABLowering"
+      ]
+    },
+    "miscellaneous" : {
+      "sourceCompositionID" : "composition:static\/examples\/hurrian-hymn-6.utab:1:1",
+      "sourceMapping" : "event-id-and-parameters"
+    },
+    "title" : "Hurrian Hymn No. 6 (Hymn to Nikkal) — pitch reconstruction",
+    "version" : "0.1-draft"
+  }
+}

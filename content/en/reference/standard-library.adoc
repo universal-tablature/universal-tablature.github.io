@@ -1,0 +1,174 @@
+---
+title: Composer standard library
+linkTitle: Standard library
+weight: 30
+description: Bundled profiles, instruments, tunings, and musical symbol modules.
+---
+
+The Composer standard library is a set of `.utab` modules bundled with the
+compiler. Import a module by its declared name; file paths are an implementation
+detail.
+
+[source,utab]
+----
+import instruments.piano
+import instruments.guitar
+import std.harmony.roman
+
+instrument piano : Piano
+instrument guitar : Guitar
+----
+
+[NOTE]
+====
+This overview describes the current `0.1-draft` library. Names and catalogue
+coverage may change while the language and instrument model evolve.
+====
+
+== Convenience import
+
+`instruments.standard` imports the complete instrument collection, including
+the alternate guitar tunings. Explicit imports make dependencies clearer and
+are preferable when a score only needs a few models.
+
+== Capability profiles
+
+Profiles describe what an instrument can actuate and which interactions and
+techniques it supports. Scores usually import instrument modules rather than
+profiles directly; model-authoring modules use these profiles as their base.
+
+[cols="2,3",options="header"]
+|===
+|Module |Exported profiles
+
+|`profiles.core`
+|`FrettedStrings`, `PluckedCourses`, `PluckedOpenStrings`,
+`FretlessBowedStrings`, `Keyboard`, `SingingVoice`
+
+|`profiles.nyckelharpa`
+|`KeyedBowedStrings`
+
+|`profiles.percussion`
+|`UnpitchedPercussion`, `PitchedPercussion`, `TunableDrums`
+
+|`profiles.wind`
+|`AirColumnWind`, `SingleReedWind`, `Saxophone`, `KeyedAirColumnWind`,
+`ValvedBrass`, `SlideBrass`, `MouthOrgan`, `BellowsFreeReed`, `DoubleReedWind`
+|===
+
+== Common instruments
+
+[cols="2,3",options="header"]
+|===
+|Module |Exported models
+
+|`instruments.piano`
+|`Piano`
+
+|`instruments.guitar`
+|`Guitar`, with standard tuning and several G-major chord shapes
+
+|`instruments.guitar.twelve-string`
+|`TwelveStringGuitar`
+
+|`instruments.guitarlele`
+|`Guitarlele`
+
+|`instruments.banjo`
+|`FiveStringBanjo`
+
+|`instruments.violin`
+|`Violin`
+
+|`instruments.cello`
+|`Cello`
+
+|`instruments.voice`
+|`Voice`
+|===
+
+== Historical and regional strings
+
+`instruments.lute.renaissance` exports `RenaissanceLute`,
+`RenaissanceLuteEightCourse`, `RenaissanceLuteTenCourse`,
+`BaroqueLuteElevenCourse`, `BaroqueLuteThirteenCourse`,
+`ArchluteFourteenCourse`, `TheorboFourteenCourse`, and `RenaissanceVihuela`.
+It also provides equal-temperament, Pythagorean, quarter-comma meantone, and
+sixth-comma meantone scale definitions, plus model tunings.
+
+`instruments.oud.arabic` exports `ArabicOud`, its default tuning, and the
+`MaqamRast`, `MaqamBayati`, `MaqamHijaz`, `MaqamNahawand`, `MaqamKurd`,
+`MaqamAjam`, and `MaqamSaba` cent-based scales.
+
+`instruments.lyre.sammu` exports `NineStringSammu` and a reconstructed tuning.
+The link:/en/tutorials/hurrian-hymn/[Hurrian Hymn tutorial] uses this model.
+
+`instruments.nyckelharpa` exports `KromatiskNyckelharpa`, `Kontrabasharpa`,
+`Silverbasharpa`, `Oktavharpa`, `Moraharpa`, `Esseharpa`, and `Vefsenharpa`, with
+tunings where defined.
+
+== Wind and free-reed instruments
+
+`instruments.wind` exports:
+
+* `SopranoRecorder`, `AltoRecorder`, `TenorRecorder`, and `BassRecorder`
+* `ConcertFlute`
+* `BbTrumpet` and `TenorTrombone`
+* `C10DiatonicHarmonica`
+* `PianoAccordion` and `AngloConcertina`
+* `BbClarinet`
+* `AltoSaxophone` and `TenorSaxophone`
+* `Oboe` and `Bassoon`
+
+The module includes fingering tables for selected recorder, flute, clarinet,
+saxophone, and trumpet models.
+
+== Percussion
+
+`instruments.percussion` exports `SnareDrum`, `BassDrum`, `Tambourine`,
+`Triangle`, `DrumKit`, `Xylophone`, `Marimba`, `Glockenspiel`, `Vibraphone`, and
+`Timpani`.
+
+== Tunings
+
+[cols="2,3",options="header"]
+|===
+|Module |Contribution
+
+|`tunings.guitar.drop`
+|Adds the `dropD` tuning to `Guitar`.
+
+|`tunings.guitar.dadgad`
+|Adds the `dadgad` tuning to `Guitar`.
+|===
+
+Instrument modules also carry their default tunings. A score can select a
+particular model extension when the compiler and authoring API expose tuning
+selection for an instance.
+
+== Musical symbols and utility constants
+
+`std.harmony.roman`:: Major uppercase and minor lowercase diatonic chord
+constants `I` through `VII`; `vii` is diminished.
+
+`std.solfege.fixed`:: Fixed-do pitch-class constants `do`, `re`, `mi`, `fa`,
+`sol`, `la`, and `ti`.
+
+`std.solfege.movable`:: Scale-relative constants `do` through `ti`, mapped to
+degrees `@1` through `@7`.
+
+`std.notes.oud.arabic`:: Scale-relative Arabic pitch names `qarar_rast`, `duka`,
+`sikah`, `jaharkah`, `nawa`, `husayni`, `awj`, and `kirdan`. Their intonation
+follows the active maqam.
+
+`std.midi`:: General MIDI program constants currently used by bundled models:
+`acousticGrandPiano`, `xylophone`, `nylonStringGuitar`, `steelStringGuitar`,
+`cello`, and `choirAahs`.
+
+== Qualified names and stable IDs
+
+Imported public symbols can be referenced by their short names when
+unambiguous. Qualified names can disambiguate symbols from different modules.
+Instrument catalogue declarations also carry quoted stable IDs such as
+`"instrument:guitar:classical-six-string"`; these identify catalogue entities
+independently of the source-level symbol name.

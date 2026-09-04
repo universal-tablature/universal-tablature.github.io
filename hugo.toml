@@ -4,8 +4,13 @@ title = 'Universal Tablature'
 
 [[menu.main]]
 name = 'Language reference'
-url = '/en/reference/'
+pageRef = '/en/reference'
 weight = 10
+
+[[menu.main]]
+name = 'Tutorials'
+pageRef = '/en/tutorials'
+weight = 20
 
 [markup.asciidocExt]
 backend = 'html5'

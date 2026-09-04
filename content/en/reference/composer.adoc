@@ -154,6 +154,25 @@ name as an expression references it.
 `perform pattern { chords }`:: Applies a declared performance pattern to a chord
 progression.
 
+=== Direct actuator interactions
+
+An interaction can directly address an instrument actuator using
+`action target duration`. Targets use the same canonical path and single-member
+selector syntax as Universal Tablature JSON.
+
+[source,utab]
+----
+pluck strings[9] q
+strike surfaces["snare-head"] q
+press manuals.upper.keys[3] h
+----
+
+The selector may be a positive one-based integer or a quoted member name. Omit
+the selector to address the complete group. The action and target are validated
+against the surrounding instrument's profile, and the exact coordinate survives
+lowering. See the link:/en/tutorials/hurrian-hymn/[Hurrian Hymn tutorial] for a
+score whose source material is best represented as instrument coordinates.
+
 == Sections, instruments, voices, and lyrics
 
 A section establishes a shared timeline. Instrument blocks in the section run
@@ -275,3 +294,10 @@ instruments, and emits link:/en/reference/json/[Universal Tablature JSON]. Diagn
 one-based line and column positions. Source references may be preserved in the
 JSON editing map so authoring tools can trace resolved events back to Composer
 declarations.
+
+== Next steps
+
+* Browse the link:/en/reference/standard-library/[Composer standard library].
+* Work through the link:/en/tutorials/twinkle/[complete Twinkle arrangement].
+* Study the link:/en/tutorials/hurrian-hymn/[Hurrian Hymn reconstruction] for an
+  example that documents uncertainty in its source material.

@@ -1,0 +1,175 @@
+---
+title: Encode a reconstruction of Hurrian Hymn No. 6
+linkTitle: Hurrian Hymn reconstruction
+weight: 20
+description: A historical reconstruction encoded in the Composer Language.
+midi_player: true
+---
+
+Hurrian Hymn No. 6, the Hymn to Nikkal, is preserved on cuneiform fragments from
+Ugarit. Its interpretation is uncertain. The source describes interval and string
+relationships more directly than modern absolute pitches. String coordinates are
+therefore the preferable primary representation for this example; sounding pitches
+are consequences of the selected reconstructed tuning.
+
+++++
+<midi-player src="/examples/hurrian-hymn-6.mid" sound-font></midi-player>
+<p class="small"><a href="/examples/hurrian-hymn-6.mid" download>Download MIDI</a> · <a href="/examples/hurrian-hymn-6.utab" download>Composer source</a> · <a href="/examples/hurrian-hymn-6.utab.json" download>Compiled UTAB JSON</a></p>
+++++
+
+== Import the historical instrument
+
+The standard library provides `NineStringSammu` in `instruments.lyre.sammu`.
+Importing the module makes its model and reconstructed `nidQablimD` default tuning
+available. Strings are numbered from high to low; strings 8 and 9 are lower-octave
+partners of strings 1 and 2.
+
+[source,utab]
+----
+module examples.hurrian-hymn-6
+import instruments.lyre.sammu
+
+title "Hurrian Hymn No. 6 (Hymn to Nikkal) — pitch reconstruction"
+
+// RS 15.30 + 15.49 + 17.387. The tablet does not preserve an unambiguous
+// rhythm or syllable-to-note alignment. Quarter notes, 4/4 grouping, D as the
+// absolute anchor, and the lyric alignment below are explicitly editorial.
+meter 4/4
+tempo 60
+scale D minor
+
+instrument sammu : NineStringSammu as "Nine-string Sammûm / Lyre"
+----
+
+The comments are part of the score’s provenance. They identify the source
+fragments and separate preserved evidence from the chosen rhythm, meter, anchor,
+and alignment.
+
+[cols="1,1,1,1,1,1,1,1,1,1",options="header"]
+|===
+|String |1 |2 |3 |4 |5 |6 |7 |8 |9
+|Pitch under `nidQablimD` |E4 |D4 |C4 |B3 |A3 |G3 |F3 |E3 |D3
+|===
+
+== Encode the reconstructed contour
+
+The reconstructed contour is fundamentally the following string sequence. Bar
+lines and durations remain editorial:
+
+[source,text]
+----
+9 7 9 5 | 6 5 6 5 | 6 7 7 6 | 7 8 4 5 |
+6 5 6 7 | 8 5 6 5 | 6 5 6 7 | 3 9 3 9 | 3 9 (rest)
+----
+
+Composer can encode those coordinates directly as `pluck` interactions. Each
+explicit bar can be checked independently against 4/4.
+
+[source,utab]
+----
+phrase reconstructedPitchSequence {
+    bar { pluck strings[9] q; pluck strings[7] q; pluck strings[9] q; pluck strings[5] q }
+    bar { pluck strings[6] q; pluck strings[5] q; pluck strings[6] q; pluck strings[5] q }
+    bar { pluck strings[6] q; pluck strings[7] q; pluck strings[7] q; pluck strings[6] q }
+    bar { pluck strings[7] q; pluck strings[8] q; pluck strings[4] q; pluck strings[5] q }
+    bar { pluck strings[6] q; pluck strings[5] q; pluck strings[6] q; pluck strings[7] q }
+    bar { pluck strings[8] q; pluck strings[5] q; pluck strings[6] q; pluck strings[5] q }
+    bar { pluck strings[6] q; pluck strings[5] q; pluck strings[6] q; pluck strings[7] q }
+    bar { pluck strings[3] q; pluck strings[9] q; pluck strings[3] q; pluck strings[9] q }
+    bar { pluck strings[3] q; pluck strings[9] q; rest h }
+}
+----
+
+The half-note rest completes the ninth bar without inventing two additional
+pitches.
+
+== Coordinate form in Universal Tablature JSON
+
+At the resolved interchange layer, the same pluck addresses the reconstructed
+instrument directly. `strings[9]` is the performance coordinate that survives a
+change of absolute anchor. A renderer can derive D3 from the selected tuning.
+
+[source,json]
+----
+{
+  "at": { "musical": { "measure": 1, "beat": 1 } },
+  "duration": { "quarterNotes": 1 },
+  "action": "pluck",
+  "target": "strings[9]"
+}
+----
+
+== Add the surviving text and arrangement
+
+The lyric block retains an opening transliteration. Its comment states that the
+full text survives but cannot be aligned securely to individual notes.
+
+[source,utab]
+----
+section tablet : 9 bars {
+    sammu {
+        voice reconstruction {
+            // Opening transliteration only. The surviving Hurrian text is longer,
+            // but its placement under individual notes cannot be recovered securely.
+            lyrics {
+                "a-ta-aḫ-ḫa-aš-ta a-li-it-ta nu-ú-ḫa-aš-ta ti-ta-an-na-pí-en za-zi-na ku-uk-ku-ub-bi za-ar-pí-iš-ša"
+            }
+            reconstructedPitchSequence
+        }
+    }
+}
+
+main { tablet }
+----
+
+== Complete source
+
+[source,utab]
+----
+module examples.hurrian-hymn-6
+import instruments.lyre.sammu
+
+title "Hurrian Hymn No. 6 (Hymn to Nikkal) — pitch reconstruction"
+
+// RS 15.30 + 15.49 + 17.387. The tablet does not preserve an unambiguous
+// rhythm or syllable-to-note alignment. Quarter notes, 4/4 grouping, D as the
+// absolute anchor, and the lyric alignment below are explicitly editorial.
+meter 4/4
+tempo 60
+scale D minor
+
+instrument sammu : NineStringSammu as "Nine-string Sammûm / Lyre"
+
+// Pitch contour from the second member of the tablet's 34 interval pairs,
+// following the high-to-low string numbering used by M. L. West. Strings 1
+// and 2 are rendered with their lower octave partners 8 and 9 where applicable.
+phrase reconstructedPitchSequence {
+    bar { pluck strings[9] q; pluck strings[7] q; pluck strings[9] q; pluck strings[5] q }
+    bar { pluck strings[6] q; pluck strings[5] q; pluck strings[6] q; pluck strings[5] q }
+    bar { pluck strings[6] q; pluck strings[7] q; pluck strings[7] q; pluck strings[6] q }
+    bar { pluck strings[7] q; pluck strings[8] q; pluck strings[4] q; pluck strings[5] q }
+    bar { pluck strings[6] q; pluck strings[5] q; pluck strings[6] q; pluck strings[7] q }
+    bar { pluck strings[8] q; pluck strings[5] q; pluck strings[6] q; pluck strings[5] q }
+    bar { pluck strings[6] q; pluck strings[5] q; pluck strings[6] q; pluck strings[7] q }
+    bar { pluck strings[3] q; pluck strings[9] q; pluck strings[3] q; pluck strings[9] q }
+    bar { pluck strings[3] q; pluck strings[9] q; rest h }
+}
+
+section tablet : 9 bars {
+    sammu {
+        voice reconstruction {
+            // Opening transliteration only. The surviving Hurrian text is longer,
+            // but its placement under individual notes cannot be recovered securely.
+            lyrics {
+                "a-ta-aḫ-ḫa-aš-ta a-li-it-ta nu-ú-ḫa-aš-ta ti-ta-an-na-pí-en za-zi-na ku-uk-ku-ub-bi za-ar-pí-iš-ša"
+            }
+            reconstructedPitchSequence
+        }
+    }
+}
+
+main { tablet }
+----
+
+For the available instrument definition and tuning, see the
+link:/en/reference/standard-library/#_historical_and_regional_strings[standard-library overview].

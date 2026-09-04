@@ -1,0 +1,238 @@
+---
+title: Arrange “Twinkle, Twinkle, Little Star”
+linkTitle: Twinkle arrangement
+weight: 10
+description: A complete multi-instrument Composer Language arrangement.
+midi_player: true
+---
+
+This tutorial builds a complete 12-bar arrangement of “Twinkle, Twinkle, Little
+Star.” It uses a piano, rhythm guitar, lead guitar, and singing voice to show how
+one musical idea can be reused by several performers.
+
+++++
+<midi-player src="/examples/twinkle.mid" sound-font></midi-player>
+<p class="small"><a href="/examples/twinkle.mid" download>Download MIDI</a> · <a href="/examples/twinkle.utab" download>Composer source</a> · <a href="/examples/twinkle.utab.json" download>Compiled UTAB JSON</a></p>
+++++
+
+== 1. Establish the module and musical context
+
+The imports make the three standard-library instrument models available. Meter,
+tempo, and scale supply the context needed to validate bars and resolve relative
+pitches such as `@5[4]`.
+
+[source,utab]
+----
+module examples.twinkle
+import instruments.piano
+import instruments.guitar
+import instruments.voice
+
+title "Twinkle Twinkle Little Star"
+meter 4/4
+tempo 100
+scale C major
+
+instrument piano_i : Piano as "Piano"
+instrument guitar_i : Guitar as "Rhythm Guitar"
+instrument guitar_ii : Guitar as "Lead Guitar"
+instrument voice_i : Voice as "Vocals"
+----
+
+The names ending in `_i` are score-local instrument instances. `Piano`, `Guitar`,
+and `Voice` are models exported by the imported modules.
+
+== 2. Factor the melody and harmony
+
+The tune has the form `A B C C A B`. Each phrase below lasts two bars. Melody
+pitches are scale-relative, so `@1[4]` is C4 and `@5[4]` is G4 in the active C
+major scale.
+
+[source,utab]
+----
+phrase melodyA {
+    bar { @1[4] q; @1[4] q; @5[4] q; @5[4] q }
+    bar { @6[4] q; @6[4] q; @5[4] h }
+}
+
+phrase melodyB {
+    bar { @4[4] q; @4[4] q; @3[4] q; @3[4] q }
+    bar { @2[4] q; @2[4] q; @1[4] h }
+}
+
+phrase melodyC {
+    bar { @5[4] q; @5[4] q; @4[4] q; @4[4] q }
+    bar { @3[4] q; @3[4] q; @2[4] h }
+}
+
+phrase harmonyA {
+    bar { chord C major w }
+    bar { chord C major w }
+}
+
+phrase harmonyB {
+    bar { chord F major w }
+    bar { chord C major w }
+}
+
+phrase harmonyC {
+    bar { chord G major w }
+    bar { chord C major w }
+}
+----
+
+Each `bar` resolves to four quarter notes. The whole-note chords occupy the same
+duration as four quarter-note melody events.
+
+== 3. Assemble parallel parts
+
+The section is declared as 12 bars. Each instrument and each voice has its own
+timeline. The piano melody, lead guitar, and voice reuse the same phrase
+sequence, while the piano accompaniment and rhythm guitar reuse the harmony.
+The `C` phrase is referenced twice to express the repeated middle line.
+
+[source,utab]
+----
+section verse : 12 bars {
+    piano_i {
+        voice melody {
+            melodyA
+            melodyB
+            melodyC
+            melodyC
+            melodyA
+            melodyB
+        }
+        voice accompaniment {
+            harmonyA
+            harmonyB
+            harmonyC
+            harmonyC
+            harmonyA
+            harmonyB
+        }
+    }
+
+    guitar_i {
+        voice rhythm {
+            harmonyA
+            harmonyB
+            harmonyC
+            harmonyC
+            harmonyA
+            harmonyB
+        }
+    }
+
+    guitar_ii {
+        voice lead {
+            melodyA
+            melodyB
+            melodyC
+            melodyC
+            melodyA
+            melodyB
+        }
+    }
+
+    voice_i {
+        voice melody {
+            lyrics {
+                "Twin-kle twin-kle lit-tle star"
+                "How I won-der what you are"
+                "Up a-bove the world so high"
+                "Like a dia-mond in the sky"
+                "Twin-kle twin-kle lit-tle star"
+                "How I won-der what you are"
+            }
+            melodyA
+            melodyB
+            melodyC
+            melodyC
+            melodyA
+            melodyB
+        }
+    }
+}
+
+main { verse }
+----
+
+`main` is the performed arrangement. A larger work can declare several sections
+and list them in order, including the same section more than once.
+
+== Complete source
+
+[source,utab]
+----
+module examples.twinkle
+import instruments.piano
+import instruments.guitar
+import instruments.voice
+
+title "Twinkle Twinkle Little Star"
+meter 4/4
+tempo 100
+scale C major
+
+instrument piano_i : Piano as "Piano"
+instrument guitar_i : Guitar as "Rhythm Guitar"
+instrument guitar_ii : Guitar as "Lead Guitar"
+instrument voice_i : Voice as "Vocals"
+
+phrase melodyA {
+    bar { @1[4] q; @1[4] q; @5[4] q; @5[4] q }
+    bar { @6[4] q; @6[4] q; @5[4] h }
+}
+phrase melodyB {
+    bar { @4[4] q; @4[4] q; @3[4] q; @3[4] q }
+    bar { @2[4] q; @2[4] q; @1[4] h }
+}
+phrase melodyC {
+    bar { @5[4] q; @5[4] q; @4[4] q; @4[4] q }
+    bar { @3[4] q; @3[4] q; @2[4] h }
+}
+phrase harmonyA {
+    bar { chord C major w }
+    bar { chord C major w }
+}
+phrase harmonyB {
+    bar { chord F major w }
+    bar { chord C major w }
+}
+phrase harmonyC {
+    bar { chord G major w }
+    bar { chord C major w }
+}
+
+section verse : 12 bars {
+    piano_i {
+        voice melody { melodyA; melodyB; melodyC; melodyC; melodyA; melodyB }
+        voice accompaniment { harmonyA; harmonyB; harmonyC; harmonyC; harmonyA; harmonyB }
+    }
+    guitar_i {
+        voice rhythm { harmonyA; harmonyB; harmonyC; harmonyC; harmonyA; harmonyB }
+    }
+    guitar_ii {
+        voice lead { melodyA; melodyB; melodyC; melodyC; melodyA; melodyB }
+    }
+    voice_i {
+        voice melody {
+            lyrics {
+                "Twin-kle twin-kle lit-tle star"
+                "How I won-der what you are"
+                "Up a-bove the world so high"
+                "Like a dia-mond in the sky"
+                "Twin-kle twin-kle lit-tle star"
+                "How I won-der what you are"
+            }
+            melodyA; melodyB; melodyC; melodyC; melodyA; melodyB
+        }
+    }
+}
+
+main { verse }
+----
+
+Next, compare the link:/en/tutorials/hurrian-hymn/[Hurrian Hymn tutorial], which
+uses absolute pitches and records uncertainty directly in its source comments.

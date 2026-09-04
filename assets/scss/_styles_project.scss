@@ -5,6 +5,13 @@
   padding-bottom: 2rem;
 }
 
+midi-player {
+  display: block;
+  width: 100%;
+  max-width: 42rem;
+  margin: 1.5rem 0 0.5rem;
+}
+
 @media (min-width: 768px) {
   .td-default > .td-main {
     padding-top: calc(4rem + 1.5rem);
