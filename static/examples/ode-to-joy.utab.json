@@ -1,0 +1,2887 @@
+{
+  "editingMap" : {
+    "containers" : [
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening:c6ba04ecbfb2ce90",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer:db6e8f56bddb763"
+        ],
+        "definitionID" : "voice:static\/examples\/ode-to-joy.utab:30:26",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26:3c782dc16917e64b",
+        "sectionID" : "section:theme",
+        "source" : {
+          "column" : 26,
+          "endColumn" : 45,
+          "endLine" : 30,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "voice:static\/examples\/ode-to-joy.utab:30:26",
+          "line" : 30,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:0:bar:static\/examples\/ode-to-joy.utab:16:5:8e55d2fdd51179a3",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:1:bar:static\/examples\/ode-to-joy.utab:17:5:5b5fa94c09a9fd69",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:2:bar:static\/examples\/ode-to-joy.utab:18:5:8cf97d2d52e5885b",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:3:bar:static\/examples\/ode-to-joy.utab:19:5:fb44b03bc35ea935"
+        ],
+        "definitionID" : "phrase-body:c9562fcd29800547",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening:c6ba04ecbfb2ce90",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:opening"
+          ],
+          "column" : 16,
+          "endColumn" : 2,
+          "endLine" : 20,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "phrase-body:c9562fcd29800547",
+          "line" : 15,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:0",
+            "phrase:phrase:opening"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:0:bar:static\/examples\/ode-to-joy.utab:16:5\/sequence:0:c07bb7824c45d33b",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:0:bar:static\/examples\/ode-to-joy.utab:16:5\/sequence:1:add63273e03bc0f0",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:0:bar:static\/examples\/ode-to-joy.utab:16:5\/sequence:2:a55840bf325db6d0",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:0:bar:static\/examples\/ode-to-joy.utab:16:5\/sequence:3:4e6d3af2465d6c07"
+        ],
+        "definitionID" : "sequence:static\/examples\/ode-to-joy.utab:16:5",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:0:bar:static\/examples\/ode-to-joy.utab:16:5:8e55d2fdd51179a3",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:opening",
+            "bar:static\/examples\/ode-to-joy.utab:16:5"
+          ],
+          "column" : 5,
+          "endColumn" : 5,
+          "endLine" : 16,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "sequence:static\/examples\/ode-to-joy.utab:16:5",
+          "line" : 16,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:0",
+            "phrase:phrase:opening",
+            "bar:0:bar:static\/examples\/ode-to-joy.utab:16:5"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:1:bar:static\/examples\/ode-to-joy.utab:17:5\/sequence:0:6208bfb547b37b25",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:1:bar:static\/examples\/ode-to-joy.utab:17:5\/sequence:1:e214140b6e2c14e",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:1:bar:static\/examples\/ode-to-joy.utab:17:5\/sequence:2:f46cf1d7c9970d7e",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:1:bar:static\/examples\/ode-to-joy.utab:17:5\/sequence:3:d7d45019e90ba811"
+        ],
+        "definitionID" : "sequence:static\/examples\/ode-to-joy.utab:17:5",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:1:bar:static\/examples\/ode-to-joy.utab:17:5:5b5fa94c09a9fd69",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:opening",
+            "bar:static\/examples\/ode-to-joy.utab:17:5"
+          ],
+          "column" : 5,
+          "endColumn" : 5,
+          "endLine" : 17,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "sequence:static\/examples\/ode-to-joy.utab:17:5",
+          "line" : 17,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:0",
+            "phrase:phrase:opening",
+            "bar:1:bar:static\/examples\/ode-to-joy.utab:17:5"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:2:bar:static\/examples\/ode-to-joy.utab:18:5\/sequence:0:8f85f67c8375d1e7",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:2:bar:static\/examples\/ode-to-joy.utab:18:5\/sequence:1:757a01cdb5ad288c",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:2:bar:static\/examples\/ode-to-joy.utab:18:5\/sequence:2:be39c5e14fa281dc",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:2:bar:static\/examples\/ode-to-joy.utab:18:5\/sequence:3:58f0e65f5c92eb1b"
+        ],
+        "definitionID" : "sequence:static\/examples\/ode-to-joy.utab:18:5",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:2:bar:static\/examples\/ode-to-joy.utab:18:5:8cf97d2d52e5885b",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:opening",
+            "bar:static\/examples\/ode-to-joy.utab:18:5"
+          ],
+          "column" : 5,
+          "endColumn" : 5,
+          "endLine" : 18,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "sequence:static\/examples\/ode-to-joy.utab:18:5",
+          "line" : 18,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:0",
+            "phrase:phrase:opening",
+            "bar:2:bar:static\/examples\/ode-to-joy.utab:18:5"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:3:bar:static\/examples\/ode-to-joy.utab:19:5\/sequence:0:8e7c7d9292ce75ed",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:3:bar:static\/examples\/ode-to-joy.utab:19:5\/sequence:1:a3ad42ded8ac97fe",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:3:bar:static\/examples\/ode-to-joy.utab:19:5\/sequence:2:bcf5c21a5847e506"
+        ],
+        "definitionID" : "sequence:static\/examples\/ode-to-joy.utab:19:5",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:3:bar:static\/examples\/ode-to-joy.utab:19:5:fb44b03bc35ea935",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:opening",
+            "bar:static\/examples\/ode-to-joy.utab:19:5"
+          ],
+          "column" : 5,
+          "endColumn" : 5,
+          "endLine" : 19,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "sequence:static\/examples\/ode-to-joy.utab:19:5",
+          "line" : 19,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:0",
+            "phrase:phrase:opening",
+            "bar:3:bar:static\/examples\/ode-to-joy.utab:19:5"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:0:bar:static\/examples\/ode-to-joy.utab:23:5:5d81f015eeb9f614",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:1:bar:static\/examples\/ode-to-joy.utab:24:5:949615d2612e4c8",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:2:bar:static\/examples\/ode-to-joy.utab:25:5:6ea0e7425ee629c8",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:3:bar:static\/examples\/ode-to-joy.utab:26:5:7090f8c6898da38c"
+        ],
+        "definitionID" : "phrase-body:1edd5328cb217563",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer:db6e8f56bddb763",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:answer"
+          ],
+          "column" : 15,
+          "endColumn" : 2,
+          "endLine" : 27,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "phrase-body:1edd5328cb217563",
+          "line" : 22,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:1",
+            "phrase:phrase:answer"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:0:bar:static\/examples\/ode-to-joy.utab:23:5\/sequence:0:bccfca84ddd831e8",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:0:bar:static\/examples\/ode-to-joy.utab:23:5\/sequence:1:15af453a4154ebfd",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:0:bar:static\/examples\/ode-to-joy.utab:23:5\/sequence:2:7fe9191b6abd5007",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:0:bar:static\/examples\/ode-to-joy.utab:23:5\/sequence:3:2d222a4c0de71a82"
+        ],
+        "definitionID" : "sequence:static\/examples\/ode-to-joy.utab:23:5",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:0:bar:static\/examples\/ode-to-joy.utab:23:5:5d81f015eeb9f614",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:answer",
+            "bar:static\/examples\/ode-to-joy.utab:23:5"
+          ],
+          "column" : 5,
+          "endColumn" : 5,
+          "endLine" : 23,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "sequence:static\/examples\/ode-to-joy.utab:23:5",
+          "line" : 23,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:1",
+            "phrase:phrase:answer",
+            "bar:0:bar:static\/examples\/ode-to-joy.utab:23:5"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:1:bar:static\/examples\/ode-to-joy.utab:24:5\/sequence:0:42923ec1a76764",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:1:bar:static\/examples\/ode-to-joy.utab:24:5\/sequence:1:178dcf51bca97b01",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:1:bar:static\/examples\/ode-to-joy.utab:24:5\/sequence:2:e3a7b09ea9b7b1a3",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:1:bar:static\/examples\/ode-to-joy.utab:24:5\/sequence:3:b7c3f3073024f9de"
+        ],
+        "definitionID" : "sequence:static\/examples\/ode-to-joy.utab:24:5",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:1:bar:static\/examples\/ode-to-joy.utab:24:5:949615d2612e4c8",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:answer",
+            "bar:static\/examples\/ode-to-joy.utab:24:5"
+          ],
+          "column" : 5,
+          "endColumn" : 5,
+          "endLine" : 24,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "sequence:static\/examples\/ode-to-joy.utab:24:5",
+          "line" : 24,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:1",
+            "phrase:phrase:answer",
+            "bar:1:bar:static\/examples\/ode-to-joy.utab:24:5"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:2:bar:static\/examples\/ode-to-joy.utab:25:5\/sequence:0:1917b31f5c3a2738",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:2:bar:static\/examples\/ode-to-joy.utab:25:5\/sequence:1:1bfe22356126aa2d",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:2:bar:static\/examples\/ode-to-joy.utab:25:5\/sequence:2:52a2c1f27d8af6d7",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:2:bar:static\/examples\/ode-to-joy.utab:25:5\/sequence:3:1fbc452e47418572"
+        ],
+        "definitionID" : "sequence:static\/examples\/ode-to-joy.utab:25:5",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:2:bar:static\/examples\/ode-to-joy.utab:25:5:6ea0e7425ee629c8",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:answer",
+            "bar:static\/examples\/ode-to-joy.utab:25:5"
+          ],
+          "column" : 5,
+          "endColumn" : 5,
+          "endLine" : 25,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "sequence:static\/examples\/ode-to-joy.utab:25:5",
+          "line" : 25,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:1",
+            "phrase:phrase:answer",
+            "bar:2:bar:static\/examples\/ode-to-joy.utab:25:5"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:3:bar:static\/examples\/ode-to-joy.utab:26:5\/sequence:0:73669875b74fef44",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:3:bar:static\/examples\/ode-to-joy.utab:26:5\/sequence:1:7badcf80870de919"
+        ],
+        "definitionID" : "sequence:static\/examples\/ode-to-joy.utab:26:5",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:3:bar:static\/examples\/ode-to-joy.utab:26:5:7090f8c6898da38c",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:answer",
+            "bar:static\/examples\/ode-to-joy.utab:26:5"
+          ],
+          "column" : 5,
+          "endColumn" : 5,
+          "endLine" : 26,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "sequence:static\/examples\/ode-to-joy.utab:26:5",
+          "line" : 26,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:1",
+            "phrase:phrase:answer",
+            "bar:3:bar:static\/examples\/ode-to-joy.utab:26:5"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      }
+    ],
+    "measures" : [
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:0:bar:static\/examples\/ode-to-joy.utab:16:5\/sequence:0:c07bb7824c45d33b",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:0:bar:static\/examples\/ode-to-joy.utab:16:5\/sequence:1:add63273e03bc0f0",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:0:bar:static\/examples\/ode-to-joy.utab:16:5\/sequence:2:a55840bf325db6d0",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:0:bar:static\/examples\/ode-to-joy.utab:16:5\/sequence:3:4e6d3af2465d6c07"
+        ],
+        "id" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26:section:theme:measure:1",
+        "measure" : 1,
+        "sectionID" : "section:theme",
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:1:bar:static\/examples\/ode-to-joy.utab:17:5\/sequence:0:6208bfb547b37b25",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:1:bar:static\/examples\/ode-to-joy.utab:17:5\/sequence:1:e214140b6e2c14e",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:1:bar:static\/examples\/ode-to-joy.utab:17:5\/sequence:2:f46cf1d7c9970d7e",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:1:bar:static\/examples\/ode-to-joy.utab:17:5\/sequence:3:d7d45019e90ba811"
+        ],
+        "id" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26:section:theme:measure:2",
+        "measure" : 2,
+        "sectionID" : "section:theme",
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:2:bar:static\/examples\/ode-to-joy.utab:18:5\/sequence:0:8f85f67c8375d1e7",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:2:bar:static\/examples\/ode-to-joy.utab:18:5\/sequence:1:757a01cdb5ad288c",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:2:bar:static\/examples\/ode-to-joy.utab:18:5\/sequence:2:be39c5e14fa281dc",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:2:bar:static\/examples\/ode-to-joy.utab:18:5\/sequence:3:58f0e65f5c92eb1b"
+        ],
+        "id" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26:section:theme:measure:3",
+        "measure" : 3,
+        "sectionID" : "section:theme",
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:3:bar:static\/examples\/ode-to-joy.utab:19:5\/sequence:0:8e7c7d9292ce75ed",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:3:bar:static\/examples\/ode-to-joy.utab:19:5\/sequence:1:a3ad42ded8ac97fe",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:3:bar:static\/examples\/ode-to-joy.utab:19:5\/sequence:2:bcf5c21a5847e506"
+        ],
+        "id" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26:section:theme:measure:4",
+        "measure" : 4,
+        "sectionID" : "section:theme",
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:0:bar:static\/examples\/ode-to-joy.utab:23:5\/sequence:0:bccfca84ddd831e8",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:0:bar:static\/examples\/ode-to-joy.utab:23:5\/sequence:1:15af453a4154ebfd",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:0:bar:static\/examples\/ode-to-joy.utab:23:5\/sequence:2:7fe9191b6abd5007",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:0:bar:static\/examples\/ode-to-joy.utab:23:5\/sequence:3:2d222a4c0de71a82"
+        ],
+        "id" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26:section:theme:measure:5",
+        "measure" : 5,
+        "sectionID" : "section:theme",
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:1:bar:static\/examples\/ode-to-joy.utab:24:5\/sequence:0:42923ec1a76764",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:1:bar:static\/examples\/ode-to-joy.utab:24:5\/sequence:1:178dcf51bca97b01",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:1:bar:static\/examples\/ode-to-joy.utab:24:5\/sequence:2:e3a7b09ea9b7b1a3",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:1:bar:static\/examples\/ode-to-joy.utab:24:5\/sequence:3:b7c3f3073024f9de"
+        ],
+        "id" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26:section:theme:measure:6",
+        "measure" : 6,
+        "sectionID" : "section:theme",
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:2:bar:static\/examples\/ode-to-joy.utab:25:5\/sequence:0:1917b31f5c3a2738",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:2:bar:static\/examples\/ode-to-joy.utab:25:5\/sequence:1:1bfe22356126aa2d",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:2:bar:static\/examples\/ode-to-joy.utab:25:5\/sequence:2:52a2c1f27d8af6d7",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:2:bar:static\/examples\/ode-to-joy.utab:25:5\/sequence:3:1fbc452e47418572"
+        ],
+        "id" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26:section:theme:measure:7",
+        "measure" : 7,
+        "sectionID" : "section:theme",
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:3:bar:static\/examples\/ode-to-joy.utab:26:5\/sequence:0:73669875b74fef44",
+          "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:3:bar:static\/examples\/ode-to-joy.utab:26:5\/sequence:1:7badcf80870de919"
+        ],
+        "id" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26:section:theme:measure:8",
+        "measure" : 8,
+        "sectionID" : "section:theme",
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      }
+    ],
+    "occurrences" : [
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:16:11",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:0:bar:static\/examples\/ode-to-joy.utab:16:5\/sequence:0:c07bb7824c45d33b",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:opening",
+            "bar:static\/examples\/ode-to-joy.utab:16:5"
+          ],
+          "column" : 11,
+          "endColumn" : 15,
+          "endLine" : 16,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:16:11",
+          "line" : 16,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:0",
+            "phrase:phrase:opening",
+            "bar:0:bar:static\/examples\/ode-to-joy.utab:16:5",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:16:17",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:0:bar:static\/examples\/ode-to-joy.utab:16:5\/sequence:1:add63273e03bc0f0",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:opening",
+            "bar:static\/examples\/ode-to-joy.utab:16:5"
+          ],
+          "column" : 17,
+          "endColumn" : 21,
+          "endLine" : 16,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:16:17",
+          "line" : 16,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:0",
+            "phrase:phrase:opening",
+            "bar:0:bar:static\/examples\/ode-to-joy.utab:16:5",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:16:23",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:0:bar:static\/examples\/ode-to-joy.utab:16:5\/sequence:2:a55840bf325db6d0",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:opening",
+            "bar:static\/examples\/ode-to-joy.utab:16:5"
+          ],
+          "column" : 23,
+          "endColumn" : 27,
+          "endLine" : 16,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:16:23",
+          "line" : 16,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:0",
+            "phrase:phrase:opening",
+            "bar:0:bar:static\/examples\/ode-to-joy.utab:16:5",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:16:29",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:0:bar:static\/examples\/ode-to-joy.utab:16:5\/sequence:3:4e6d3af2465d6c07",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:opening",
+            "bar:static\/examples\/ode-to-joy.utab:16:5"
+          ],
+          "column" : 29,
+          "endColumn" : 33,
+          "endLine" : 16,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:16:29",
+          "line" : 16,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:0",
+            "phrase:phrase:opening",
+            "bar:0:bar:static\/examples\/ode-to-joy.utab:16:5",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:17:11",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:1:bar:static\/examples\/ode-to-joy.utab:17:5\/sequence:0:6208bfb547b37b25",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:opening",
+            "bar:static\/examples\/ode-to-joy.utab:17:5"
+          ],
+          "column" : 11,
+          "endColumn" : 15,
+          "endLine" : 17,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:17:11",
+          "line" : 17,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:0",
+            "phrase:phrase:opening",
+            "bar:1:bar:static\/examples\/ode-to-joy.utab:17:5",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:17:17",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:1:bar:static\/examples\/ode-to-joy.utab:17:5\/sequence:1:e214140b6e2c14e",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:opening",
+            "bar:static\/examples\/ode-to-joy.utab:17:5"
+          ],
+          "column" : 17,
+          "endColumn" : 21,
+          "endLine" : 17,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:17:17",
+          "line" : 17,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:0",
+            "phrase:phrase:opening",
+            "bar:1:bar:static\/examples\/ode-to-joy.utab:17:5",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:17:23",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:1:bar:static\/examples\/ode-to-joy.utab:17:5\/sequence:2:f46cf1d7c9970d7e",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:opening",
+            "bar:static\/examples\/ode-to-joy.utab:17:5"
+          ],
+          "column" : 23,
+          "endColumn" : 27,
+          "endLine" : 17,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:17:23",
+          "line" : 17,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:0",
+            "phrase:phrase:opening",
+            "bar:1:bar:static\/examples\/ode-to-joy.utab:17:5",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:17:29",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:1:bar:static\/examples\/ode-to-joy.utab:17:5\/sequence:3:d7d45019e90ba811",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:opening",
+            "bar:static\/examples\/ode-to-joy.utab:17:5"
+          ],
+          "column" : 29,
+          "endColumn" : 33,
+          "endLine" : 17,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:17:29",
+          "line" : 17,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:0",
+            "phrase:phrase:opening",
+            "bar:1:bar:static\/examples\/ode-to-joy.utab:17:5",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 3
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:18:11",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:2:bar:static\/examples\/ode-to-joy.utab:18:5\/sequence:0:8f85f67c8375d1e7",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:opening",
+            "bar:static\/examples\/ode-to-joy.utab:18:5"
+          ],
+          "column" : 11,
+          "endColumn" : 15,
+          "endLine" : 18,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:18:11",
+          "line" : 18,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:0",
+            "phrase:phrase:opening",
+            "bar:2:bar:static\/examples\/ode-to-joy.utab:18:5",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 3
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:18:17",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:2:bar:static\/examples\/ode-to-joy.utab:18:5\/sequence:1:757a01cdb5ad288c",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:opening",
+            "bar:static\/examples\/ode-to-joy.utab:18:5"
+          ],
+          "column" : 17,
+          "endColumn" : 21,
+          "endLine" : 18,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:18:17",
+          "line" : 18,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:0",
+            "phrase:phrase:opening",
+            "bar:2:bar:static\/examples\/ode-to-joy.utab:18:5",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 3
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:18:23",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:2:bar:static\/examples\/ode-to-joy.utab:18:5\/sequence:2:be39c5e14fa281dc",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:opening",
+            "bar:static\/examples\/ode-to-joy.utab:18:5"
+          ],
+          "column" : 23,
+          "endColumn" : 27,
+          "endLine" : 18,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:18:23",
+          "line" : 18,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:0",
+            "phrase:phrase:opening",
+            "bar:2:bar:static\/examples\/ode-to-joy.utab:18:5",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 3
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:18:29",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:2:bar:static\/examples\/ode-to-joy.utab:18:5\/sequence:3:58f0e65f5c92eb1b",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:opening",
+            "bar:static\/examples\/ode-to-joy.utab:18:5"
+          ],
+          "column" : 29,
+          "endColumn" : 33,
+          "endLine" : 18,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:18:29",
+          "line" : 18,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:0",
+            "phrase:phrase:opening",
+            "bar:2:bar:static\/examples\/ode-to-joy.utab:18:5",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 4
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:19:11",
+        "duration" : {
+          "quarterNotes" : "2\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:3:bar:static\/examples\/ode-to-joy.utab:19:5\/sequence:0:8e7c7d9292ce75ed",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:opening",
+            "bar:static\/examples\/ode-to-joy.utab:19:5"
+          ],
+          "column" : 11,
+          "endColumn" : 15,
+          "endLine" : 19,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:19:11",
+          "line" : 19,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:0",
+            "phrase:phrase:opening",
+            "bar:3:bar:static\/examples\/ode-to-joy.utab:19:5",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 4
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:19:17",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:3:bar:static\/examples\/ode-to-joy.utab:19:5\/sequence:1:a3ad42ded8ac97fe",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:opening",
+            "bar:static\/examples\/ode-to-joy.utab:19:5"
+          ],
+          "column" : 17,
+          "endColumn" : 21,
+          "endLine" : 19,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:19:17",
+          "line" : 19,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:0",
+            "phrase:phrase:opening",
+            "bar:3:bar:static\/examples\/ode-to-joy.utab:19:5",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 4
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:19:23",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:3:bar:static\/examples\/ode-to-joy.utab:19:5\/sequence:2:bcf5c21a5847e506",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:opening",
+            "bar:static\/examples\/ode-to-joy.utab:19:5"
+          ],
+          "column" : 23,
+          "endColumn" : 27,
+          "endLine" : 19,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:19:23",
+          "line" : 19,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:0",
+            "phrase:phrase:opening",
+            "bar:3:bar:static\/examples\/ode-to-joy.utab:19:5",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 5
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:23:11",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:0:bar:static\/examples\/ode-to-joy.utab:23:5\/sequence:0:bccfca84ddd831e8",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:answer",
+            "bar:static\/examples\/ode-to-joy.utab:23:5"
+          ],
+          "column" : 11,
+          "endColumn" : 15,
+          "endLine" : 23,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:23:11",
+          "line" : 23,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:1",
+            "phrase:phrase:answer",
+            "bar:0:bar:static\/examples\/ode-to-joy.utab:23:5",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 5
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:23:17",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:0:bar:static\/examples\/ode-to-joy.utab:23:5\/sequence:1:15af453a4154ebfd",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:answer",
+            "bar:static\/examples\/ode-to-joy.utab:23:5"
+          ],
+          "column" : 17,
+          "endColumn" : 21,
+          "endLine" : 23,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:23:17",
+          "line" : 23,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:1",
+            "phrase:phrase:answer",
+            "bar:0:bar:static\/examples\/ode-to-joy.utab:23:5",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 5
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:23:23",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:0:bar:static\/examples\/ode-to-joy.utab:23:5\/sequence:2:7fe9191b6abd5007",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:answer",
+            "bar:static\/examples\/ode-to-joy.utab:23:5"
+          ],
+          "column" : 23,
+          "endColumn" : 27,
+          "endLine" : 23,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:23:23",
+          "line" : 23,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:1",
+            "phrase:phrase:answer",
+            "bar:0:bar:static\/examples\/ode-to-joy.utab:23:5",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 5
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:23:29",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:0:bar:static\/examples\/ode-to-joy.utab:23:5\/sequence:3:2d222a4c0de71a82",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:answer",
+            "bar:static\/examples\/ode-to-joy.utab:23:5"
+          ],
+          "column" : 29,
+          "endColumn" : 33,
+          "endLine" : 23,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:23:29",
+          "line" : 23,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:1",
+            "phrase:phrase:answer",
+            "bar:0:bar:static\/examples\/ode-to-joy.utab:23:5",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 6
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:24:11",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:1:bar:static\/examples\/ode-to-joy.utab:24:5\/sequence:0:42923ec1a76764",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:answer",
+            "bar:static\/examples\/ode-to-joy.utab:24:5"
+          ],
+          "column" : 11,
+          "endColumn" : 15,
+          "endLine" : 24,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:24:11",
+          "line" : 24,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:1",
+            "phrase:phrase:answer",
+            "bar:1:bar:static\/examples\/ode-to-joy.utab:24:5",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 6
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:24:17",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:1:bar:static\/examples\/ode-to-joy.utab:24:5\/sequence:1:178dcf51bca97b01",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:answer",
+            "bar:static\/examples\/ode-to-joy.utab:24:5"
+          ],
+          "column" : 17,
+          "endColumn" : 21,
+          "endLine" : 24,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:24:17",
+          "line" : 24,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:1",
+            "phrase:phrase:answer",
+            "bar:1:bar:static\/examples\/ode-to-joy.utab:24:5",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 6
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:24:23",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:1:bar:static\/examples\/ode-to-joy.utab:24:5\/sequence:2:e3a7b09ea9b7b1a3",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:answer",
+            "bar:static\/examples\/ode-to-joy.utab:24:5"
+          ],
+          "column" : 23,
+          "endColumn" : 27,
+          "endLine" : 24,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:24:23",
+          "line" : 24,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:1",
+            "phrase:phrase:answer",
+            "bar:1:bar:static\/examples\/ode-to-joy.utab:24:5",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 6
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:24:29",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:1:bar:static\/examples\/ode-to-joy.utab:24:5\/sequence:3:b7c3f3073024f9de",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:answer",
+            "bar:static\/examples\/ode-to-joy.utab:24:5"
+          ],
+          "column" : 29,
+          "endColumn" : 33,
+          "endLine" : 24,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:24:29",
+          "line" : 24,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:1",
+            "phrase:phrase:answer",
+            "bar:1:bar:static\/examples\/ode-to-joy.utab:24:5",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 7
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:25:11",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:2:bar:static\/examples\/ode-to-joy.utab:25:5\/sequence:0:1917b31f5c3a2738",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:answer",
+            "bar:static\/examples\/ode-to-joy.utab:25:5"
+          ],
+          "column" : 11,
+          "endColumn" : 15,
+          "endLine" : 25,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:25:11",
+          "line" : 25,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:1",
+            "phrase:phrase:answer",
+            "bar:2:bar:static\/examples\/ode-to-joy.utab:25:5",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 7
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:25:17",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:2:bar:static\/examples\/ode-to-joy.utab:25:5\/sequence:1:1bfe22356126aa2d",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:answer",
+            "bar:static\/examples\/ode-to-joy.utab:25:5"
+          ],
+          "column" : 17,
+          "endColumn" : 21,
+          "endLine" : 25,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:25:17",
+          "line" : 25,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:1",
+            "phrase:phrase:answer",
+            "bar:2:bar:static\/examples\/ode-to-joy.utab:25:5",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 7
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:25:23",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:2:bar:static\/examples\/ode-to-joy.utab:25:5\/sequence:2:52a2c1f27d8af6d7",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:answer",
+            "bar:static\/examples\/ode-to-joy.utab:25:5"
+          ],
+          "column" : 23,
+          "endColumn" : 27,
+          "endLine" : 25,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:25:23",
+          "line" : 25,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:1",
+            "phrase:phrase:answer",
+            "bar:2:bar:static\/examples\/ode-to-joy.utab:25:5",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 7
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:25:29",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:2:bar:static\/examples\/ode-to-joy.utab:25:5\/sequence:3:1fbc452e47418572",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:answer",
+            "bar:static\/examples\/ode-to-joy.utab:25:5"
+          ],
+          "column" : 29,
+          "endColumn" : 33,
+          "endLine" : 25,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:25:29",
+          "line" : 25,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:1",
+            "phrase:phrase:answer",
+            "bar:2:bar:static\/examples\/ode-to-joy.utab:25:5",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 8
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:26:11",
+        "duration" : {
+          "quarterNotes" : "2\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:3:bar:static\/examples\/ode-to-joy.utab:26:5\/sequence:0:73669875b74fef44",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:answer",
+            "bar:static\/examples\/ode-to-joy.utab:26:5"
+          ],
+          "column" : 11,
+          "endColumn" : 15,
+          "endLine" : 26,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:26:11",
+          "line" : 26,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:1",
+            "phrase:phrase:answer",
+            "bar:3:bar:static\/examples\/ode-to-joy.utab:26:5",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 8
+          }
+        },
+        "definitionID" : "note:static\/examples\/ode-to-joy.utab:26:17",
+        "duration" : {
+          "quarterNotes" : "2\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:3:bar:static\/examples\/ode-to-joy.utab:26:5\/sequence:1:7badcf80870de919",
+        "sectionID" : "section:theme",
+        "source" : {
+          "ancestry" : [
+            "phrase:answer",
+            "bar:static\/examples\/ode-to-joy.utab:26:5"
+          ],
+          "column" : 17,
+          "endColumn" : 21,
+          "endLine" : 26,
+          "file" : "static\/examples\/ode-to-joy.utab",
+          "id" : "note:static\/examples\/ode-to-joy.utab:26:17",
+          "line" : 26,
+          "path" : [
+            "section:section:theme",
+            "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+            "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+            "content:1",
+            "phrase:phrase:answer",
+            "bar:3:bar:static\/examples\/ode-to-joy.utab:26:5",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26"
+      }
+    ],
+    "scale" : {
+      "centIntervals" : [
+        0,
+        200,
+        400,
+        500,
+        700,
+        900,
+        1100
+      ],
+      "name" : "major",
+      "tonic" : "C"
+    },
+    "version" : 1
+  },
+  "setup" : {
+    "arrangement" : [
+      {
+        "id" : "section-occurrence:main\/sequence:0\/reference:section-reference:static\/examples\/ode-to-joy.utab:33:8:fe627d987cbfd7d7",
+        "section" : "section:theme"
+      }
+    ],
+    "instruments" : [
+      {
+        "id" : "piano",
+        "name" : "Piano",
+        "profile" : "profile:generated:piano",
+        "realization" : {
+          "midi" : {
+            "percussion" : false,
+            "program" : 1
+          }
+        }
+      }
+    ],
+    "profiles" : [
+      {
+        "actuators" : {
+          "keys" : {
+            "count" : 47,
+            "type" : "generated"
+          }
+        },
+        "id" : "profile:generated:piano",
+        "interactions" : {
+          "press" : {
+
+          }
+        },
+        "name" : "Generated Piano profile",
+        "profileVersion" : "0.1-draft"
+      }
+    ],
+    "sections" : [
+      {
+        "id" : "section:theme",
+        "length" : {
+          "measures" : 8
+        },
+        "meterMap" : [
+          {
+            "at" : {
+              "measure" : 1
+            },
+            "denominator" : 4,
+            "numerator" : 4
+          }
+        ],
+        "name" : "theme"
+      }
+    ],
+    "time" : {
+      "meter" : {
+        "denominator" : 4,
+        "numerator" : 4
+      },
+      "tempo" : {
+        "quarterNotesPerMinute" : 108
+      }
+    },
+    "tunings" : [
+      {
+        "divisions" : 12,
+        "id" : "12edo",
+        "names" : {
+          "A" : 9,
+          "Ab" : 8,
+          "B" : 11,
+          "Bb" : 10,
+          "C" : 0,
+          "C#" : 1,
+          "D" : 2,
+          "E" : 4,
+          "Eb" : 3,
+          "F" : 5,
+          "F#" : 6,
+          "G" : 7
+        },
+        "periodRatio" : "2\/1",
+        "reference" : {
+          "frequencyHz" : 440,
+          "pitch" : {
+            "degree" : 9,
+            "period" : 4
+          }
+        },
+        "type" : "equalDivision"
+      }
+    ]
+  },
+  "tracks" : [
+    {
+      "id" : "track:piano:voice:static\/examples\/ode-to-joy.utab:30:26",
+      "instrument" : "piano",
+      "name" : "Piano — melody",
+      "parts" : [
+        {
+          "events" : [
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:0:bar:static\/examples\/ode-to-joy.utab:16:5\/sequence:0:c07bb7824c45d33b",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 4,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:opening",
+                  "bar:static\/examples\/ode-to-joy.utab:16:5"
+                ],
+                "column" : 11,
+                "endColumn" : 15,
+                "endLine" : 16,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:16:11",
+                "line" : 16,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:0",
+                  "phrase:phrase:opening",
+                  "bar:0:bar:static\/examples\/ode-to-joy.utab:16:5",
+                  "sequence:0"
+                ]
+              },
+              "target" : "keys[44]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:0:bar:static\/examples\/ode-to-joy.utab:16:5\/sequence:1:add63273e03bc0f0",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 4,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:opening",
+                  "bar:static\/examples\/ode-to-joy.utab:16:5"
+                ],
+                "column" : 17,
+                "endColumn" : 21,
+                "endLine" : 16,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:16:17",
+                "line" : 16,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:0",
+                  "phrase:phrase:opening",
+                  "bar:0:bar:static\/examples\/ode-to-joy.utab:16:5",
+                  "sequence:1"
+                ]
+              },
+              "target" : "keys[44]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:0:bar:static\/examples\/ode-to-joy.utab:16:5\/sequence:2:a55840bf325db6d0",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 5,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:opening",
+                  "bar:static\/examples\/ode-to-joy.utab:16:5"
+                ],
+                "column" : 23,
+                "endColumn" : 27,
+                "endLine" : 16,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:16:23",
+                "line" : 16,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:0",
+                  "phrase:phrase:opening",
+                  "bar:0:bar:static\/examples\/ode-to-joy.utab:16:5",
+                  "sequence:2"
+                ]
+              },
+              "target" : "keys[45]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:0:bar:static\/examples\/ode-to-joy.utab:16:5\/sequence:3:4e6d3af2465d6c07",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 7,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:opening",
+                  "bar:static\/examples\/ode-to-joy.utab:16:5"
+                ],
+                "column" : 29,
+                "endColumn" : 33,
+                "endLine" : 16,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:16:29",
+                "line" : 16,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:0",
+                  "phrase:phrase:opening",
+                  "bar:0:bar:static\/examples\/ode-to-joy.utab:16:5",
+                  "sequence:3"
+                ]
+              },
+              "target" : "keys[47]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:1:bar:static\/examples\/ode-to-joy.utab:17:5\/sequence:0:6208bfb547b37b25",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 7,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:opening",
+                  "bar:static\/examples\/ode-to-joy.utab:17:5"
+                ],
+                "column" : 11,
+                "endColumn" : 15,
+                "endLine" : 17,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:17:11",
+                "line" : 17,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:0",
+                  "phrase:phrase:opening",
+                  "bar:1:bar:static\/examples\/ode-to-joy.utab:17:5",
+                  "sequence:0"
+                ]
+              },
+              "target" : "keys[47]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:1:bar:static\/examples\/ode-to-joy.utab:17:5\/sequence:1:e214140b6e2c14e",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 5,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:opening",
+                  "bar:static\/examples\/ode-to-joy.utab:17:5"
+                ],
+                "column" : 17,
+                "endColumn" : 21,
+                "endLine" : 17,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:17:17",
+                "line" : 17,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:0",
+                  "phrase:phrase:opening",
+                  "bar:1:bar:static\/examples\/ode-to-joy.utab:17:5",
+                  "sequence:1"
+                ]
+              },
+              "target" : "keys[45]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:1:bar:static\/examples\/ode-to-joy.utab:17:5\/sequence:2:f46cf1d7c9970d7e",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 4,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:opening",
+                  "bar:static\/examples\/ode-to-joy.utab:17:5"
+                ],
+                "column" : 23,
+                "endColumn" : 27,
+                "endLine" : 17,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:17:23",
+                "line" : 17,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:0",
+                  "phrase:phrase:opening",
+                  "bar:1:bar:static\/examples\/ode-to-joy.utab:17:5",
+                  "sequence:2"
+                ]
+              },
+              "target" : "keys[44]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:1:bar:static\/examples\/ode-to-joy.utab:17:5\/sequence:3:d7d45019e90ba811",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 2,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:opening",
+                  "bar:static\/examples\/ode-to-joy.utab:17:5"
+                ],
+                "column" : 29,
+                "endColumn" : 33,
+                "endLine" : 17,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:17:29",
+                "line" : 17,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:0",
+                  "phrase:phrase:opening",
+                  "bar:1:bar:static\/examples\/ode-to-joy.utab:17:5",
+                  "sequence:3"
+                ]
+              },
+              "target" : "keys[42]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 3
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:2:bar:static\/examples\/ode-to-joy.utab:18:5\/sequence:0:8f85f67c8375d1e7",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 0,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:opening",
+                  "bar:static\/examples\/ode-to-joy.utab:18:5"
+                ],
+                "column" : 11,
+                "endColumn" : 15,
+                "endLine" : 18,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:18:11",
+                "line" : 18,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:0",
+                  "phrase:phrase:opening",
+                  "bar:2:bar:static\/examples\/ode-to-joy.utab:18:5",
+                  "sequence:0"
+                ]
+              },
+              "target" : "keys[40]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 3
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:2:bar:static\/examples\/ode-to-joy.utab:18:5\/sequence:1:757a01cdb5ad288c",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 0,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:opening",
+                  "bar:static\/examples\/ode-to-joy.utab:18:5"
+                ],
+                "column" : 17,
+                "endColumn" : 21,
+                "endLine" : 18,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:18:17",
+                "line" : 18,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:0",
+                  "phrase:phrase:opening",
+                  "bar:2:bar:static\/examples\/ode-to-joy.utab:18:5",
+                  "sequence:1"
+                ]
+              },
+              "target" : "keys[40]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 3
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:2:bar:static\/examples\/ode-to-joy.utab:18:5\/sequence:2:be39c5e14fa281dc",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 2,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:opening",
+                  "bar:static\/examples\/ode-to-joy.utab:18:5"
+                ],
+                "column" : 23,
+                "endColumn" : 27,
+                "endLine" : 18,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:18:23",
+                "line" : 18,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:0",
+                  "phrase:phrase:opening",
+                  "bar:2:bar:static\/examples\/ode-to-joy.utab:18:5",
+                  "sequence:2"
+                ]
+              },
+              "target" : "keys[42]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 3
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:2:bar:static\/examples\/ode-to-joy.utab:18:5\/sequence:3:58f0e65f5c92eb1b",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 4,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:opening",
+                  "bar:static\/examples\/ode-to-joy.utab:18:5"
+                ],
+                "column" : 29,
+                "endColumn" : 33,
+                "endLine" : 18,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:18:29",
+                "line" : 18,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:0",
+                  "phrase:phrase:opening",
+                  "bar:2:bar:static\/examples\/ode-to-joy.utab:18:5",
+                  "sequence:3"
+                ]
+              },
+              "target" : "keys[44]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 4
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "2\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:3:bar:static\/examples\/ode-to-joy.utab:19:5\/sequence:0:8e7c7d9292ce75ed",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 4,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:opening",
+                  "bar:static\/examples\/ode-to-joy.utab:19:5"
+                ],
+                "column" : 11,
+                "endColumn" : 15,
+                "endLine" : 19,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:19:11",
+                "line" : 19,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:0",
+                  "phrase:phrase:opening",
+                  "bar:3:bar:static\/examples\/ode-to-joy.utab:19:5",
+                  "sequence:0"
+                ]
+              },
+              "target" : "keys[44]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 4
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:3:bar:static\/examples\/ode-to-joy.utab:19:5\/sequence:1:a3ad42ded8ac97fe",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 2,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:opening",
+                  "bar:static\/examples\/ode-to-joy.utab:19:5"
+                ],
+                "column" : 17,
+                "endColumn" : 21,
+                "endLine" : 19,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:19:17",
+                "line" : 19,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:0",
+                  "phrase:phrase:opening",
+                  "bar:3:bar:static\/examples\/ode-to-joy.utab:19:5",
+                  "sequence:1"
+                ]
+              },
+              "target" : "keys[42]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 4
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:0\/phrase:phrase:opening\/bar:3:bar:static\/examples\/ode-to-joy.utab:19:5\/sequence:2:bcf5c21a5847e506",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 2,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:opening",
+                  "bar:static\/examples\/ode-to-joy.utab:19:5"
+                ],
+                "column" : 23,
+                "endColumn" : 27,
+                "endLine" : 19,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:19:23",
+                "line" : 19,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:0",
+                  "phrase:phrase:opening",
+                  "bar:3:bar:static\/examples\/ode-to-joy.utab:19:5",
+                  "sequence:2"
+                ]
+              },
+              "target" : "keys[42]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 5
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:0:bar:static\/examples\/ode-to-joy.utab:23:5\/sequence:0:bccfca84ddd831e8",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 4,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:answer",
+                  "bar:static\/examples\/ode-to-joy.utab:23:5"
+                ],
+                "column" : 11,
+                "endColumn" : 15,
+                "endLine" : 23,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:23:11",
+                "line" : 23,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:1",
+                  "phrase:phrase:answer",
+                  "bar:0:bar:static\/examples\/ode-to-joy.utab:23:5",
+                  "sequence:0"
+                ]
+              },
+              "target" : "keys[44]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 5
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:0:bar:static\/examples\/ode-to-joy.utab:23:5\/sequence:1:15af453a4154ebfd",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 4,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:answer",
+                  "bar:static\/examples\/ode-to-joy.utab:23:5"
+                ],
+                "column" : 17,
+                "endColumn" : 21,
+                "endLine" : 23,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:23:17",
+                "line" : 23,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:1",
+                  "phrase:phrase:answer",
+                  "bar:0:bar:static\/examples\/ode-to-joy.utab:23:5",
+                  "sequence:1"
+                ]
+              },
+              "target" : "keys[44]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 5
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:0:bar:static\/examples\/ode-to-joy.utab:23:5\/sequence:2:7fe9191b6abd5007",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 5,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:answer",
+                  "bar:static\/examples\/ode-to-joy.utab:23:5"
+                ],
+                "column" : 23,
+                "endColumn" : 27,
+                "endLine" : 23,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:23:23",
+                "line" : 23,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:1",
+                  "phrase:phrase:answer",
+                  "bar:0:bar:static\/examples\/ode-to-joy.utab:23:5",
+                  "sequence:2"
+                ]
+              },
+              "target" : "keys[45]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 5
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:0:bar:static\/examples\/ode-to-joy.utab:23:5\/sequence:3:2d222a4c0de71a82",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 7,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:answer",
+                  "bar:static\/examples\/ode-to-joy.utab:23:5"
+                ],
+                "column" : 29,
+                "endColumn" : 33,
+                "endLine" : 23,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:23:29",
+                "line" : 23,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:1",
+                  "phrase:phrase:answer",
+                  "bar:0:bar:static\/examples\/ode-to-joy.utab:23:5",
+                  "sequence:3"
+                ]
+              },
+              "target" : "keys[47]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 6
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:1:bar:static\/examples\/ode-to-joy.utab:24:5\/sequence:0:42923ec1a76764",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 7,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:answer",
+                  "bar:static\/examples\/ode-to-joy.utab:24:5"
+                ],
+                "column" : 11,
+                "endColumn" : 15,
+                "endLine" : 24,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:24:11",
+                "line" : 24,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:1",
+                  "phrase:phrase:answer",
+                  "bar:1:bar:static\/examples\/ode-to-joy.utab:24:5",
+                  "sequence:0"
+                ]
+              },
+              "target" : "keys[47]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 6
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:1:bar:static\/examples\/ode-to-joy.utab:24:5\/sequence:1:178dcf51bca97b01",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 5,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:answer",
+                  "bar:static\/examples\/ode-to-joy.utab:24:5"
+                ],
+                "column" : 17,
+                "endColumn" : 21,
+                "endLine" : 24,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:24:17",
+                "line" : 24,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:1",
+                  "phrase:phrase:answer",
+                  "bar:1:bar:static\/examples\/ode-to-joy.utab:24:5",
+                  "sequence:1"
+                ]
+              },
+              "target" : "keys[45]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 6
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:1:bar:static\/examples\/ode-to-joy.utab:24:5\/sequence:2:e3a7b09ea9b7b1a3",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 4,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:answer",
+                  "bar:static\/examples\/ode-to-joy.utab:24:5"
+                ],
+                "column" : 23,
+                "endColumn" : 27,
+                "endLine" : 24,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:24:23",
+                "line" : 24,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:1",
+                  "phrase:phrase:answer",
+                  "bar:1:bar:static\/examples\/ode-to-joy.utab:24:5",
+                  "sequence:2"
+                ]
+              },
+              "target" : "keys[44]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 6
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:1:bar:static\/examples\/ode-to-joy.utab:24:5\/sequence:3:b7c3f3073024f9de",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 2,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:answer",
+                  "bar:static\/examples\/ode-to-joy.utab:24:5"
+                ],
+                "column" : 29,
+                "endColumn" : 33,
+                "endLine" : 24,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:24:29",
+                "line" : 24,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:1",
+                  "phrase:phrase:answer",
+                  "bar:1:bar:static\/examples\/ode-to-joy.utab:24:5",
+                  "sequence:3"
+                ]
+              },
+              "target" : "keys[42]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 7
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:2:bar:static\/examples\/ode-to-joy.utab:25:5\/sequence:0:1917b31f5c3a2738",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 0,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:answer",
+                  "bar:static\/examples\/ode-to-joy.utab:25:5"
+                ],
+                "column" : 11,
+                "endColumn" : 15,
+                "endLine" : 25,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:25:11",
+                "line" : 25,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:1",
+                  "phrase:phrase:answer",
+                  "bar:2:bar:static\/examples\/ode-to-joy.utab:25:5",
+                  "sequence:0"
+                ]
+              },
+              "target" : "keys[40]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 7
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:2:bar:static\/examples\/ode-to-joy.utab:25:5\/sequence:1:1bfe22356126aa2d",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 0,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:answer",
+                  "bar:static\/examples\/ode-to-joy.utab:25:5"
+                ],
+                "column" : 17,
+                "endColumn" : 21,
+                "endLine" : 25,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:25:17",
+                "line" : 25,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:1",
+                  "phrase:phrase:answer",
+                  "bar:2:bar:static\/examples\/ode-to-joy.utab:25:5",
+                  "sequence:1"
+                ]
+              },
+              "target" : "keys[40]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 7
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:2:bar:static\/examples\/ode-to-joy.utab:25:5\/sequence:2:52a2c1f27d8af6d7",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 2,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:answer",
+                  "bar:static\/examples\/ode-to-joy.utab:25:5"
+                ],
+                "column" : 23,
+                "endColumn" : 27,
+                "endLine" : 25,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:25:23",
+                "line" : 25,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:1",
+                  "phrase:phrase:answer",
+                  "bar:2:bar:static\/examples\/ode-to-joy.utab:25:5",
+                  "sequence:2"
+                ]
+              },
+              "target" : "keys[42]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 7
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:2:bar:static\/examples\/ode-to-joy.utab:25:5\/sequence:3:1fbc452e47418572",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 4,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:answer",
+                  "bar:static\/examples\/ode-to-joy.utab:25:5"
+                ],
+                "column" : 29,
+                "endColumn" : 33,
+                "endLine" : 25,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:25:29",
+                "line" : 25,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:1",
+                  "phrase:phrase:answer",
+                  "bar:2:bar:static\/examples\/ode-to-joy.utab:25:5",
+                  "sequence:3"
+                ]
+              },
+              "target" : "keys[44]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 8
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "2\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:3:bar:static\/examples\/ode-to-joy.utab:26:5\/sequence:0:73669875b74fef44",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 2,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:answer",
+                  "bar:static\/examples\/ode-to-joy.utab:26:5"
+                ],
+                "column" : 11,
+                "endColumn" : 15,
+                "endLine" : 26,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:26:11",
+                "line" : 26,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:1",
+                  "phrase:phrase:answer",
+                  "bar:3:bar:static\/examples\/ode-to-joy.utab:26:5",
+                  "sequence:0"
+                ]
+              },
+              "target" : "keys[42]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 8
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "2\/1"
+              },
+              "id" : "occurrence:section:section:theme\/part:0:part:static\/examples\/ode-to-joy.utab:30:11\/voice:0:voice:static\/examples\/ode-to-joy.utab:30:26\/content:1\/phrase:phrase:answer\/bar:3:bar:static\/examples\/ode-to-joy.utab:26:5\/sequence:1:7badcf80870de919",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 0,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:answer",
+                  "bar:static\/examples\/ode-to-joy.utab:26:5"
+                ],
+                "column" : 17,
+                "endColumn" : 21,
+                "endLine" : 26,
+                "file" : "static\/examples\/ode-to-joy.utab",
+                "id" : "note:static\/examples\/ode-to-joy.utab:26:17",
+                "line" : 26,
+                "path" : [
+                  "section:section:theme",
+                  "part:0:part:static\/examples\/ode-to-joy.utab:30:11",
+                  "voice:0:voice:static\/examples\/ode-to-joy.utab:30:26",
+                  "content:1",
+                  "phrase:phrase:answer",
+                  "bar:3:bar:static\/examples\/ode-to-joy.utab:26:5",
+                  "sequence:1"
+                ]
+              },
+              "target" : "keys[40]"
+            }
+          ],
+          "section" : "section:theme",
+          "source" : {
+            "column" : 24,
+            "endColumn" : 2,
+            "endLine" : 31,
+            "file" : "static\/examples\/ode-to-joy.utab",
+            "id" : "section:theme",
+            "line" : 29
+          }
+        }
+      ]
+    }
+  ],
+  "utab" : {
+    "documentId" : "composition:static\/examples\/ode-to-joy.utab:1:1",
+    "encoding" : {
+      "description" : "Generated from the high-level semantic compiler pipeline",
+      "software" : [
+        "UTABLowering"
+      ]
+    },
+    "miscellaneous" : {
+      "sourceCompositionID" : "composition:static\/examples\/ode-to-joy.utab:1:1",
+      "sourceMapping" : "event-id-and-parameters"
+    },
+    "title" : "Ode to Joy — theme excerpt",
+    "version" : "0.1-draft"
+  }
+}

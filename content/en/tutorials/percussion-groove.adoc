@@ -1,0 +1,58 @@
+---
+title: Write a drum-kit groove with actuator coordinates
+linkTitle: Percussion groove
+weight: 50
+description: An original two-bar percussion example using simultaneous physical targets.
+midi_player: true
+---
+
+This original two-bar study addresses drum-kit playing surfaces directly. It is
+not a transcription or adaptation of an existing composition, arrangement,
+recording, or MIDI file.
+
+++++
+<midi-player src="/examples/percussion-groove-study.mid" sound-font></midi-player>
+<p class="small"><a href="/examples/percussion-groove-study.mid" download>Download MIDI</a> · <a href="/examples/percussion-groove-study.utab" download>Composer source</a> · <a href="/examples/percussion-groove-study.utab.json" download>Compiled UTAB JSON</a></p>
+++++
+
+== Import a concrete kit
+
+[source,utab]
+----
+import instruments.percussion
+instrument kit : DrumKit as "Drum kit"
+----
+
+`DrumKit` uses an unpitched-percussion profile. Its meaningful score coordinates
+are playing surfaces, not staff pitches.
+
+== Combine simultaneous strikes
+
+[source,utab]
+----
+(strike playingSurfaces["kick"] q,
+ strike playingSurfaces["closed-hi-hat"] q)
+----
+
+The comma makes the two strikes parallel. The surrounding sequence advances by
+one quarter note because parallel duration is the maximum child duration.
+Named members remain intact in UTAB, while the MIDI converter maps the standard
+kit names to channel-10 notes.
+
+This distinction becomes more important for regional percussion modules:
+surface, stroke meaning, damping state, pressure, and physical execution are
+modeled independently where the instrument requires them.
+
+== Complete bar
+
+[source,utab]
+----
+bar {
+    (strike playingSurfaces["kick"] q, strike playingSurfaces["closed-hi-hat"] q)
+    (strike playingSurfaces["snare-head"] q, strike playingSurfaces["closed-hi-hat"] q)
+    (strike playingSurfaces["kick"] q, strike playingSurfaces["closed-hi-hat"] q)
+    (strike playingSurfaces["snare-head"] q, strike playingSurfaces["closed-hi-hat"] q)
+}
+----
+
+An explicit `bar` assertion verifies that the four sequential beats equal 4/4.

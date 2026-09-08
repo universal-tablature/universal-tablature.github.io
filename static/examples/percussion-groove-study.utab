@@ -1,0 +1,31 @@
+module examples.percussion-groove-study
+import instruments.percussion
+
+title "Percussion groove study (original)"
+// Original documentation study, authored for the Universal Tablature project.
+// It is not a transcription or adaptation of an existing composition or recording.
+meter 4/4
+tempo 104
+
+instrument kit : DrumKit as "Drum kit"
+
+section groove : 2 bars {
+    kit {
+        voice pattern {
+            bar {
+                (strike playingSurfaces["kick"] q, strike playingSurfaces["closed-hi-hat"] q)
+                (strike playingSurfaces["snare-head"] q, strike playingSurfaces["closed-hi-hat"] q)
+                (strike playingSurfaces["kick"] q, strike playingSurfaces["closed-hi-hat"] q)
+                (strike playingSurfaces["snare-head"] q, strike playingSurfaces["closed-hi-hat"] q)
+            }
+            bar {
+                (strike playingSurfaces["kick"] q, strike playingSurfaces["crash"] q)
+                strike playingSurfaces["closed-hi-hat"] q
+                (strike playingSurfaces["kick"] q, strike playingSurfaces["snare-head"] q)
+                strike playingSurfaces["snare-head"] q
+            }
+        }
+    }
+}
+
+main { groove }

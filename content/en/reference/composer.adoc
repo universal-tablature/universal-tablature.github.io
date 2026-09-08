@@ -120,7 +120,45 @@ use `A` through `G`, with `#` or `b` accidentals.
 |===
 
 Duration symbols are `w` (whole), `h` (half), `q` (quarter), `e` (eighth), and
-`s` (sixteenth).
+`s` (sixteenth). Append one or more dots (`q.`, `q..`) or write any positive
+rational whole-note duration as `[numerator/denominator]`. Dots bind to the
+duration token; `q .` is not valid.
+
+=== Tuplets and proportional duration
+
+`tuplet played:inTheTimeOf { ... }` scales a group proportionally. `stretch`
+uses an exact rational factor; `augment n/d` and `diminish n/d` are readable
+phrase-transform forms.
+
+[source,utab]
+----
+tuplet 3:2 { C5 e; D5 e; E5 e }
+stretch 3/2 { motif }
+augment 2/1 { motif }
+diminish 2/1 { motif }
+----
+
+All score time is rational. Nested tuplets and transforms compose exactly rather
+than accumulating floating-point timing error.
+
+=== Ties and partial bars
+
+A postfix `~` ties a note to the next adjacent occurrence of the same resolved
+pitch. It produces one sustained attack while retaining both written segments
+for editing. Chord ties sustain only pitches shared by the two realized
+voicings.
+
+`pickup { ... }` and `final { ... }` assert incomplete boundary bars. In a
+section they must occur at the beginning and end respectively, and their
+durations must complement one another under the applicable meter.
+
+[source,utab]
+----
+pickup { G4 q }
+bar { C5 h.; C5 q~ }
+bar { C5 q; D5 h.; }
+final { E5 h. }
+----
 
 === Chords
 
@@ -150,6 +188,15 @@ duration must match the active meter.
 
 `phrase name { expressions }`:: Declares a reusable sequence. Writing the phrase
 name as an expression references it.
+
+`phrase name(label: pitch, count: integer) { ... }`:: Declares a parameterized
+phrase. Calls use matching labels, for example `name(label: C4, count: 2)`.
+
+`transpose pitch n semitones { ... }`:: Chromatically transposes notes, chord
+roots, explicit basses, and pitch ranges after phrase expansion.
+
+`transpose degree n { ... }`:: Moves scale-relative material by scale degrees,
+crossing the tonic when necessary while retaining chromatic alteration.
 
 `perform pattern { chords }`:: Applies a declared performance pattern to a chord
 progression.
@@ -204,6 +251,60 @@ block records harmonic expressions independently of an instrument voice.
 `lyrics` contains one or more quoted strings and belongs to the surrounding
 voice.
 
+== Context changes and expressive performance
+
+Meter, scale, and tempo directives inside a sequence affect following siblings.
+They are forbidden in parallel branches because simultaneous conflicting
+context would be ambiguous. Inline meter changes must occur at bar boundaries.
+
+[source,utab]
+----
+bar { C4 w }
+meter 3/4
+bar { D4 h; E4 q }
+tempo q. = 80
+tempo ramp to 120 over w steps 4
+----
+
+`fermata duration factor number` and `rubato duration factor number` alter
+performed time while preserving written score duration. The compiler emits
+tempo-map changes and an exact restoration point.
+
+Dynamic declarations use standard levels such as `pp`, `p`, `mp`, `mf`, `f`,
+and `ff`. A `using dynamics` declaration applies to its complete enclosing
+sequence; a `dynamics` block is local. `crescendo` and `diminuendo` interpolate
+attack intensity by score position.
+
+[source,utab]
+----
+using dynamics mf
+C4 q
+dynamics p { D4 q; E4 q accent }
+crescendo to f { F4 q; G4 q }
+pedal { C4 h; E4 h }
+----
+
+`using legato`, `legato { ... }`, and `slur { ... }` retain phrasing intent.
+Postfix `rearticulate` forces a new attack. Postfix `letRing` extends performed
+duration until a zero-time `damp` interaction or the section boundary, without
+changing written duration.
+
+=== Grace notes and ornaments
+
+[source,utab]
+----
+grace stealFollowing e { D5 s; E5 s }
+C5 h
+ornament trill s { D5 q }
+ornament mordent s { E5 q }
+----
+
+`stealFollowing` delays and shortens the principal event within an explicit
+budget. `beforeBeat` places the grace budget immediately before its anchor;
+`measured` contributes its authored durations to written time. Supported named
+ornaments are `trill`, `mordent`, `turn`, and `appoggiatura`; the subdivision is
+explicit and must be shorter than the decorated note.
+
 == Constants and custom scales
 
 `let` declares integer, pitch-class, scale-degree, or chord constants.
@@ -220,6 +321,52 @@ scale maqamRast = cents { 0, 204, 386, 498, 702, 884, 1088 }
 
 A custom scale declaration defines the cent offsets within an octave. Select it
 with a top-level declaration such as `scale C maqamRast`.
+
+== Scoped note naming
+
+Naming conventions are library values, not global parser modes. Importing a
+module makes its table available; `using notation` selects it lexically.
+Declarations bind names where they are authored, so an imported or reused
+phrase is never reinterpreted under its caller's notation.
+
+[source,utab]
+----
+import std.naming.western.german
+import std.naming.solfege.movable
+
+phrase answer {
+    using notation German
+    H4 q; Fis[4] q
+}
+
+phrase response {
+    using notation MovableSolfege
+    do[0] q; mi[0] q
+}
+----
+
+The standard library also provides fixed solfège and contextual Arabic degree
+names. The latter follow the active scale and do not assert one universal
+intonation for Arabic pitch names.
+
+== Advanced harmony and voicing
+
+Import `std.harmony.chords` for the standard open chord-quality collection and
+`std.harmony.bass` for data-driven bass patterns. Chords support slash basses,
+inversion, omission, doubling, range constraints, added or altered tones, and
+nearest voice leading.
+
+[source,utab]
+----
+chord A/G major h
+chord C dominant7 h alter 5b add 9#
+chord @2 minor w bass F inversion 1 omit 5 double 3 range C4 C6
+using voiceLeading nearest
+bass rootFifth q octave 2 { chord C minor w }
+----
+
+`chordQuality` and `bassPattern` declarations allow libraries and scores to add
+new interval collections and accompaniment patterns without compiler changes.
 
 == Performance patterns
 

@@ -1,0 +1,26 @@
+module examples.bach-prelude-c-major-opening
+import instruments.piano
+
+title "J. S. Bach, Prelude in C major, BWV 846 — opening"
+// Underlying composition: Johann Sebastian Bach, Prelude in C major, BWV 846.
+// Bach died in 1750; the composition is public domain. This short UTAB
+// transcription is newly authored for the Universal Tablature documentation
+// and does not derive from a modern edition, recording, or MIDI file.
+meter 4/4
+tempo 72
+scale C major
+
+instrument piano : Piano as "Piano"
+
+section opening : 4 bars {
+    piano {
+        voice arpeggios {
+            bar { C4 s; E4 s; G4 s; C5 s; E5 s; G4 s; C5 s; E5 s; C4 s; E4 s; G4 s; C5 s; E5 s; G4 s; C5 s; E5 s }
+            bar { C4 s; D4 s; A4 s; D5 s; F5 s; A4 s; D5 s; F5 s; C4 s; D4 s; A4 s; D5 s; F5 s; A4 s; D5 s; F5 s }
+            bar { B3 s; D4 s; G4 s; D5 s; F5 s; G4 s; D5 s; F5 s; B3 s; D4 s; G4 s; D5 s; F5 s; G4 s; D5 s; F5 s }
+            bar { C4 s; E4 s; G4 s; C5 s; E5 s; G4 s; C5 s; E5 s; C4 s; E4 s; G4 s; C5 s; E5 s; G4 s; C5 s; E5 s }
+        }
+    }
+}
+
+main { opening }

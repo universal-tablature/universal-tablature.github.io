@@ -1,0 +1,1673 @@
+{
+  "editingMap" : {
+    "containers" : [
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar:a74821e40e80282d",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar:849e8edacc81b8c"
+        ],
+        "definitionID" : "voice:static\/examples\/percussion-groove-study.utab:14:23",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23:313b2cb703ba6d1b",
+        "sectionID" : "section:groove",
+        "source" : {
+          "column" : 23,
+          "endColumn" : 10,
+          "endLine" : 27,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "voice:static\/examples\/percussion-groove-study.utab:14:23",
+          "line" : 14,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:0:2a0bca6db2fc33d2",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:1:5705077156fcb712",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:2:657850e59f828c1a",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:3:f7573b33d45bc4d2"
+        ],
+        "definitionID" : "sequence:static\/examples\/percussion-groove-study.utab:15:13",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar:a74821e40e80282d",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:15:13"
+          ],
+          "column" : 13,
+          "endColumn" : 13,
+          "endLine" : 15,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "sequence:static\/examples\/percussion-groove-study.utab:15:13",
+          "line" : 15,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:0",
+            "bar"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:0\/sequence:0:710a20ec66db01e5"
+        ],
+        "definitionID" : "sequence:static\/examples\/percussion-groove-study.utab:16:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:0:2a0bca6db2fc33d2",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:15:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 16,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "sequence:static\/examples\/percussion-groove-study.utab:16:17",
+          "line" : 16,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:0",
+            "bar",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:0\/sequence:0\/parallel:0:5d04af94a2b23b17",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:0\/sequence:0\/parallel:1:b5aac400de13af90"
+        ],
+        "definitionID" : "parallel:static\/examples\/percussion-groove-study.utab:16:18",
+        "kind" : "parallel",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:0\/sequence:0:710a20ec66db01e5",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:15:13"
+          ],
+          "column" : 18,
+          "endColumn" : 18,
+          "endLine" : 16,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "parallel:static\/examples\/percussion-groove-study.utab:16:18",
+          "line" : 16,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:0",
+            "bar",
+            "sequence:0",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:1\/sequence:0:355a4c5c9de6ae17"
+        ],
+        "definitionID" : "sequence:static\/examples\/percussion-groove-study.utab:17:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:1:5705077156fcb712",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:15:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 17,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "sequence:static\/examples\/percussion-groove-study.utab:17:17",
+          "line" : 17,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:0",
+            "bar",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:1\/sequence:0\/parallel:0:e991a159b1435933",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:1\/sequence:0\/parallel:1:34e933d6f6301642"
+        ],
+        "definitionID" : "parallel:static\/examples\/percussion-groove-study.utab:17:18",
+        "kind" : "parallel",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:1\/sequence:0:355a4c5c9de6ae17",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:15:13"
+          ],
+          "column" : 18,
+          "endColumn" : 18,
+          "endLine" : 17,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "parallel:static\/examples\/percussion-groove-study.utab:17:18",
+          "line" : 17,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:0",
+            "bar",
+            "sequence:1",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:2\/sequence:0:93ad0375b343f9a1"
+        ],
+        "definitionID" : "sequence:static\/examples\/percussion-groove-study.utab:18:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:2:657850e59f828c1a",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:15:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 18,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "sequence:static\/examples\/percussion-groove-study.utab:18:17",
+          "line" : 18,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:0",
+            "bar",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:2\/sequence:0\/parallel:0:dc93650543d3b54f",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:2\/sequence:0\/parallel:1:fe5a5c1f103a8c60"
+        ],
+        "definitionID" : "parallel:static\/examples\/percussion-groove-study.utab:18:18",
+        "kind" : "parallel",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:2\/sequence:0:93ad0375b343f9a1",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:15:13"
+          ],
+          "column" : 18,
+          "endColumn" : 18,
+          "endLine" : 18,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "parallel:static\/examples\/percussion-groove-study.utab:18:18",
+          "line" : 18,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:0",
+            "bar",
+            "sequence:2",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:3\/sequence:0:5773c2c8faac6007"
+        ],
+        "definitionID" : "sequence:static\/examples\/percussion-groove-study.utab:19:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:3:f7573b33d45bc4d2",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:15:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 19,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "sequence:static\/examples\/percussion-groove-study.utab:19:17",
+          "line" : 19,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:0",
+            "bar",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:3\/sequence:0\/parallel:0:e8cfbb74b610083",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:3\/sequence:0\/parallel:1:106c76280d2417ba"
+        ],
+        "definitionID" : "parallel:static\/examples\/percussion-groove-study.utab:19:18",
+        "kind" : "parallel",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:3\/sequence:0:5773c2c8faac6007",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:15:13"
+          ],
+          "column" : 18,
+          "endColumn" : 18,
+          "endLine" : 19,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "parallel:static\/examples\/percussion-groove-study.utab:19:18",
+          "line" : 19,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:0",
+            "bar",
+            "sequence:3",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:0:c7ec666a0137229",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:1:1e823e949a9d065f",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:2:8eefc446c316369",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:3:c8205ef5dfb5ee73"
+        ],
+        "definitionID" : "sequence:static\/examples\/percussion-groove-study.utab:21:13",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar:849e8edacc81b8c",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:21:13"
+          ],
+          "column" : 13,
+          "endColumn" : 13,
+          "endLine" : 21,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "sequence:static\/examples\/percussion-groove-study.utab:21:13",
+          "line" : 21,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:1",
+            "bar"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:0\/sequence:0:1835d5fa3897ba14"
+        ],
+        "definitionID" : "sequence:static\/examples\/percussion-groove-study.utab:22:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:0:c7ec666a0137229",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:21:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 22,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "sequence:static\/examples\/percussion-groove-study.utab:22:17",
+          "line" : 22,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:1",
+            "bar",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:0\/sequence:0\/parallel:0:c4faa2db5a048400",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:0\/sequence:0\/parallel:1:7435ae735c74d15b"
+        ],
+        "definitionID" : "parallel:static\/examples\/percussion-groove-study.utab:22:18",
+        "kind" : "parallel",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:0\/sequence:0:1835d5fa3897ba14",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:21:13"
+          ],
+          "column" : 18,
+          "endColumn" : 18,
+          "endLine" : 22,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "parallel:static\/examples\/percussion-groove-study.utab:22:18",
+          "line" : 22,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:1",
+            "bar",
+            "sequence:0",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:2\/sequence:0:2d4d3fa5efc5e374"
+        ],
+        "definitionID" : "sequence:static\/examples\/percussion-groove-study.utab:24:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:2:8eefc446c316369",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:21:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 24,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "sequence:static\/examples\/percussion-groove-study.utab:24:17",
+          "line" : 24,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:1",
+            "bar",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:2\/sequence:0\/parallel:0:77eb88c733a95990",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:2\/sequence:0\/parallel:1:4088172befa9f673"
+        ],
+        "definitionID" : "parallel:static\/examples\/percussion-groove-study.utab:24:18",
+        "kind" : "parallel",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:2\/sequence:0:2d4d3fa5efc5e374",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:21:13"
+          ],
+          "column" : 18,
+          "endColumn" : 18,
+          "endLine" : 24,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "parallel:static\/examples\/percussion-groove-study.utab:24:18",
+          "line" : 24,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:1",
+            "bar",
+            "sequence:2",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      }
+    ],
+    "measures" : [
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:0\/sequence:0\/parallel:0:5d04af94a2b23b17",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:0\/sequence:0\/parallel:1:b5aac400de13af90",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:1\/sequence:0\/parallel:0:e991a159b1435933",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:1\/sequence:0\/parallel:1:34e933d6f6301642",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:2\/sequence:0\/parallel:0:dc93650543d3b54f",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:2\/sequence:0\/parallel:1:fe5a5c1f103a8c60",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:3\/sequence:0\/parallel:0:e8cfbb74b610083",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:3\/sequence:0\/parallel:1:106c76280d2417ba"
+        ],
+        "id" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23:section:groove:measure:1",
+        "measure" : 1,
+        "sectionID" : "section:groove",
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:0\/sequence:0\/parallel:0:c4faa2db5a048400",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:0\/sequence:0\/parallel:1:7435ae735c74d15b",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:1:1e823e949a9d065f",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:2\/sequence:0\/parallel:0:77eb88c733a95990",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:2\/sequence:0\/parallel:1:4088172befa9f673",
+          "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:3:c8205ef5dfb5ee73"
+        ],
+        "id" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23:section:groove:measure:2",
+        "measure" : 2,
+        "sectionID" : "section:groove",
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      }
+    ],
+    "occurrences" : [
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/percussion-groove-study.utab:16:18",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:0\/sequence:0\/parallel:0:5d04af94a2b23b17",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:15:13"
+          ],
+          "column" : 18,
+          "endColumn" : 50,
+          "endLine" : 16,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "actuator:static\/examples\/percussion-groove-study.utab:16:18",
+          "line" : 16,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:0",
+            "bar",
+            "sequence:0",
+            "sequence:0",
+            "parallel:0"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/percussion-groove-study.utab:16:52",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:0\/sequence:0\/parallel:1:b5aac400de13af90",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:15:13"
+          ],
+          "column" : 52,
+          "endColumn" : 93,
+          "endLine" : 16,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "actuator:static\/examples\/percussion-groove-study.utab:16:52",
+          "line" : 16,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:0",
+            "bar",
+            "sequence:0",
+            "sequence:0",
+            "parallel:1"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/percussion-groove-study.utab:17:18",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:1\/sequence:0\/parallel:0:e991a159b1435933",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:15:13"
+          ],
+          "column" : 18,
+          "endColumn" : 56,
+          "endLine" : 17,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "actuator:static\/examples\/percussion-groove-study.utab:17:18",
+          "line" : 17,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:0",
+            "bar",
+            "sequence:1",
+            "sequence:0",
+            "parallel:0"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/percussion-groove-study.utab:17:58",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:1\/sequence:0\/parallel:1:34e933d6f6301642",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:15:13"
+          ],
+          "column" : 58,
+          "endColumn" : 99,
+          "endLine" : 17,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "actuator:static\/examples\/percussion-groove-study.utab:17:58",
+          "line" : 17,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:0",
+            "bar",
+            "sequence:1",
+            "sequence:0",
+            "parallel:1"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/percussion-groove-study.utab:18:18",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:2\/sequence:0\/parallel:0:dc93650543d3b54f",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:15:13"
+          ],
+          "column" : 18,
+          "endColumn" : 50,
+          "endLine" : 18,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "actuator:static\/examples\/percussion-groove-study.utab:18:18",
+          "line" : 18,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:0",
+            "bar",
+            "sequence:2",
+            "sequence:0",
+            "parallel:0"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/percussion-groove-study.utab:18:52",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:2\/sequence:0\/parallel:1:fe5a5c1f103a8c60",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:15:13"
+          ],
+          "column" : 52,
+          "endColumn" : 93,
+          "endLine" : 18,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "actuator:static\/examples\/percussion-groove-study.utab:18:52",
+          "line" : 18,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:0",
+            "bar",
+            "sequence:2",
+            "sequence:0",
+            "parallel:1"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/percussion-groove-study.utab:19:18",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:3\/sequence:0\/parallel:0:e8cfbb74b610083",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:15:13"
+          ],
+          "column" : 18,
+          "endColumn" : 56,
+          "endLine" : 19,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "actuator:static\/examples\/percussion-groove-study.utab:19:18",
+          "line" : 19,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:0",
+            "bar",
+            "sequence:3",
+            "sequence:0",
+            "parallel:0"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/percussion-groove-study.utab:19:58",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:3\/sequence:0\/parallel:1:106c76280d2417ba",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:15:13"
+          ],
+          "column" : 58,
+          "endColumn" : 99,
+          "endLine" : 19,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "actuator:static\/examples\/percussion-groove-study.utab:19:58",
+          "line" : 19,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:0",
+            "bar",
+            "sequence:3",
+            "sequence:0",
+            "parallel:1"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/percussion-groove-study.utab:22:18",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:0\/sequence:0\/parallel:0:c4faa2db5a048400",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:21:13"
+          ],
+          "column" : 18,
+          "endColumn" : 50,
+          "endLine" : 22,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "actuator:static\/examples\/percussion-groove-study.utab:22:18",
+          "line" : 22,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:1",
+            "bar",
+            "sequence:0",
+            "sequence:0",
+            "parallel:0"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/percussion-groove-study.utab:22:52",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:0\/sequence:0\/parallel:1:7435ae735c74d15b",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:21:13"
+          ],
+          "column" : 52,
+          "endColumn" : 85,
+          "endLine" : 22,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "actuator:static\/examples\/percussion-groove-study.utab:22:52",
+          "line" : 22,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:1",
+            "bar",
+            "sequence:0",
+            "sequence:0",
+            "parallel:1"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/percussion-groove-study.utab:23:17",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:1:1e823e949a9d065f",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:21:13"
+          ],
+          "column" : 17,
+          "endColumn" : 58,
+          "endLine" : 23,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "actuator:static\/examples\/percussion-groove-study.utab:23:17",
+          "line" : 23,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:1",
+            "bar",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/percussion-groove-study.utab:24:18",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:2\/sequence:0\/parallel:0:77eb88c733a95990",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:21:13"
+          ],
+          "column" : 18,
+          "endColumn" : 50,
+          "endLine" : 24,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "actuator:static\/examples\/percussion-groove-study.utab:24:18",
+          "line" : 24,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:1",
+            "bar",
+            "sequence:2",
+            "sequence:0",
+            "parallel:0"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/percussion-groove-study.utab:24:52",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:2\/sequence:0\/parallel:1:4088172befa9f673",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:21:13"
+          ],
+          "column" : 52,
+          "endColumn" : 90,
+          "endLine" : 24,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "actuator:static\/examples\/percussion-groove-study.utab:24:52",
+          "line" : 24,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:1",
+            "bar",
+            "sequence:2",
+            "sequence:0",
+            "parallel:1"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/percussion-groove-study.utab:25:17",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:3:c8205ef5dfb5ee73",
+        "sectionID" : "section:groove",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/percussion-groove-study.utab:21:13"
+          ],
+          "column" : 17,
+          "endColumn" : 55,
+          "endLine" : 25,
+          "file" : "static\/examples\/percussion-groove-study.utab",
+          "id" : "actuator:static\/examples\/percussion-groove-study.utab:25:17",
+          "line" : 25,
+          "path" : [
+            "section:section:groove",
+            "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+            "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+            "content:1",
+            "bar",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23"
+      }
+    ],
+    "version" : 1
+  },
+  "setup" : {
+    "arrangement" : [
+      {
+        "id" : "section-occurrence:main\/sequence:0\/reference:section-reference:static\/examples\/percussion-groove-study.utab:31:8:b51e7b26097508bb",
+        "section" : "section:groove"
+      }
+    ],
+    "instruments" : [
+      {
+        "id" : "kit",
+        "name" : "Drum kit",
+        "profile" : "profile:generated:kit",
+        "realization" : {
+          "midi" : {
+            "percussion" : true
+          }
+        }
+      }
+    ],
+    "profiles" : [
+      {
+        "actuators" : {
+          "playingSurfaces" : {
+            "members" : [
+              {
+                "id" : "closed-hi-hat"
+              },
+              {
+                "id" : "crash"
+              },
+              {
+                "id" : "kick"
+              },
+              {
+                "id" : "snare-head"
+              }
+            ],
+            "type" : "generated"
+          }
+        },
+        "id" : "profile:generated:kit",
+        "interactions" : {
+          "strike" : {
+
+          }
+        },
+        "name" : "Generated Drum kit profile",
+        "profileVersion" : "0.1-draft"
+      }
+    ],
+    "sections" : [
+      {
+        "id" : "section:groove",
+        "length" : {
+          "measures" : 2
+        },
+        "meterMap" : [
+          {
+            "at" : {
+              "measure" : 1
+            },
+            "denominator" : 4,
+            "numerator" : 4
+          }
+        ],
+        "name" : "groove"
+      }
+    ],
+    "time" : {
+      "meter" : {
+        "denominator" : 4,
+        "numerator" : 4
+      },
+      "tempo" : {
+        "quarterNotesPerMinute" : 104
+      }
+    },
+    "tunings" : [
+      {
+        "divisions" : 12,
+        "id" : "12edo",
+        "names" : {
+          "A" : 9,
+          "Ab" : 8,
+          "B" : 11,
+          "Bb" : 10,
+          "C" : 0,
+          "C#" : 1,
+          "D" : 2,
+          "E" : 4,
+          "Eb" : 3,
+          "F" : 5,
+          "F#" : 6,
+          "G" : 7
+        },
+        "periodRatio" : "2\/1",
+        "reference" : {
+          "frequencyHz" : 440,
+          "pitch" : {
+            "degree" : 9,
+            "period" : 4
+          }
+        },
+        "type" : "equalDivision"
+      }
+    ]
+  },
+  "tracks" : [
+    {
+      "id" : "track:kit:voice:static\/examples\/percussion-groove-study.utab:14:23",
+      "instrument" : "kit",
+      "name" : "Drum kit — pattern",
+      "parts" : [
+        {
+          "events" : [
+            {
+              "action" : "strike",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:0\/sequence:0\/parallel:0:5d04af94a2b23b17",
+              "parameters" : {
+
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/percussion-groove-study.utab:15:13"
+                ],
+                "column" : 18,
+                "endColumn" : 50,
+                "endLine" : 16,
+                "file" : "static\/examples\/percussion-groove-study.utab",
+                "id" : "actuator:static\/examples\/percussion-groove-study.utab:16:18",
+                "line" : 16,
+                "path" : [
+                  "section:section:groove",
+                  "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+                  "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+                  "content:0",
+                  "bar",
+                  "sequence:0",
+                  "sequence:0",
+                  "parallel:0"
+                ]
+              },
+              "target" : "playingSurfaces[\"kick\"]"
+            },
+            {
+              "action" : "strike",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:0\/sequence:0\/parallel:1:b5aac400de13af90",
+              "parameters" : {
+
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/percussion-groove-study.utab:15:13"
+                ],
+                "column" : 52,
+                "endColumn" : 93,
+                "endLine" : 16,
+                "file" : "static\/examples\/percussion-groove-study.utab",
+                "id" : "actuator:static\/examples\/percussion-groove-study.utab:16:52",
+                "line" : 16,
+                "path" : [
+                  "section:section:groove",
+                  "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+                  "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+                  "content:0",
+                  "bar",
+                  "sequence:0",
+                  "sequence:0",
+                  "parallel:1"
+                ]
+              },
+              "target" : "playingSurfaces[\"closed-hi-hat\"]"
+            },
+            {
+              "action" : "strike",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:1\/sequence:0\/parallel:0:e991a159b1435933",
+              "parameters" : {
+
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/percussion-groove-study.utab:15:13"
+                ],
+                "column" : 18,
+                "endColumn" : 56,
+                "endLine" : 17,
+                "file" : "static\/examples\/percussion-groove-study.utab",
+                "id" : "actuator:static\/examples\/percussion-groove-study.utab:17:18",
+                "line" : 17,
+                "path" : [
+                  "section:section:groove",
+                  "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+                  "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+                  "content:0",
+                  "bar",
+                  "sequence:1",
+                  "sequence:0",
+                  "parallel:0"
+                ]
+              },
+              "target" : "playingSurfaces[\"snare-head\"]"
+            },
+            {
+              "action" : "strike",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:1\/sequence:0\/parallel:1:34e933d6f6301642",
+              "parameters" : {
+
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/percussion-groove-study.utab:15:13"
+                ],
+                "column" : 58,
+                "endColumn" : 99,
+                "endLine" : 17,
+                "file" : "static\/examples\/percussion-groove-study.utab",
+                "id" : "actuator:static\/examples\/percussion-groove-study.utab:17:58",
+                "line" : 17,
+                "path" : [
+                  "section:section:groove",
+                  "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+                  "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+                  "content:0",
+                  "bar",
+                  "sequence:1",
+                  "sequence:0",
+                  "parallel:1"
+                ]
+              },
+              "target" : "playingSurfaces[\"closed-hi-hat\"]"
+            },
+            {
+              "action" : "strike",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:2\/sequence:0\/parallel:0:dc93650543d3b54f",
+              "parameters" : {
+
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/percussion-groove-study.utab:15:13"
+                ],
+                "column" : 18,
+                "endColumn" : 50,
+                "endLine" : 18,
+                "file" : "static\/examples\/percussion-groove-study.utab",
+                "id" : "actuator:static\/examples\/percussion-groove-study.utab:18:18",
+                "line" : 18,
+                "path" : [
+                  "section:section:groove",
+                  "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+                  "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+                  "content:0",
+                  "bar",
+                  "sequence:2",
+                  "sequence:0",
+                  "parallel:0"
+                ]
+              },
+              "target" : "playingSurfaces[\"kick\"]"
+            },
+            {
+              "action" : "strike",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:2\/sequence:0\/parallel:1:fe5a5c1f103a8c60",
+              "parameters" : {
+
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/percussion-groove-study.utab:15:13"
+                ],
+                "column" : 52,
+                "endColumn" : 93,
+                "endLine" : 18,
+                "file" : "static\/examples\/percussion-groove-study.utab",
+                "id" : "actuator:static\/examples\/percussion-groove-study.utab:18:52",
+                "line" : 18,
+                "path" : [
+                  "section:section:groove",
+                  "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+                  "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+                  "content:0",
+                  "bar",
+                  "sequence:2",
+                  "sequence:0",
+                  "parallel:1"
+                ]
+              },
+              "target" : "playingSurfaces[\"closed-hi-hat\"]"
+            },
+            {
+              "action" : "strike",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:3\/sequence:0\/parallel:0:e8cfbb74b610083",
+              "parameters" : {
+
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/percussion-groove-study.utab:15:13"
+                ],
+                "column" : 18,
+                "endColumn" : 56,
+                "endLine" : 19,
+                "file" : "static\/examples\/percussion-groove-study.utab",
+                "id" : "actuator:static\/examples\/percussion-groove-study.utab:19:18",
+                "line" : 19,
+                "path" : [
+                  "section:section:groove",
+                  "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+                  "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+                  "content:0",
+                  "bar",
+                  "sequence:3",
+                  "sequence:0",
+                  "parallel:0"
+                ]
+              },
+              "target" : "playingSurfaces[\"snare-head\"]"
+            },
+            {
+              "action" : "strike",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:0\/bar\/sequence:3\/sequence:0\/parallel:1:106c76280d2417ba",
+              "parameters" : {
+
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/percussion-groove-study.utab:15:13"
+                ],
+                "column" : 58,
+                "endColumn" : 99,
+                "endLine" : 19,
+                "file" : "static\/examples\/percussion-groove-study.utab",
+                "id" : "actuator:static\/examples\/percussion-groove-study.utab:19:58",
+                "line" : 19,
+                "path" : [
+                  "section:section:groove",
+                  "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+                  "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+                  "content:0",
+                  "bar",
+                  "sequence:3",
+                  "sequence:0",
+                  "parallel:1"
+                ]
+              },
+              "target" : "playingSurfaces[\"closed-hi-hat\"]"
+            },
+            {
+              "action" : "strike",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:0\/sequence:0\/parallel:0:c4faa2db5a048400",
+              "parameters" : {
+
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/percussion-groove-study.utab:21:13"
+                ],
+                "column" : 18,
+                "endColumn" : 50,
+                "endLine" : 22,
+                "file" : "static\/examples\/percussion-groove-study.utab",
+                "id" : "actuator:static\/examples\/percussion-groove-study.utab:22:18",
+                "line" : 22,
+                "path" : [
+                  "section:section:groove",
+                  "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+                  "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+                  "content:1",
+                  "bar",
+                  "sequence:0",
+                  "sequence:0",
+                  "parallel:0"
+                ]
+              },
+              "target" : "playingSurfaces[\"kick\"]"
+            },
+            {
+              "action" : "strike",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:0\/sequence:0\/parallel:1:7435ae735c74d15b",
+              "parameters" : {
+
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/percussion-groove-study.utab:21:13"
+                ],
+                "column" : 52,
+                "endColumn" : 85,
+                "endLine" : 22,
+                "file" : "static\/examples\/percussion-groove-study.utab",
+                "id" : "actuator:static\/examples\/percussion-groove-study.utab:22:52",
+                "line" : 22,
+                "path" : [
+                  "section:section:groove",
+                  "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+                  "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+                  "content:1",
+                  "bar",
+                  "sequence:0",
+                  "sequence:0",
+                  "parallel:1"
+                ]
+              },
+              "target" : "playingSurfaces[\"crash\"]"
+            },
+            {
+              "action" : "strike",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:1:1e823e949a9d065f",
+              "parameters" : {
+
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/percussion-groove-study.utab:21:13"
+                ],
+                "column" : 17,
+                "endColumn" : 58,
+                "endLine" : 23,
+                "file" : "static\/examples\/percussion-groove-study.utab",
+                "id" : "actuator:static\/examples\/percussion-groove-study.utab:23:17",
+                "line" : 23,
+                "path" : [
+                  "section:section:groove",
+                  "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+                  "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+                  "content:1",
+                  "bar",
+                  "sequence:1"
+                ]
+              },
+              "target" : "playingSurfaces[\"closed-hi-hat\"]"
+            },
+            {
+              "action" : "strike",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:2\/sequence:0\/parallel:0:77eb88c733a95990",
+              "parameters" : {
+
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/percussion-groove-study.utab:21:13"
+                ],
+                "column" : 18,
+                "endColumn" : 50,
+                "endLine" : 24,
+                "file" : "static\/examples\/percussion-groove-study.utab",
+                "id" : "actuator:static\/examples\/percussion-groove-study.utab:24:18",
+                "line" : 24,
+                "path" : [
+                  "section:section:groove",
+                  "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+                  "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+                  "content:1",
+                  "bar",
+                  "sequence:2",
+                  "sequence:0",
+                  "parallel:0"
+                ]
+              },
+              "target" : "playingSurfaces[\"kick\"]"
+            },
+            {
+              "action" : "strike",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:2\/sequence:0\/parallel:1:4088172befa9f673",
+              "parameters" : {
+
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/percussion-groove-study.utab:21:13"
+                ],
+                "column" : 52,
+                "endColumn" : 90,
+                "endLine" : 24,
+                "file" : "static\/examples\/percussion-groove-study.utab",
+                "id" : "actuator:static\/examples\/percussion-groove-study.utab:24:52",
+                "line" : 24,
+                "path" : [
+                  "section:section:groove",
+                  "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+                  "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+                  "content:1",
+                  "bar",
+                  "sequence:2",
+                  "sequence:0",
+                  "parallel:1"
+                ]
+              },
+              "target" : "playingSurfaces[\"snare-head\"]"
+            },
+            {
+              "action" : "strike",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:groove\/part:0:part:static\/examples\/percussion-groove-study.utab:13:9\/voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23\/content:1\/bar\/sequence:3:c8205ef5dfb5ee73",
+              "parameters" : {
+
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/percussion-groove-study.utab:21:13"
+                ],
+                "column" : 17,
+                "endColumn" : 55,
+                "endLine" : 25,
+                "file" : "static\/examples\/percussion-groove-study.utab",
+                "id" : "actuator:static\/examples\/percussion-groove-study.utab:25:17",
+                "line" : 25,
+                "path" : [
+                  "section:section:groove",
+                  "part:0:part:static\/examples\/percussion-groove-study.utab:13:9",
+                  "voice:0:voice:static\/examples\/percussion-groove-study.utab:14:23",
+                  "content:1",
+                  "bar",
+                  "sequence:3"
+                ]
+              },
+              "target" : "playingSurfaces[\"snare-head\"]"
+            }
+          ],
+          "section" : "section:groove",
+          "source" : {
+            "column" : 25,
+            "endColumn" : 2,
+            "endLine" : 29,
+            "file" : "static\/examples\/percussion-groove-study.utab",
+            "id" : "section:groove",
+            "line" : 12
+          }
+        }
+      ]
+    }
+  ],
+  "utab" : {
+    "documentId" : "composition:static\/examples\/percussion-groove-study.utab:1:1",
+    "encoding" : {
+      "description" : "Generated from the high-level semantic compiler pipeline",
+      "software" : [
+        "UTABLowering"
+      ]
+    },
+    "miscellaneous" : {
+      "sourceCompositionID" : "composition:static\/examples\/percussion-groove-study.utab:1:1",
+      "sourceMapping" : "event-id-and-parameters"
+    },
+    "title" : "Percussion groove study (original)",
+    "version" : "0.1-draft"
+  }
+}

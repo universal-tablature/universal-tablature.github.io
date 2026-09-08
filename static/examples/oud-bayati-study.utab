@@ -1,0 +1,35 @@
+module examples.oud-bayati-study
+import instruments.oud.arabic
+import std.naming.arabic.degrees
+
+title "Bayati oud study (original)"
+// Original documentation study, authored for the Universal Tablature project.
+// The Arabic degree names and bundled MaqamBayati cent table are contextual
+// library references, not a claim of one universal Bayati intonation or practice.
+meter 4/4
+tempo 80
+scale D MaqamBayati
+
+instrument oud : ArabicOud as "Arabic oud"
+
+phrase ascent {
+    using notation ArabicDegrees
+    duka[3] q
+    sikah[3] q
+    jaharkah[3] q
+    nawa[3] q
+}
+
+phrase response {
+    using notation ArabicDegrees
+    husayni[3] q
+    nawa[3] q
+    sikah[3] q
+    duka[3] q
+}
+
+section study : 2 bars {
+    oud { voice melody { ascent; response } }
+}
+
+main { study }

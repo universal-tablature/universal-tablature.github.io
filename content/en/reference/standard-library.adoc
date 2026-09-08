@@ -29,7 +29,10 @@ coverage may change while the language and instrument model evolve.
 
 `instruments.standard` imports the complete instrument collection, including
 the alternate guitar tunings. Explicit imports make dependencies clearer and
-are preferable when a score only needs a few models.
+are preferable when a score only needs a few models. Every applicable
+instrument module carries at least one usable standard tuning or fingering;
+scores do not need a second “completion” module. Separate modules are reserved
+for optional alternatives such as Drop D and DADGAD.
 
 == Capability profiles
 
@@ -49,11 +52,13 @@ profiles directly; model-authoring modules use these profiles as their base.
 |`KeyedBowedStrings`
 
 |`profiles.percussion`
-|`UnpitchedPercussion`, `PitchedPercussion`, `TunableDrums`
+|Profiles for unpitched, pitched, tunable, pressure-controlled, shaken,
+scraped, lamellophone, and damped gong/bar instruments
 
 |`profiles.wind`
 |`AirColumnWind`, `SingleReedWind`, `Saxophone`, `KeyedAirColumnWind`,
-`ValvedBrass`, `SlideBrass`, `MouthOrgan`, `BellowsFreeReed`, `DoubleReedWind`
+`ValvedBrass`, `SlideBrass`, `DoubleValveSlideBrass`, `FourValveBrass`,
+`MouthOrgan`, `BellowsFreeReed`, and `DoubleReedWind`
 |===
 
 == Common instruments
@@ -104,30 +109,92 @@ sixth-comma meantone scale definitions, plus model tunings.
 The link:/en/tutorials/hurrian-hymn/[Hurrian Hymn tutorial] uses this model.
 
 `instruments.nyckelharpa` exports `KromatiskNyckelharpa`, `Kontrabasharpa`,
-`Silverbasharpa`, `Oktavharpa`, `Moraharpa`, `Esseharpa`, and `Vefsenharpa`, with
-tunings where defined.
+`Silverbasharpa`, `Oktavharpa`, `Moraharpa`, `Esseharpa`, and `Vefsenharpa`, each
+with a reference tuning.
 
 == Wind and free-reed instruments
 
-`instruments.wind` exports:
+The wind catalogue is split into focused modules. `instruments.wind` is a
+convenience umbrella that imports all three.
+
+`instruments.wind.woodwinds` exports:
 
 * `SopranoRecorder`, `AltoRecorder`, `TenorRecorder`, and `BassRecorder`
-* `ConcertFlute`
-* `BbTrumpet` and `TenorTrombone`
-* `C10DiatonicHarmonica`
-* `PianoAccordion` and `AngloConcertina`
-* `BbClarinet`
-* `AltoSaxophone` and `TenorSaxophone`
-* `Oboe` and `Bassoon`
+* `ConcertFlute` and `Piccolo`
+* `BbClarinet` and `BassClarinet`
+* soprano, alto, tenor, and baritone saxophones
+* `Oboe`, `EnglishHorn`, `Bassoon`, and `Contrabassoon`
 
-The module includes fingering tables for selected recorder, flute, clarinet,
-saxophone, and trumpet models.
+`instruments.wind.brass` exports `BbTrumpet`, `TenorTrombone`, `BassTrombone`,
+`DoubleHorn`, `Euphonium`, and `Tuba`.
+
+`instruments.wind.free-reeds` exports `C10DiatonicHarmonica`, `PianoAccordion`,
+and `AngloConcertina`. Applicable wind models carry a standard fingering map in
+the same module as the model.
 
 == Percussion
 
 `instruments.percussion` exports `SnareDrum`, `BassDrum`, `Tambourine`,
 `Triangle`, `DrumKit`, `Xylophone`, `Marimba`, `Glockenspiel`, `Vibraphone`, and
-`Timpani`.
+`Timpani`, plus common cymbals, hi-hat, toms, tam-tam, bells, blocks, claves,
+shakers, and castanets.
+
+Regional families are grouped by playing system rather than one generic
+“world percussion” model:
+
+`instruments.percussion.arabic`:: Darbuka, riq, daf, and bendir variants.
+
+`instruments.percussion.indian`:: Tabla, pakhawaj, mridangam, kanjira, ghatam,
+dholak, and dhol.
+
+`instruments.percussion.folk-drums`:: Djembe, dunun, talking drum, and shekere.
+
+`instruments.percussion.latin`:: Congas, bongos, timbales, cajón, surdo,
+pandeiro, and güiro.
+
+`instruments.percussion.east-asian`:: Specified taiko, janggu, buk, and kendang
+configurations.
+
+`instruments.percussion.gamelan`:: Bonang, saron, gender, gong ageng, and
+kempul with ensemble-aware layout and damping metadata.
+
+`instruments.percussion.pitched-world`:: Steelpan, handpan, mbira, kalimba,
+and balafon models with explicit layouts or reference tunings.
+
+== Instruments across traditions
+
+[cols="2,4",options="header"]
+|===
+|Module |Coverage
+
+|`instruments.traditional-near-east`
+|Turkish oud, qanun, short-neck bağlama, kamancheh, Kız ney, Armenian duduk,
+and kaba zurna
+
+|`instruments.traditional-south-asian`
+|Sitar, sarod, Saraswati veena, tanpura, sarangi, B-flat bansuri, shehnai, and
+scale-changer harmonium
+
+|`instruments.traditional-chinese`
+|Erhu, pipa, guzheng, guqin, yangqin, D dizi, G xiao, sheng, and suona
+
+|`instruments.traditional-japanese-korean`
+|Koto, shamisen, shakuhachi, shō, gayageum, geomungo, daegeum, and haegeum
+
+|`instruments.traditional-african-strings`
+|Twenty-one-string kora, six-string donso ngoni, and Xhosa uhadi musical bow
+
+|`instruments.traditional-latin-american`
+|Capoeira berimbau, charango, Venezuelan llanero cuatro, quena, and paired siku
+
+|`instruments.traditional-final`
+|Bandoneon, Great Highland bagpipe, French hurdy-gurdy, Appalachian and
+hammered dulcimers, plus selected vocal-technique models
+|===
+
+These are concrete constructions, not claims that one model represents an
+entire culture or instrument family. Module definitions record physical
+topology, controls, ranges, and—where applicable—a default tuning or fingering.
 
 == Tunings
 
@@ -151,19 +218,27 @@ selection for an instance.
 `std.harmony.roman`:: Major uppercase and minor lowercase diatonic chord
 constants `I` through `VII`; `vii` is diminished.
 
-`std.solfege.fixed`:: Fixed-do pitch-class constants `do`, `re`, `mi`, `fa`,
-`sol`, `la`, and `ti`.
+`std.naming.solfege.fixed`:: The `FixedSolfege` table: `do` through `ti` as
+absolute pitch letters with octave registers.
 
-`std.solfege.movable`:: Scale-relative constants `do` through `ti`, mapped to
-degrees `@1` through `@7`.
+`std.naming.solfege.movable`:: The `MovableSolfege` table: `do` through `ti`
+mapped to degrees `@1` through `@7` in the active scale.
 
-`std.notes.oud.arabic`:: Scale-relative Arabic pitch names `qarar_rast`, `duka`,
-`sikah`, `jaharkah`, `nawa`, `husayni`, `awj`, and `kirdan`. Their intonation
-follows the active maqam.
+`std.naming.arabic.degrees`:: The contextual `ArabicDegrees` table with
+`qarar_rast`, `duka`, `sikah`, `jaharkah`, `nawa`, `husayni`, `awj`, and
+`kirdan`. Their intonation follows the active scale.
 
-`std.midi`:: General MIDI program constants currently used by bundled models:
-`acousticGrandPiano`, `xylophone`, `nylonStringGuitar`, `steelStringGuitar`,
-`cello`, and `choirAahs`.
+`std.naming.western.english` and `std.naming.western.german`:: Explicit English
+and German letter-name tables. Importing a naming module never selects it;
+scores use `using notation Name` in a lexical scope.
+
+`std.harmony.chords`:: Standard triad, seventh, and suspended chord-quality
+values represented as open interval collections.
+
+`std.harmony.bass`:: Reusable `roots`, `rootFifth`, and `arpeggio` bass patterns.
+
+`std.midi`:: Symbolic constants for all 128 General MIDI programs and the
+standard channel-10 percussion note names.
 
 == Qualified names and stable IDs
 

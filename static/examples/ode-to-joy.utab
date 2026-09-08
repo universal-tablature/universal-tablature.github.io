@@ -1,0 +1,33 @@
+module examples.ode-to-joy
+import instruments.piano
+
+title "Ode to Joy — theme excerpt"
+// Underlying composition: Ludwig van Beethoven, Symphony No. 9 (1824),
+// fourth-movement theme. Beethoven died in 1827; the composition is public
+// domain. This simplified eight-bar UTAB transcription is newly authored for
+// the Universal Tablature documentation and does not derive from a modern edition.
+meter 4/4
+tempo 108
+scale C major
+
+instrument piano : Piano as "Piano"
+
+phrase opening {
+    bar { E4 q; E4 q; F4 q; G4 q }
+    bar { G4 q; F4 q; E4 q; D4 q }
+    bar { C4 q; C4 q; D4 q; E4 q }
+    bar { E4 h; D4 q; D4 q }
+}
+
+phrase answer {
+    bar { E4 q; E4 q; F4 q; G4 q }
+    bar { G4 q; F4 q; E4 q; D4 q }
+    bar { C4 q; C4 q; D4 q; E4 q }
+    bar { D4 h; C4 h }
+}
+
+section theme : 8 bars {
+    piano { voice melody { opening; answer } }
+}
+
+main { theme }

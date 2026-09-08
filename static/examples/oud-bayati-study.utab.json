@@ -1,0 +1,919 @@
+{
+  "editingMap" : {
+    "containers" : [
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:0\/phrase:phrase:ascent:2a50833ad3df17f9",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:1\/phrase:phrase:response:f30e952ed9bd367f"
+        ],
+        "definitionID" : "voice:static\/examples\/oud-bayati-study.utab:32:24",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24:de137cc8e2686d3e",
+        "sectionID" : "section:study",
+        "source" : {
+          "column" : 24,
+          "endColumn" : 44,
+          "endLine" : 32,
+          "file" : "static\/examples\/oud-bayati-study.utab",
+          "id" : "voice:static\/examples\/oud-bayati-study.utab:32:24",
+          "line" : 32,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/oud-bayati-study.utab:32:9",
+            "voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24"
+          ]
+        },
+        "trackID" : "track:oud:voice:static\/examples\/oud-bayati-study.utab:32:24"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:0\/phrase:phrase:ascent\/sequence:0:d03f497e646dba67",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:0\/phrase:phrase:ascent\/sequence:1:f695acb2db141bc5",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:0\/phrase:phrase:ascent\/sequence:2:320257e0a1b220bf",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:0\/phrase:phrase:ascent\/sequence:3:14de0aad4c5cd778"
+        ],
+        "definitionID" : "sequence:static\/examples\/oud-bayati-study.utab:15:15",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:0\/phrase:phrase:ascent:2a50833ad3df17f9",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "phrase:ascent"
+          ],
+          "column" : 15,
+          "endColumn" : 15,
+          "endLine" : 15,
+          "file" : "static\/examples\/oud-bayati-study.utab",
+          "id" : "sequence:static\/examples\/oud-bayati-study.utab:15:15",
+          "line" : 15,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/oud-bayati-study.utab:32:9",
+            "voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24",
+            "content:0",
+            "phrase:phrase:ascent"
+          ]
+        },
+        "trackID" : "track:oud:voice:static\/examples\/oud-bayati-study.utab:32:24"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:1\/phrase:phrase:response\/sequence:0:ca437f3692aea3ef",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:1\/phrase:phrase:response\/sequence:1:e91ef786d81dafad",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:1\/phrase:phrase:response\/sequence:2:d4a83de08219113",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:1\/phrase:phrase:response\/sequence:3:f7bdca019300797d"
+        ],
+        "definitionID" : "sequence:static\/examples\/oud-bayati-study.utab:23:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:1\/phrase:phrase:response:f30e952ed9bd367f",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "phrase:response"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 23,
+          "file" : "static\/examples\/oud-bayati-study.utab",
+          "id" : "sequence:static\/examples\/oud-bayati-study.utab:23:17",
+          "line" : 23,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/oud-bayati-study.utab:32:9",
+            "voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24",
+            "content:1",
+            "phrase:phrase:response"
+          ]
+        },
+        "trackID" : "track:oud:voice:static\/examples\/oud-bayati-study.utab:32:24"
+      }
+    ],
+    "measures" : [
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:0\/phrase:phrase:ascent\/sequence:0:d03f497e646dba67",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:0\/phrase:phrase:ascent\/sequence:1:f695acb2db141bc5",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:0\/phrase:phrase:ascent\/sequence:2:320257e0a1b220bf",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:0\/phrase:phrase:ascent\/sequence:3:14de0aad4c5cd778"
+        ],
+        "id" : "track:oud:voice:static\/examples\/oud-bayati-study.utab:32:24:section:study:measure:1",
+        "measure" : 1,
+        "sectionID" : "section:study",
+        "trackID" : "track:oud:voice:static\/examples\/oud-bayati-study.utab:32:24"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:1\/phrase:phrase:response\/sequence:0:ca437f3692aea3ef",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:1\/phrase:phrase:response\/sequence:1:e91ef786d81dafad",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:1\/phrase:phrase:response\/sequence:2:d4a83de08219113",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:1\/phrase:phrase:response\/sequence:3:f7bdca019300797d"
+        ],
+        "id" : "track:oud:voice:static\/examples\/oud-bayati-study.utab:32:24:section:study:measure:2",
+        "measure" : 2,
+        "sectionID" : "section:study",
+        "trackID" : "track:oud:voice:static\/examples\/oud-bayati-study.utab:32:24"
+      }
+    ],
+    "occurrences" : [
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "named-note:static\/examples\/oud-bayati-study.utab:17:5",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "note",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:0\/phrase:phrase:ascent\/sequence:0:d03f497e646dba67",
+        "pitchRepresentation" : {
+          "alteration" : 0,
+          "degree" : 2,
+          "kind" : "scaleRelative",
+          "octave" : 3,
+          "resolvedMIDIPitch" : 52
+        },
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "phrase:ascent"
+          ],
+          "column" : 5,
+          "endColumn" : 14,
+          "endLine" : 17,
+          "file" : "static\/examples\/oud-bayati-study.utab",
+          "id" : "named-note:static\/examples\/oud-bayati-study.utab:17:5",
+          "line" : 17,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/oud-bayati-study.utab:32:9",
+            "voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24",
+            "content:0",
+            "phrase:phrase:ascent",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:oud:voice:static\/examples\/oud-bayati-study.utab:32:24"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "named-note:static\/examples\/oud-bayati-study.utab:18:5",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "note",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:0\/phrase:phrase:ascent\/sequence:1:f695acb2db141bc5",
+        "pitchRepresentation" : {
+          "alteration" : 0,
+          "degree" : 3,
+          "kind" : "scaleRelative",
+          "octave" : 3,
+          "resolvedMIDIPitch" : 53
+        },
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "phrase:ascent"
+          ],
+          "column" : 5,
+          "endColumn" : 15,
+          "endLine" : 18,
+          "file" : "static\/examples\/oud-bayati-study.utab",
+          "id" : "named-note:static\/examples\/oud-bayati-study.utab:18:5",
+          "line" : 18,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/oud-bayati-study.utab:32:9",
+            "voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24",
+            "content:0",
+            "phrase:phrase:ascent",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:oud:voice:static\/examples\/oud-bayati-study.utab:32:24"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "named-note:static\/examples\/oud-bayati-study.utab:19:5",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "note",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:0\/phrase:phrase:ascent\/sequence:2:320257e0a1b220bf",
+        "pitchRepresentation" : {
+          "alteration" : 0,
+          "degree" : 4,
+          "kind" : "scaleRelative",
+          "octave" : 3,
+          "resolvedMIDIPitch" : 55
+        },
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "phrase:ascent"
+          ],
+          "column" : 5,
+          "endColumn" : 18,
+          "endLine" : 19,
+          "file" : "static\/examples\/oud-bayati-study.utab",
+          "id" : "named-note:static\/examples\/oud-bayati-study.utab:19:5",
+          "line" : 19,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/oud-bayati-study.utab:32:9",
+            "voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24",
+            "content:0",
+            "phrase:phrase:ascent",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:oud:voice:static\/examples\/oud-bayati-study.utab:32:24"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "named-note:static\/examples\/oud-bayati-study.utab:20:5",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "note",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:0\/phrase:phrase:ascent\/sequence:3:14de0aad4c5cd778",
+        "pitchRepresentation" : {
+          "alteration" : 0,
+          "degree" : 5,
+          "kind" : "scaleRelative",
+          "octave" : 3,
+          "resolvedMIDIPitch" : 57
+        },
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "phrase:ascent"
+          ],
+          "column" : 5,
+          "endColumn" : 14,
+          "endLine" : 20,
+          "file" : "static\/examples\/oud-bayati-study.utab",
+          "id" : "named-note:static\/examples\/oud-bayati-study.utab:20:5",
+          "line" : 20,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/oud-bayati-study.utab:32:9",
+            "voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24",
+            "content:0",
+            "phrase:phrase:ascent",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:oud:voice:static\/examples\/oud-bayati-study.utab:32:24"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "named-note:static\/examples\/oud-bayati-study.utab:25:5",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "note",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:1\/phrase:phrase:response\/sequence:0:ca437f3692aea3ef",
+        "pitchRepresentation" : {
+          "alteration" : 0,
+          "degree" : 6,
+          "kind" : "scaleRelative",
+          "octave" : 3,
+          "resolvedMIDIPitch" : 58
+        },
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "phrase:response"
+          ],
+          "column" : 5,
+          "endColumn" : 17,
+          "endLine" : 25,
+          "file" : "static\/examples\/oud-bayati-study.utab",
+          "id" : "named-note:static\/examples\/oud-bayati-study.utab:25:5",
+          "line" : 25,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/oud-bayati-study.utab:32:9",
+            "voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24",
+            "content:1",
+            "phrase:phrase:response",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:oud:voice:static\/examples\/oud-bayati-study.utab:32:24"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "named-note:static\/examples\/oud-bayati-study.utab:26:5",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "note",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:1\/phrase:phrase:response\/sequence:1:e91ef786d81dafad",
+        "pitchRepresentation" : {
+          "alteration" : 0,
+          "degree" : 5,
+          "kind" : "scaleRelative",
+          "octave" : 3,
+          "resolvedMIDIPitch" : 57
+        },
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "phrase:response"
+          ],
+          "column" : 5,
+          "endColumn" : 14,
+          "endLine" : 26,
+          "file" : "static\/examples\/oud-bayati-study.utab",
+          "id" : "named-note:static\/examples\/oud-bayati-study.utab:26:5",
+          "line" : 26,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/oud-bayati-study.utab:32:9",
+            "voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24",
+            "content:1",
+            "phrase:phrase:response",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:oud:voice:static\/examples\/oud-bayati-study.utab:32:24"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "named-note:static\/examples\/oud-bayati-study.utab:27:5",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "note",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:1\/phrase:phrase:response\/sequence:2:d4a83de08219113",
+        "pitchRepresentation" : {
+          "alteration" : 0,
+          "degree" : 3,
+          "kind" : "scaleRelative",
+          "octave" : 3,
+          "resolvedMIDIPitch" : 53
+        },
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "phrase:response"
+          ],
+          "column" : 5,
+          "endColumn" : 15,
+          "endLine" : 27,
+          "file" : "static\/examples\/oud-bayati-study.utab",
+          "id" : "named-note:static\/examples\/oud-bayati-study.utab:27:5",
+          "line" : 27,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/oud-bayati-study.utab:32:9",
+            "voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24",
+            "content:1",
+            "phrase:phrase:response",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:oud:voice:static\/examples\/oud-bayati-study.utab:32:24"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "named-note:static\/examples\/oud-bayati-study.utab:28:5",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "note",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:1\/phrase:phrase:response\/sequence:3:f7bdca019300797d",
+        "pitchRepresentation" : {
+          "alteration" : 0,
+          "degree" : 2,
+          "kind" : "scaleRelative",
+          "octave" : 3,
+          "resolvedMIDIPitch" : 52
+        },
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "phrase:response"
+          ],
+          "column" : 5,
+          "endColumn" : 14,
+          "endLine" : 28,
+          "file" : "static\/examples\/oud-bayati-study.utab",
+          "id" : "named-note:static\/examples\/oud-bayati-study.utab:28:5",
+          "line" : 28,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/oud-bayati-study.utab:32:9",
+            "voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24",
+            "content:1",
+            "phrase:phrase:response",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:oud:voice:static\/examples\/oud-bayati-study.utab:32:24"
+      }
+    ],
+    "scale" : {
+      "centIntervals" : [
+        0,
+        150,
+        300,
+        500,
+        700,
+        800,
+        1000
+      ],
+      "name" : "MaqamBayati",
+      "tonic" : "D"
+    },
+    "version" : 1
+  },
+  "setup" : {
+    "arrangement" : [
+      {
+        "id" : "section-occurrence:main\/sequence:0\/reference:section-reference:static\/examples\/oud-bayati-study.utab:35:8:bb87ae3b76da9b31",
+        "section" : "section:study"
+      }
+    ],
+    "instruments" : [
+      {
+        "id" : "oud",
+        "name" : "Arabic oud",
+        "profile" : "profile:generated:oud"
+      }
+    ],
+    "profiles" : [
+      {
+        "actuators" : {
+          "notes" : {
+            "type" : "generated"
+          }
+        },
+        "id" : "profile:generated:oud",
+        "interactions" : {
+          "play" : {
+
+          }
+        },
+        "name" : "Generated Arabic oud profile",
+        "profileVersion" : "0.1-draft"
+      }
+    ],
+    "sections" : [
+      {
+        "id" : "section:study",
+        "length" : {
+          "measures" : 2
+        },
+        "meterMap" : [
+          {
+            "at" : {
+              "measure" : 1
+            },
+            "denominator" : 4,
+            "numerator" : 4
+          }
+        ],
+        "name" : "study"
+      }
+    ],
+    "time" : {
+      "meter" : {
+        "denominator" : 4,
+        "numerator" : 4
+      },
+      "tempo" : {
+        "quarterNotesPerMinute" : 80
+      }
+    },
+    "tunings" : [
+      {
+        "divisions" : 12,
+        "id" : "12edo",
+        "names" : {
+          "A" : 9,
+          "Ab" : 8,
+          "B" : 11,
+          "Bb" : 10,
+          "C" : 0,
+          "C#" : 1,
+          "D" : 2,
+          "E" : 4,
+          "Eb" : 3,
+          "F" : 5,
+          "F#" : 6,
+          "G" : 7
+        },
+        "periodRatio" : "2\/1",
+        "reference" : {
+          "frequencyHz" : 440,
+          "pitch" : {
+            "degree" : 9,
+            "period" : 4
+          }
+        },
+        "type" : "equalDivision"
+      }
+    ]
+  },
+  "tracks" : [
+    {
+      "id" : "track:oud:voice:static\/examples\/oud-bayati-study.utab:32:24",
+      "instrument" : "oud",
+      "name" : "Arabic oud — melody",
+      "parts" : [
+        {
+          "events" : [
+            {
+              "action" : "play",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:0\/phrase:phrase:ascent\/sequence:0:d03f497e646dba67",
+              "parameters" : {
+                "pitch" : {
+                  "frequencyHz" : 160.12185011264063
+                },
+                "spelling" : "E"
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:ascent"
+                ],
+                "column" : 5,
+                "endColumn" : 14,
+                "endLine" : 17,
+                "file" : "static\/examples\/oud-bayati-study.utab",
+                "id" : "named-note:static\/examples\/oud-bayati-study.utab:17:5",
+                "line" : 17,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/oud-bayati-study.utab:32:9",
+                  "voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24",
+                  "content:0",
+                  "phrase:phrase:ascent",
+                  "sequence:0"
+                ]
+              },
+              "target" : "notes"
+            },
+            {
+              "action" : "play",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:0\/phrase:phrase:ascent\/sequence:1:f695acb2db141bc5",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 5,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                },
+                "spelling" : "F"
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:ascent"
+                ],
+                "column" : 5,
+                "endColumn" : 15,
+                "endLine" : 18,
+                "file" : "static\/examples\/oud-bayati-study.utab",
+                "id" : "named-note:static\/examples\/oud-bayati-study.utab:18:5",
+                "line" : 18,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/oud-bayati-study.utab:32:9",
+                  "voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24",
+                  "content:0",
+                  "phrase:phrase:ascent",
+                  "sequence:1"
+                ]
+              },
+              "target" : "notes"
+            },
+            {
+              "action" : "play",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:0\/phrase:phrase:ascent\/sequence:2:320257e0a1b220bf",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 7,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                },
+                "spelling" : "G"
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:ascent"
+                ],
+                "column" : 5,
+                "endColumn" : 18,
+                "endLine" : 19,
+                "file" : "static\/examples\/oud-bayati-study.utab",
+                "id" : "named-note:static\/examples\/oud-bayati-study.utab:19:5",
+                "line" : 19,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/oud-bayati-study.utab:32:9",
+                  "voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24",
+                  "content:0",
+                  "phrase:phrase:ascent",
+                  "sequence:2"
+                ]
+              },
+              "target" : "notes"
+            },
+            {
+              "action" : "play",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:0\/phrase:phrase:ascent\/sequence:3:14de0aad4c5cd778",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 9,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                },
+                "spelling" : "A"
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:ascent"
+                ],
+                "column" : 5,
+                "endColumn" : 14,
+                "endLine" : 20,
+                "file" : "static\/examples\/oud-bayati-study.utab",
+                "id" : "named-note:static\/examples\/oud-bayati-study.utab:20:5",
+                "line" : 20,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/oud-bayati-study.utab:32:9",
+                  "voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24",
+                  "content:0",
+                  "phrase:phrase:ascent",
+                  "sequence:3"
+                ]
+              },
+              "target" : "notes"
+            },
+            {
+              "action" : "play",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:1\/phrase:phrase:response\/sequence:0:ca437f3692aea3ef",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 10,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                },
+                "spelling" : "Bb"
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:response"
+                ],
+                "column" : 5,
+                "endColumn" : 17,
+                "endLine" : 25,
+                "file" : "static\/examples\/oud-bayati-study.utab",
+                "id" : "named-note:static\/examples\/oud-bayati-study.utab:25:5",
+                "line" : 25,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/oud-bayati-study.utab:32:9",
+                  "voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24",
+                  "content:1",
+                  "phrase:phrase:response",
+                  "sequence:0"
+                ]
+              },
+              "target" : "notes"
+            },
+            {
+              "action" : "play",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:1\/phrase:phrase:response\/sequence:1:e91ef786d81dafad",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 9,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                },
+                "spelling" : "A"
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:response"
+                ],
+                "column" : 5,
+                "endColumn" : 14,
+                "endLine" : 26,
+                "file" : "static\/examples\/oud-bayati-study.utab",
+                "id" : "named-note:static\/examples\/oud-bayati-study.utab:26:5",
+                "line" : 26,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/oud-bayati-study.utab:32:9",
+                  "voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24",
+                  "content:1",
+                  "phrase:phrase:response",
+                  "sequence:1"
+                ]
+              },
+              "target" : "notes"
+            },
+            {
+              "action" : "play",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:1\/phrase:phrase:response\/sequence:2:d4a83de08219113",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 5,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                },
+                "spelling" : "F"
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:response"
+                ],
+                "column" : 5,
+                "endColumn" : 15,
+                "endLine" : 27,
+                "file" : "static\/examples\/oud-bayati-study.utab",
+                "id" : "named-note:static\/examples\/oud-bayati-study.utab:27:5",
+                "line" : 27,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/oud-bayati-study.utab:32:9",
+                  "voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24",
+                  "content:1",
+                  "phrase:phrase:response",
+                  "sequence:2"
+                ]
+              },
+              "target" : "notes"
+            },
+            {
+              "action" : "play",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/oud-bayati-study.utab:32:9\/voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24\/content:1\/phrase:phrase:response\/sequence:3:f7bdca019300797d",
+              "parameters" : {
+                "pitch" : {
+                  "frequencyHz" : 160.12185011264063
+                },
+                "spelling" : "E"
+              },
+              "source" : {
+                "ancestry" : [
+                  "phrase:response"
+                ],
+                "column" : 5,
+                "endColumn" : 14,
+                "endLine" : 28,
+                "file" : "static\/examples\/oud-bayati-study.utab",
+                "id" : "named-note:static\/examples\/oud-bayati-study.utab:28:5",
+                "line" : 28,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/oud-bayati-study.utab:32:9",
+                  "voice:0:voice:static\/examples\/oud-bayati-study.utab:32:24",
+                  "content:1",
+                  "phrase:phrase:response",
+                  "sequence:3"
+                ]
+              },
+              "target" : "notes"
+            }
+          ],
+          "section" : "section:study",
+          "source" : {
+            "column" : 24,
+            "endColumn" : 2,
+            "endLine" : 33,
+            "file" : "static\/examples\/oud-bayati-study.utab",
+            "id" : "section:study",
+            "line" : 31
+          }
+        }
+      ]
+    }
+  ],
+  "utab" : {
+    "documentId" : "composition:static\/examples\/oud-bayati-study.utab:1:1",
+    "encoding" : {
+      "description" : "Generated from the high-level semantic compiler pipeline",
+      "software" : [
+        "UTABLowering"
+      ]
+    },
+    "miscellaneous" : {
+      "sourceCompositionID" : "composition:static\/examples\/oud-bayati-study.utab:1:1",
+      "sourceMapping" : "event-id-and-parameters"
+    },
+    "title" : "Bayati oud study (original)",
+    "version" : "0.1-draft"
+  }
+}

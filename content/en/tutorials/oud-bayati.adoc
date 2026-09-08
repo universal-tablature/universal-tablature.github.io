@@ -1,0 +1,55 @@
+---
+title: Compose an original Bayati oud study
+linkTitle: Oud and contextual pitch names
+weight: 60
+description: Use the Arabic oud model, its standard tuning, a maqam scale table, and scoped degree names.
+midi_player: true
+---
+
+This two-bar study is original documentation music, not an adaptation of a
+recorded or published piece. It demonstrates a library model and notation tools;
+it is not presented as a complete account of Bayati melodic practice.
+
+++++
+<midi-player src="/examples/oud-bayati-study.mid" sound-font></midi-player>
+<p class="small"><a href="/examples/oud-bayati-study.mid" download>Download MIDI</a> · <a href="/examples/oud-bayati-study.utab" download>Composer source</a> · <a href="/examples/oud-bayati-study.utab.json" download>Compiled UTAB JSON</a></p>
+++++
+
+== Instrument, tuning, and scale are separate
+
+[source,utab]
+----
+import instruments.oud.arabic
+import std.naming.arabic.degrees
+
+scale D MaqamBayati
+instrument oud : ArabicOud as "Arabic oud"
+----
+
+`ArabicOud` carries its six-course C tuning in the instrument module, so it is
+usable without an extra tuning import. `MaqamBayati` is a bundled seven-degree
+cent table used to resolve this example. It is a documented reference
+approximation, not a mandatory or universal tuning.
+
+== Select contextual names explicitly
+
+[source,utab]
+----
+phrase ascent {
+    using notation ArabicDegrees
+    duka[3] q
+    sikah[3] q
+    jaharkah[3] q
+    nawa[3] q
+}
+----
+
+Importing `std.naming.arabic.degrees` does not globally reinterpret identifiers.
+`using notation ArabicDegrees` selects the table in this phrase. The names bind
+to degree identities; the active scale supplies their pitch and intonation.
+Consequently `sikah` here is contextual rather than a universal fixed frequency.
+
+For serious repertoire, the score should additionally document the source,
+regional and historical practice, chosen intonation, editorial decisions, and
+review by an appropriate practitioner. Maqam behavior also includes melodic
+development, focal tones, ajnas, and modulation beyond this scale exercise.

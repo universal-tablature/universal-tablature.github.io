@@ -1,0 +1,3286 @@
+{
+  "editingMap" : {
+    "containers" : [
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar:386c9b4cf0828c7b",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:1\/bar:bcc2649044955ba",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar:d6a6d96bf778bd09",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:3:24bf371e07093af0",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar:e84be0e7cc782be3",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar:98abcc9d0e500aaa",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:6\/bar:1d265a386b153c41"
+        ],
+        "definitionID" : "voice:static\/examples\/composer-feature-tour.utab:15:21",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21:cc920a0f3a3f282a",
+        "sectionID" : "section:study",
+        "source" : {
+          "column" : 21,
+          "endColumn" : 10,
+          "endLine" : 40,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "voice:static\/examples\/composer-feature-tour.utab:15:21",
+          "line" : 15,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0:d1fbfb989266b640"
+        ],
+        "definitionID" : "sequence:static\/examples\/composer-feature-tour.utab:16:13",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar:386c9b4cf0828c7b",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:16:13"
+          ],
+          "column" : 13,
+          "endColumn" : 13,
+          "endLine" : 16,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "sequence:static\/examples\/composer-feature-tour.utab:16:13",
+          "line" : 16,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:0",
+            "bar"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0:b056823c96cf0529"
+        ],
+        "definitionID" : "dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17",
+        "kind" : "technique",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0:d1fbfb989266b640",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:16:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 18,
+          "file" : "mf:static\/examples\/composer-feature-tour.utab",
+          "id" : "dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17",
+          "line" : 18,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:0",
+            "bar",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0\/sequence:0\/proportional:2\/3:ec5648842816a397",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0\/sequence:1:167d37f15e56264c",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0\/sequence:2:8ddd076b5cbf50f3"
+        ],
+        "definitionID" : "sequence:static\/examples\/composer-feature-tour.utab:18:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0:b056823c96cf0529",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:16:13",
+            "dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 18,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "sequence:static\/examples\/composer-feature-tour.utab:18:17",
+          "line" : 18,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:0",
+            "bar",
+            "sequence:0",
+            "technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0\/sequence:0\/proportional:2\/3\/sequence:0:5484f26b8ee180a9",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0\/sequence:0\/proportional:2\/3\/sequence:1:9988a29240e99fc2",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0\/sequence:0\/proportional:2\/3\/sequence:2:a54636d6ecffd122"
+        ],
+        "definitionID" : "sequence:static\/examples\/composer-feature-tour.utab:18:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0\/sequence:0\/proportional:2\/3:ec5648842816a397",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:16:13",
+            "dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17",
+            "proportional:static\/examples\/composer-feature-tour.utab:18:17"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 18,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "sequence:static\/examples\/composer-feature-tour.utab:18:17",
+          "line" : 18,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:0",
+            "bar",
+            "sequence:0",
+            "technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0",
+            "sequence:0",
+            "proportional:2\/3"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:1\/bar\/sequence:0:7e3b86f8762ba9ce",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:1\/bar\/sequence:1:c66ee967e6550b00",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:1\/bar\/sequence:2:9a8b71cf0653cd66",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:1\/bar\/sequence:3:2ee05c9f24253b29"
+        ],
+        "definitionID" : "sequence:static\/examples\/composer-feature-tour.utab:22:13",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:1\/bar:bcc2649044955ba",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:22:13"
+          ],
+          "column" : 13,
+          "endColumn" : 13,
+          "endLine" : 22,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "sequence:static\/examples\/composer-feature-tour.utab:22:13",
+          "line" : 22,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:1",
+            "bar"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:1\/bar\/sequence:3\/technique:ornament:trill:static\/examples\/composer-feature-tour.utab:26:17:0:c923123ed4e1c66f"
+        ],
+        "definitionID" : "ornament:trill:static\/examples\/composer-feature-tour.utab:26:17",
+        "kind" : "technique",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:1\/bar\/sequence:3:2ee05c9f24253b29",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:22:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 26,
+          "file" : "trill:static\/examples\/composer-feature-tour.utab",
+          "id" : "ornament:trill:static\/examples\/composer-feature-tour.utab:26:17",
+          "line" : 26,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:1",
+            "bar",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:1\/bar\/sequence:3\/technique:ornament:trill:static\/examples\/composer-feature-tour.utab:26:17:0\/sequence:0:3ca96a12a2d416bf"
+        ],
+        "definitionID" : "sequence:static\/examples\/composer-feature-tour.utab:26:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:1\/bar\/sequence:3\/technique:ornament:trill:static\/examples\/composer-feature-tour.utab:26:17:0:c923123ed4e1c66f",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:22:13",
+            "ornament:trill:static\/examples\/composer-feature-tour.utab:26:17"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 26,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "sequence:static\/examples\/composer-feature-tour.utab:26:17",
+          "line" : 26,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:1",
+            "bar",
+            "sequence:3",
+            "technique:ornament:trill:static\/examples\/composer-feature-tour.utab:26:17:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0:a956b6afbe3d1228"
+        ],
+        "definitionID" : "sequence:static\/examples\/composer-feature-tour.utab:28:13",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar:d6a6d96bf778bd09",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:28:13"
+          ],
+          "column" : 13,
+          "endColumn" : 13,
+          "endLine" : 28,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "sequence:static\/examples\/composer-feature-tour.utab:28:13",
+          "line" : 28,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:2",
+            "bar"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0:bea13a0e9c741030"
+        ],
+        "definitionID" : "dynamic:p:static\/examples\/composer-feature-tour.utab:29:17",
+        "kind" : "technique",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0:a956b6afbe3d1228",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:28:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 29,
+          "file" : "p:static\/examples\/composer-feature-tour.utab",
+          "id" : "dynamic:p:static\/examples\/composer-feature-tour.utab:29:17",
+          "line" : 29,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:2",
+            "bar",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0\/sequence:0:83f53b7b640332ea"
+        ],
+        "definitionID" : "sequence:static\/examples\/composer-feature-tour.utab:29:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0:bea13a0e9c741030",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:28:13",
+            "dynamic:p:static\/examples\/composer-feature-tour.utab:29:17"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 29,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "sequence:static\/examples\/composer-feature-tour.utab:29:17",
+          "line" : 29,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:2",
+            "bar",
+            "sequence:0",
+            "technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0\/sequence:0\/technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0:e1b5406b8e2ca98d"
+        ],
+        "definitionID" : "dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30",
+        "kind" : "technique",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0\/sequence:0:83f53b7b640332ea",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:28:13",
+            "dynamic:p:static\/examples\/composer-feature-tour.utab:29:17"
+          ],
+          "column" : 30,
+          "endColumn" : 30,
+          "endLine" : 29,
+          "file" : "crescendo:static\/examples\/composer-feature-tour.utab",
+          "id" : "dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30",
+          "line" : 29,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:2",
+            "bar",
+            "sequence:0",
+            "technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0\/sequence:0\/technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0\/sequence:0:5c8203d74cdb8c54",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0\/sequence:0\/technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0\/sequence:1:576cdb6a08d8565a",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0\/sequence:0\/technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0\/sequence:2:6c5edc3ed0a5416a",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0\/sequence:0\/technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0\/sequence:3:313d93cf827fa789"
+        ],
+        "definitionID" : "sequence:static\/examples\/composer-feature-tour.utab:29:30",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0\/sequence:0\/technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0:e1b5406b8e2ca98d",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:28:13",
+            "dynamic:p:static\/examples\/composer-feature-tour.utab:29:17",
+            "dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30"
+          ],
+          "column" : 30,
+          "endColumn" : 30,
+          "endLine" : 29,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "sequence:static\/examples\/composer-feature-tour.utab:29:30",
+          "line" : 29,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:2",
+            "bar",
+            "sequence:0",
+            "technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0",
+            "sequence:0",
+            "technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0\/sequence:0\/technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0\/sequence:2\/technique:modifier:accent:static\/examples\/composer-feature-tour.utab:29:64:0:119a1c1e5f537395"
+        ],
+        "definitionID" : "modifier:accent:static\/examples\/composer-feature-tour.utab:29:64",
+        "kind" : "technique",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0\/sequence:0\/technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0\/sequence:2:6c5edc3ed0a5416a",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:28:13",
+            "dynamic:p:static\/examples\/composer-feature-tour.utab:29:17",
+            "dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30"
+          ],
+          "column" : 64,
+          "endColumn" : 64,
+          "endLine" : 29,
+          "file" : "accent:static\/examples\/composer-feature-tour.utab",
+          "id" : "modifier:accent:static\/examples\/composer-feature-tour.utab:29:64",
+          "line" : 29,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:2",
+            "bar",
+            "sequence:0",
+            "technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0",
+            "sequence:0",
+            "technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0:2530123dabd81f5b",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1:5b8ffbf98cb78c4f"
+        ],
+        "definitionID" : "sequence:static\/examples\/composer-feature-tour.utab:32:13",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar:e84be0e7cc782be3",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:32:13"
+          ],
+          "column" : 13,
+          "endColumn" : 13,
+          "endLine" : 32,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "sequence:static\/examples\/composer-feature-tour.utab:32:13",
+          "line" : 32,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:4",
+            "bar"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0\/chord-tone:0:f8fd009d9ec32cf7",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0\/chord-tone:1:a6bde3130d8f1792",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0\/chord-tone:2:16d70e763f226e41",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0\/chord-tone:3:cefc5e6fa349e394"
+        ],
+        "definitionID" : "chord:static\/examples\/composer-feature-tour.utab:33:17",
+        "kind" : "parallel",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0:2530123dabd81f5b",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:32:13"
+          ],
+          "column" : 17,
+          "endColumn" : 35,
+          "endLine" : 33,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "chord:static\/examples\/composer-feature-tour.utab:33:17",
+          "line" : 33,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:4",
+            "bar",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1\/chord-tone:0:55b2a7361268128",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1\/chord-tone:1:3464e1daa24a71b5",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1\/chord-tone:2:b9e7b0f13acabe",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1\/chord-tone:3:f717c2cac9fb8f13",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1\/chord-tone:4:bad24b5589065f04"
+        ],
+        "definitionID" : "chord:static\/examples\/composer-feature-tour.utab:34:17",
+        "kind" : "parallel",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1:5b8ffbf98cb78c4f",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:32:13"
+          ],
+          "column" : 17,
+          "endColumn" : 52,
+          "endLine" : 34,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "chord:static\/examples\/composer-feature-tour.utab:34:17",
+          "line" : 34,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:4",
+            "bar",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0:b1242c19a06af888"
+        ],
+        "definitionID" : "sequence:static\/examples\/composer-feature-tour.utab:36:13",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar:98abcc9d0e500aaa",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:36:13"
+          ],
+          "column" : 13,
+          "endColumn" : 13,
+          "endLine" : 36,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "sequence:static\/examples\/composer-feature-tour.utab:36:13",
+          "line" : 36,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:5",
+            "bar"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0\/technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0:944864c3c5a7e13b"
+        ],
+        "definitionID" : "pedal:static\/examples\/composer-feature-tour.utab:37:17",
+        "kind" : "technique",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0:b1242c19a06af888",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:36:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 37,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "pedal:static\/examples\/composer-feature-tour.utab:37:17",
+          "line" : 37,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:5",
+            "bar",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0\/technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0\/sequence:0:43514f5611e46067",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0\/technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0\/sequence:1:855f0a2cca3031a9",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0\/technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0\/sequence:2:c4c5d141ac67cb62",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0\/technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0\/sequence:3:be5c04a75eb4fedf"
+        ],
+        "definitionID" : "sequence:static\/examples\/composer-feature-tour.utab:37:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0\/technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0:944864c3c5a7e13b",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:36:13",
+            "pedal:static\/examples\/composer-feature-tour.utab:37:17"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 37,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "sequence:static\/examples\/composer-feature-tour.utab:37:17",
+          "line" : 37,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:5",
+            "bar",
+            "sequence:0",
+            "technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0\/technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0\/sequence:3\/technique:modifier:letRing:static\/examples\/composer-feature-tour.utab:37:48:0:ad8cc147db888560"
+        ],
+        "definitionID" : "modifier:letRing:static\/examples\/composer-feature-tour.utab:37:48",
+        "kind" : "technique",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0\/technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0\/sequence:3:be5c04a75eb4fedf",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:36:13",
+            "pedal:static\/examples\/composer-feature-tour.utab:37:17"
+          ],
+          "column" : 48,
+          "endColumn" : 48,
+          "endLine" : 37,
+          "file" : "letRing:static\/examples\/composer-feature-tour.utab",
+          "id" : "modifier:letRing:static\/examples\/composer-feature-tour.utab:37:48",
+          "line" : 37,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:5",
+            "bar",
+            "sequence:0",
+            "technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:6\/bar\/sequence:0:bb9d13a01ca80d0e"
+        ],
+        "definitionID" : "sequence:static\/examples\/composer-feature-tour.utab:39:13",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:6\/bar:1d265a386b153c41",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:39:13"
+          ],
+          "column" : 13,
+          "endColumn" : 13,
+          "endLine" : 39,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "sequence:static\/examples\/composer-feature-tour.utab:39:13",
+          "line" : 39,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:6",
+            "bar"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      }
+    ],
+    "measures" : [
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0\/sequence:0\/proportional:2\/3\/sequence:0:5484f26b8ee180a9",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0\/sequence:0\/proportional:2\/3\/sequence:1:9988a29240e99fc2",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0\/sequence:0\/proportional:2\/3\/sequence:2:a54636d6ecffd122",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0\/sequence:1:167d37f15e56264c",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0\/sequence:2:8ddd076b5cbf50f3"
+        ],
+        "id" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21:section:study:measure:1",
+        "measure" : 1,
+        "sectionID" : "section:study",
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:1\/bar\/sequence:0:7e3b86f8762ba9ce",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:1\/bar\/sequence:1:c66ee967e6550b00",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:1\/bar\/sequence:2:9a8b71cf0653cd66",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:1\/bar\/sequence:3\/technique:ornament:trill:static\/examples\/composer-feature-tour.utab:26:17:0\/sequence:0:3ca96a12a2d416bf"
+        ],
+        "id" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21:section:study:measure:2",
+        "measure" : 2,
+        "sectionID" : "section:study",
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0\/sequence:0\/technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0\/sequence:0:5c8203d74cdb8c54",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0\/sequence:0\/technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0\/sequence:1:576cdb6a08d8565a",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0\/sequence:0\/technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0\/sequence:2\/technique:modifier:accent:static\/examples\/composer-feature-tour.utab:29:64:0:119a1c1e5f537395",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0\/sequence:0\/technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0\/sequence:3:313d93cf827fa789"
+        ],
+        "id" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21:section:study:measure:3",
+        "measure" : 3,
+        "sectionID" : "section:study",
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0\/chord-tone:0:f8fd009d9ec32cf7",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0\/chord-tone:1:a6bde3130d8f1792",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0\/chord-tone:2:16d70e763f226e41",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0\/chord-tone:3:cefc5e6fa349e394",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1\/chord-tone:0:55b2a7361268128",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1\/chord-tone:1:3464e1daa24a71b5",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1\/chord-tone:2:b9e7b0f13acabe",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1\/chord-tone:3:f717c2cac9fb8f13",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1\/chord-tone:4:bad24b5589065f04"
+        ],
+        "id" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21:section:study:measure:4",
+        "measure" : 4,
+        "sectionID" : "section:study",
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0\/technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0\/sequence:0:43514f5611e46067",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0\/technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0\/sequence:1:855f0a2cca3031a9",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0\/technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0\/sequence:2:c4c5d141ac67cb62",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0\/technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0\/sequence:3\/technique:modifier:letRing:static\/examples\/composer-feature-tour.utab:37:48:0:ad8cc147db888560"
+        ],
+        "id" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21:section:study:measure:5",
+        "measure" : 5,
+        "sectionID" : "section:study",
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:6\/bar\/sequence:0:bb9d13a01ca80d0e"
+        ],
+        "id" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21:section:study:measure:6",
+        "measure" : 6,
+        "sectionID" : "section:study",
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      }
+    ],
+    "occurrences" : [
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "note:static\/examples\/composer-feature-tour.utab:18:30",
+        "duration" : {
+          "quarterNotes" : "1\/3"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0\/sequence:0\/proportional:2\/3\/sequence:0:5484f26b8ee180a9",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:16:13",
+            "dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17",
+            "proportional:static\/examples\/composer-feature-tour.utab:18:17"
+          ],
+          "column" : 30,
+          "endColumn" : 34,
+          "endLine" : 18,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "note:static\/examples\/composer-feature-tour.utab:18:30",
+          "line" : 18,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:0",
+            "bar",
+            "sequence:0",
+            "technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0",
+            "sequence:0",
+            "proportional:2\/3",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 1,
+            "offset" : "1\/3"
+          }
+        },
+        "definitionID" : "note:static\/examples\/composer-feature-tour.utab:18:36",
+        "duration" : {
+          "quarterNotes" : "1\/3"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0\/sequence:0\/proportional:2\/3\/sequence:1:9988a29240e99fc2",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:16:13",
+            "dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17",
+            "proportional:static\/examples\/composer-feature-tour.utab:18:17"
+          ],
+          "column" : 36,
+          "endColumn" : 40,
+          "endLine" : 18,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "note:static\/examples\/composer-feature-tour.utab:18:36",
+          "line" : 18,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:0",
+            "bar",
+            "sequence:0",
+            "technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0",
+            "sequence:0",
+            "proportional:2\/3",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 1,
+            "offset" : "2\/3"
+          }
+        },
+        "definitionID" : "note:static\/examples\/composer-feature-tour.utab:18:42",
+        "duration" : {
+          "quarterNotes" : "1\/3"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0\/sequence:0\/proportional:2\/3\/sequence:2:a54636d6ecffd122",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:16:13",
+            "dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17",
+            "proportional:static\/examples\/composer-feature-tour.utab:18:17"
+          ],
+          "column" : 42,
+          "endColumn" : 46,
+          "endLine" : 18,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "note:static\/examples\/composer-feature-tour.utab:18:42",
+          "line" : 18,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:0",
+            "bar",
+            "sequence:0",
+            "technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0",
+            "sequence:0",
+            "proportional:2\/3",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "note:static\/examples\/composer-feature-tour.utab:19:17",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0\/sequence:1:167d37f15e56264c",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:16:13",
+            "dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17"
+          ],
+          "column" : 17,
+          "endColumn" : 21,
+          "endLine" : 19,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "note:static\/examples\/composer-feature-tour.utab:19:17",
+          "line" : 19,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:0",
+            "bar",
+            "sequence:0",
+            "technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "note:static\/examples\/composer-feature-tour.utab:20:17",
+        "duration" : {
+          "quarterNotes" : "2\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0\/sequence:2:8ddd076b5cbf50f3",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:16:13",
+            "dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17"
+          ],
+          "column" : 17,
+          "endColumn" : 21,
+          "endLine" : 20,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "note:static\/examples\/composer-feature-tour.utab:20:17",
+          "line" : 20,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:0",
+            "bar",
+            "sequence:0",
+            "technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "note:static\/examples\/composer-feature-tour.utab:23:17",
+        "duration" : {
+          "quarterNotes" : "1\/4"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:1\/bar\/sequence:0:7e3b86f8762ba9ce",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:22:13"
+          ],
+          "column" : 17,
+          "endColumn" : 21,
+          "endLine" : 23,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "note:static\/examples\/composer-feature-tour.utab:23:17",
+          "line" : 23,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:1",
+            "bar",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 2,
+            "offset" : "1\/4"
+          }
+        },
+        "definitionID" : "note:static\/examples\/composer-feature-tour.utab:24:17",
+        "duration" : {
+          "quarterNotes" : "1\/4"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:1\/bar\/sequence:1:c66ee967e6550b00",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:22:13"
+          ],
+          "column" : 17,
+          "endColumn" : 21,
+          "endLine" : 24,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "note:static\/examples\/composer-feature-tour.utab:24:17",
+          "line" : 24,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:1",
+            "bar",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 2,
+            "offset" : "1\/2"
+          }
+        },
+        "definitionID" : "note:static\/examples\/composer-feature-tour.utab:25:17",
+        "duration" : {
+          "quarterNotes" : "3\/2"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:1\/bar\/sequence:2:9a8b71cf0653cd66",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:22:13"
+          ],
+          "column" : 17,
+          "endColumn" : 22,
+          "endLine" : 25,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "note:static\/examples\/composer-feature-tour.utab:25:17",
+          "line" : 25,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:1",
+            "bar",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "note:static\/examples\/composer-feature-tour.utab:26:36",
+        "duration" : {
+          "quarterNotes" : "2\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:1\/bar\/sequence:3\/technique:ornament:trill:static\/examples\/composer-feature-tour.utab:26:17:0\/sequence:0:3ca96a12a2d416bf",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:22:13",
+            "ornament:trill:static\/examples\/composer-feature-tour.utab:26:17"
+          ],
+          "column" : 36,
+          "endColumn" : 40,
+          "endLine" : 26,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "note:static\/examples\/composer-feature-tour.utab:26:36",
+          "line" : 26,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:1",
+            "bar",
+            "sequence:3",
+            "technique:ornament:trill:static\/examples\/composer-feature-tour.utab:26:17:0",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 3
+          }
+        },
+        "definitionID" : "note:static\/examples\/composer-feature-tour.utab:29:47",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0\/sequence:0\/technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0\/sequence:0:5c8203d74cdb8c54",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:28:13",
+            "dynamic:p:static\/examples\/composer-feature-tour.utab:29:17",
+            "dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30"
+          ],
+          "column" : 47,
+          "endColumn" : 51,
+          "endLine" : 29,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "note:static\/examples\/composer-feature-tour.utab:29:47",
+          "line" : 29,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:2",
+            "bar",
+            "sequence:0",
+            "technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0",
+            "sequence:0",
+            "technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 3
+          }
+        },
+        "definitionID" : "note:static\/examples\/composer-feature-tour.utab:29:53",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0\/sequence:0\/technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0\/sequence:1:576cdb6a08d8565a",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:28:13",
+            "dynamic:p:static\/examples\/composer-feature-tour.utab:29:17",
+            "dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30"
+          ],
+          "column" : 53,
+          "endColumn" : 57,
+          "endLine" : 29,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "note:static\/examples\/composer-feature-tour.utab:29:53",
+          "line" : 29,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:2",
+            "bar",
+            "sequence:0",
+            "technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0",
+            "sequence:0",
+            "technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 3
+          }
+        },
+        "definitionID" : "note:static\/examples\/composer-feature-tour.utab:29:59",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0\/sequence:0\/technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0\/sequence:2\/technique:modifier:accent:static\/examples\/composer-feature-tour.utab:29:64:0:119a1c1e5f537395",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:28:13",
+            "dynamic:p:static\/examples\/composer-feature-tour.utab:29:17",
+            "dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30",
+            "modifier:accent:static\/examples\/composer-feature-tour.utab:29:64"
+          ],
+          "column" : 59,
+          "endColumn" : 70,
+          "endLine" : 29,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "note:static\/examples\/composer-feature-tour.utab:29:59",
+          "line" : 29,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:2",
+            "bar",
+            "sequence:0",
+            "technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0",
+            "sequence:0",
+            "technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0",
+            "sequence:2",
+            "technique:modifier:accent:static\/examples\/composer-feature-tour.utab:29:64:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 3
+          }
+        },
+        "definitionID" : "note:static\/examples\/composer-feature-tour.utab:29:72",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0\/sequence:0\/technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0\/sequence:3:313d93cf827fa789",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:28:13",
+            "dynamic:p:static\/examples\/composer-feature-tour.utab:29:17",
+            "dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30"
+          ],
+          "column" : 72,
+          "endColumn" : 76,
+          "endLine" : 29,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "note:static\/examples\/composer-feature-tour.utab:29:72",
+          "line" : 29,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:2",
+            "bar",
+            "sequence:0",
+            "technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0",
+            "sequence:0",
+            "technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 4
+          }
+        },
+        "definitionID" : "tempo-ramp:static\/examples\/composer-feature-tour.utab:31:13",
+        "duration" : {
+          "quarterNotes" : "0\/1"
+        },
+        "kind" : "rest",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:3:24bf371e07093af0",
+        "sectionID" : "section:study",
+        "source" : {
+          "column" : 13,
+          "endColumn" : 45,
+          "endLine" : 31,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "tempo-ramp:static\/examples\/composer-feature-tour.utab:31:13",
+          "line" : 31,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:3"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 4
+          }
+        },
+        "definitionID" : "chord:static\/examples\/composer-feature-tour.utab:33:17",
+        "duration" : {
+          "quarterNotes" : "2\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0\/chord-tone:0:f8fd009d9ec32cf7",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:32:13",
+            "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0:2530123dabd81f5b"
+          ],
+          "column" : 17,
+          "endColumn" : 35,
+          "endLine" : 33,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "chord:static\/examples\/composer-feature-tour.utab:33:17",
+          "line" : 33,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:4",
+            "bar",
+            "sequence:0",
+            "chord-tone:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 4
+          }
+        },
+        "definitionID" : "chord:static\/examples\/composer-feature-tour.utab:33:17",
+        "duration" : {
+          "quarterNotes" : "2\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0\/chord-tone:1:a6bde3130d8f1792",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:32:13",
+            "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0:2530123dabd81f5b"
+          ],
+          "column" : 17,
+          "endColumn" : 35,
+          "endLine" : 33,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "chord:static\/examples\/composer-feature-tour.utab:33:17",
+          "line" : 33,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:4",
+            "bar",
+            "sequence:0",
+            "chord-tone:1"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 4
+          }
+        },
+        "definitionID" : "chord:static\/examples\/composer-feature-tour.utab:33:17",
+        "duration" : {
+          "quarterNotes" : "2\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0\/chord-tone:2:16d70e763f226e41",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:32:13",
+            "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0:2530123dabd81f5b"
+          ],
+          "column" : 17,
+          "endColumn" : 35,
+          "endLine" : 33,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "chord:static\/examples\/composer-feature-tour.utab:33:17",
+          "line" : 33,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:4",
+            "bar",
+            "sequence:0",
+            "chord-tone:2"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 4
+          }
+        },
+        "definitionID" : "chord:static\/examples\/composer-feature-tour.utab:33:17",
+        "duration" : {
+          "quarterNotes" : "2\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0\/chord-tone:3:cefc5e6fa349e394",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:32:13",
+            "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0:2530123dabd81f5b"
+          ],
+          "column" : 17,
+          "endColumn" : 35,
+          "endLine" : 33,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "chord:static\/examples\/composer-feature-tour.utab:33:17",
+          "line" : 33,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:4",
+            "bar",
+            "sequence:0",
+            "chord-tone:3"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 4
+          }
+        },
+        "definitionID" : "chord:static\/examples\/composer-feature-tour.utab:34:17",
+        "duration" : {
+          "quarterNotes" : "2\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1\/chord-tone:0:55b2a7361268128",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:32:13",
+            "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1:5b8ffbf98cb78c4f"
+          ],
+          "column" : 17,
+          "endColumn" : 52,
+          "endLine" : 34,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "chord:static\/examples\/composer-feature-tour.utab:34:17",
+          "line" : 34,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:4",
+            "bar",
+            "sequence:1",
+            "chord-tone:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 4
+          }
+        },
+        "definitionID" : "chord:static\/examples\/composer-feature-tour.utab:34:17",
+        "duration" : {
+          "quarterNotes" : "2\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1\/chord-tone:1:3464e1daa24a71b5",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:32:13",
+            "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1:5b8ffbf98cb78c4f"
+          ],
+          "column" : 17,
+          "endColumn" : 52,
+          "endLine" : 34,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "chord:static\/examples\/composer-feature-tour.utab:34:17",
+          "line" : 34,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:4",
+            "bar",
+            "sequence:1",
+            "chord-tone:1"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 4
+          }
+        },
+        "definitionID" : "chord:static\/examples\/composer-feature-tour.utab:34:17",
+        "duration" : {
+          "quarterNotes" : "2\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1\/chord-tone:2:b9e7b0f13acabe",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:32:13",
+            "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1:5b8ffbf98cb78c4f"
+          ],
+          "column" : 17,
+          "endColumn" : 52,
+          "endLine" : 34,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "chord:static\/examples\/composer-feature-tour.utab:34:17",
+          "line" : 34,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:4",
+            "bar",
+            "sequence:1",
+            "chord-tone:2"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 4
+          }
+        },
+        "definitionID" : "chord:static\/examples\/composer-feature-tour.utab:34:17",
+        "duration" : {
+          "quarterNotes" : "2\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1\/chord-tone:3:f717c2cac9fb8f13",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:32:13",
+            "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1:5b8ffbf98cb78c4f"
+          ],
+          "column" : 17,
+          "endColumn" : 52,
+          "endLine" : 34,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "chord:static\/examples\/composer-feature-tour.utab:34:17",
+          "line" : 34,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:4",
+            "bar",
+            "sequence:1",
+            "chord-tone:3"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 4
+          }
+        },
+        "definitionID" : "chord:static\/examples\/composer-feature-tour.utab:34:17",
+        "duration" : {
+          "quarterNotes" : "2\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1\/chord-tone:4:bad24b5589065f04",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:32:13",
+            "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1:5b8ffbf98cb78c4f"
+          ],
+          "column" : 17,
+          "endColumn" : 52,
+          "endLine" : 34,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "chord:static\/examples\/composer-feature-tour.utab:34:17",
+          "line" : 34,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:4",
+            "bar",
+            "sequence:1",
+            "chord-tone:4"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 5
+          }
+        },
+        "definitionID" : "note:static\/examples\/composer-feature-tour.utab:37:25",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0\/technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0\/sequence:0:43514f5611e46067",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:36:13",
+            "pedal:static\/examples\/composer-feature-tour.utab:37:17"
+          ],
+          "column" : 25,
+          "endColumn" : 29,
+          "endLine" : 37,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "note:static\/examples\/composer-feature-tour.utab:37:25",
+          "line" : 37,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:5",
+            "bar",
+            "sequence:0",
+            "technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 5
+          }
+        },
+        "definitionID" : "note:static\/examples\/composer-feature-tour.utab:37:31",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0\/technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0\/sequence:1:855f0a2cca3031a9",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:36:13",
+            "pedal:static\/examples\/composer-feature-tour.utab:37:17"
+          ],
+          "column" : 31,
+          "endColumn" : 35,
+          "endLine" : 37,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "note:static\/examples\/composer-feature-tour.utab:37:31",
+          "line" : 37,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:5",
+            "bar",
+            "sequence:0",
+            "technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 5
+          }
+        },
+        "definitionID" : "note:static\/examples\/composer-feature-tour.utab:37:37",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0\/technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0\/sequence:2:c4c5d141ac67cb62",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:36:13",
+            "pedal:static\/examples\/composer-feature-tour.utab:37:17"
+          ],
+          "column" : 37,
+          "endColumn" : 41,
+          "endLine" : 37,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "note:static\/examples\/composer-feature-tour.utab:37:37",
+          "line" : 37,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:5",
+            "bar",
+            "sequence:0",
+            "technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 5
+          }
+        },
+        "definitionID" : "note:static\/examples\/composer-feature-tour.utab:37:43",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0\/technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0\/sequence:3\/technique:modifier:letRing:static\/examples\/composer-feature-tour.utab:37:48:0:ad8cc147db888560",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:36:13",
+            "pedal:static\/examples\/composer-feature-tour.utab:37:17",
+            "modifier:letRing:static\/examples\/composer-feature-tour.utab:37:48"
+          ],
+          "column" : 43,
+          "endColumn" : 55,
+          "endLine" : 37,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "note:static\/examples\/composer-feature-tour.utab:37:43",
+          "line" : 37,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:5",
+            "bar",
+            "sequence:0",
+            "technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0",
+            "sequence:3",
+            "technique:modifier:letRing:static\/examples\/composer-feature-tour.utab:37:48:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 6
+          }
+        },
+        "definitionID" : "rest:static\/examples\/composer-feature-tour.utab:39:19",
+        "duration" : {
+          "quarterNotes" : "4\/1"
+        },
+        "kind" : "rest",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:6\/bar\/sequence:0:bb9d13a01ca80d0e",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/composer-feature-tour.utab:39:13"
+          ],
+          "column" : 19,
+          "endColumn" : 25,
+          "endLine" : 39,
+          "file" : "static\/examples\/composer-feature-tour.utab",
+          "id" : "rest:static\/examples\/composer-feature-tour.utab:39:19",
+          "line" : 39,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+            "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+            "content:6",
+            "bar",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21"
+      }
+    ],
+    "scale" : {
+      "centIntervals" : [
+        0,
+        200,
+        400,
+        500,
+        700,
+        900,
+        1100
+      ],
+      "name" : "major",
+      "tonic" : "C"
+    },
+    "version" : 1
+  },
+  "harmony" : [
+    {
+      "at" : {
+        "musical" : {
+          "beat" : 1,
+          "measure" : 4
+        }
+      },
+      "duration" : {
+        "quarterNotes" : "2\/1"
+      },
+      "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0:2530123dabd81f5b",
+      "section" : "section:study",
+      "source" : {
+        "ancestry" : [
+          "bar:static\/examples\/composer-feature-tour.utab:32:13"
+        ],
+        "origin" : "chord:static\/examples\/composer-feature-tour.utab:33:17",
+        "path" : [
+          "section:section:study",
+          "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+          "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+          "content:4",
+          "bar",
+          "sequence:0"
+        ]
+      },
+      "value" : {
+        "quality" : "minor7",
+        "root" : "A",
+        "symbol" : "Am7"
+      }
+    },
+    {
+      "at" : {
+        "musical" : {
+          "beat" : 3,
+          "measure" : 4
+        }
+      },
+      "duration" : {
+        "quarterNotes" : "2\/1"
+      },
+      "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1:5b8ffbf98cb78c4f",
+      "section" : "section:study",
+      "source" : {
+        "ancestry" : [
+          "bar:static\/examples\/composer-feature-tour.utab:32:13"
+        ],
+        "origin" : "chord:static\/examples\/composer-feature-tour.utab:34:17",
+        "path" : [
+          "section:section:study",
+          "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+          "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+          "content:4",
+          "bar",
+          "sequence:1"
+        ]
+      },
+      "value" : {
+        "quality" : "dominant7",
+        "root" : "C",
+        "symbol" : "C7"
+      }
+    }
+  ],
+  "setup" : {
+    "arrangement" : [
+      {
+        "id" : "section-occurrence:main\/sequence:0\/reference:section-reference:static\/examples\/composer-feature-tour.utab:44:8:48a51d9b9a8d6236",
+        "section" : "section:study"
+      }
+    ],
+    "instruments" : [
+      {
+        "id" : "piano",
+        "name" : "Piano",
+        "profile" : "profile:generated:piano",
+        "realization" : {
+          "midi" : {
+            "percussion" : false,
+            "program" : 1
+          }
+        }
+      }
+    ],
+    "profiles" : [
+      {
+        "actuators" : {
+          "keys" : {
+            "count" : 68,
+            "type" : "generated"
+          },
+          "sustain" : {
+            "type" : "generated"
+          }
+        },
+        "id" : "profile:generated:piano",
+        "interactions" : {
+          "pedalDown" : {
+
+          },
+          "pedalUp" : {
+
+          },
+          "press" : {
+
+          }
+        },
+        "name" : "Generated Piano profile",
+        "profileVersion" : "0.1-draft",
+        "techniques" : {
+          "accent" : {
+
+          },
+          "letRing" : {
+
+          }
+        }
+      }
+    ],
+    "sections" : [
+      {
+        "id" : "section:study",
+        "length" : {
+          "measures" : 6
+        },
+        "meterMap" : [
+          {
+            "at" : {
+              "measure" : 1
+            },
+            "denominator" : 4,
+            "numerator" : 4
+          }
+        ],
+        "name" : "study"
+      }
+    ],
+    "time" : {
+      "meter" : {
+        "denominator" : 4,
+        "numerator" : 4
+      },
+      "tempo" : {
+        "quarterNotesPerMinute" : 96
+      },
+      "tempoMap" : [
+        {
+          "at" : {
+            "beat" : 2,
+            "entry" : "section-occurrence:main\/sequence:0\/reference:section-reference:static\/examples\/composer-feature-tour.utab:44:8:48a51d9b9a8d6236",
+            "measure" : 4
+          },
+          "quarterNotesPerMinute" : 102
+        },
+        {
+          "at" : {
+            "beat" : 3,
+            "entry" : "section-occurrence:main\/sequence:0\/reference:section-reference:static\/examples\/composer-feature-tour.utab:44:8:48a51d9b9a8d6236",
+            "measure" : 4
+          },
+          "quarterNotesPerMinute" : 108
+        },
+        {
+          "at" : {
+            "beat" : 4,
+            "entry" : "section-occurrence:main\/sequence:0\/reference:section-reference:static\/examples\/composer-feature-tour.utab:44:8:48a51d9b9a8d6236",
+            "measure" : 4
+          },
+          "quarterNotesPerMinute" : 114
+        },
+        {
+          "at" : {
+            "beat" : 1,
+            "entry" : "section-occurrence:main\/sequence:0\/reference:section-reference:static\/examples\/composer-feature-tour.utab:44:8:48a51d9b9a8d6236",
+            "measure" : 5
+          },
+          "quarterNotesPerMinute" : 120
+        }
+      ]
+    },
+    "tunings" : [
+      {
+        "divisions" : 12,
+        "id" : "12edo",
+        "names" : {
+          "A" : 9,
+          "Ab" : 8,
+          "B" : 11,
+          "Bb" : 10,
+          "C" : 0,
+          "C#" : 1,
+          "D" : 2,
+          "E" : 4,
+          "Eb" : 3,
+          "F" : 5,
+          "F#" : 6,
+          "G" : 7
+        },
+        "periodRatio" : "2\/1",
+        "reference" : {
+          "frequencyHz" : 440,
+          "pitch" : {
+            "degree" : 9,
+            "period" : 4
+          }
+        },
+        "type" : "equalDivision"
+      }
+    ]
+  },
+  "tracks" : [
+    {
+      "id" : "track:piano:voice:static\/examples\/composer-feature-tour.utab:15:21",
+      "instrument" : "piano",
+      "name" : "Piano — music",
+      "parts" : [
+        {
+          "events" : [
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/3"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0\/sequence:0\/proportional:2\/3\/sequence:0:5484f26b8ee180a9",
+              "parameters" : {
+                "intensity" : 0.66,
+                "pitch" : {
+                  "degree" : 0,
+                  "period" : 5,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:16:13",
+                  "dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17",
+                  "proportional:static\/examples\/composer-feature-tour.utab:18:17"
+                ],
+                "column" : 30,
+                "endColumn" : 34,
+                "endLine" : 18,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "note:static\/examples\/composer-feature-tour.utab:18:30",
+                "line" : 18,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:0",
+                  "bar",
+                  "sequence:0",
+                  "technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0",
+                  "sequence:0",
+                  "proportional:2\/3",
+                  "sequence:0"
+                ]
+              },
+              "target" : "keys[52]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 1,
+                  "offset" : "1\/3"
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/3"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0\/sequence:0\/proportional:2\/3\/sequence:1:9988a29240e99fc2",
+              "parameters" : {
+                "intensity" : 0.66,
+                "pitch" : {
+                  "degree" : 2,
+                  "period" : 5,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:16:13",
+                  "dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17",
+                  "proportional:static\/examples\/composer-feature-tour.utab:18:17"
+                ],
+                "column" : 36,
+                "endColumn" : 40,
+                "endLine" : 18,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "note:static\/examples\/composer-feature-tour.utab:18:36",
+                "line" : 18,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:0",
+                  "bar",
+                  "sequence:0",
+                  "technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0",
+                  "sequence:0",
+                  "proportional:2\/3",
+                  "sequence:1"
+                ]
+              },
+              "target" : "keys[54]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 1,
+                  "offset" : "2\/3"
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/3"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0\/sequence:0\/proportional:2\/3\/sequence:2:a54636d6ecffd122",
+              "parameters" : {
+                "intensity" : 0.66,
+                "pitch" : {
+                  "degree" : 4,
+                  "period" : 5,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:16:13",
+                  "dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17",
+                  "proportional:static\/examples\/composer-feature-tour.utab:18:17"
+                ],
+                "column" : 42,
+                "endColumn" : 46,
+                "endLine" : 18,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "note:static\/examples\/composer-feature-tour.utab:18:42",
+                "line" : 18,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:0",
+                  "bar",
+                  "sequence:0",
+                  "technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0",
+                  "sequence:0",
+                  "proportional:2\/3",
+                  "sequence:2"
+                ]
+              },
+              "target" : "keys[56]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0\/sequence:1:167d37f15e56264c",
+              "parameters" : {
+                "intensity" : 0.66,
+                "pitch" : {
+                  "degree" : 5,
+                  "period" : 5,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:16:13",
+                  "dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17"
+                ],
+                "column" : 17,
+                "endColumn" : 21,
+                "endLine" : 19,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "note:static\/examples\/composer-feature-tour.utab:19:17",
+                "line" : 19,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:0",
+                  "bar",
+                  "sequence:0",
+                  "technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0",
+                  "sequence:1"
+                ]
+              },
+              "target" : "keys[57]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "2\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:0\/bar\/sequence:0\/technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0\/sequence:2:8ddd076b5cbf50f3",
+              "parameters" : {
+                "intensity" : 0.66,
+                "pitch" : {
+                  "degree" : 7,
+                  "period" : 5,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:16:13",
+                  "dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17"
+                ],
+                "column" : 17,
+                "endColumn" : 21,
+                "endLine" : 20,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "note:static\/examples\/composer-feature-tour.utab:20:17",
+                "line" : 20,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:0",
+                  "bar",
+                  "sequence:0",
+                  "technique:dynamic:mf:static\/examples\/composer-feature-tour.utab:18:17:0",
+                  "sequence:2"
+                ]
+              },
+              "target" : "keys[59]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/4"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:1\/bar\/sequence:0:7e3b86f8762ba9ce",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 2,
+                  "period" : 5,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:22:13"
+                ],
+                "column" : 17,
+                "endColumn" : 21,
+                "endLine" : 23,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "note:static\/examples\/composer-feature-tour.utab:23:17",
+                "line" : 23,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:1",
+                  "bar",
+                  "sequence:0"
+                ]
+              },
+              "target" : "keys[54]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 2,
+                  "offset" : "1\/4"
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/4"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:1\/bar\/sequence:1:c66ee967e6550b00",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 4,
+                  "period" : 5,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:22:13"
+                ],
+                "column" : 17,
+                "endColumn" : 21,
+                "endLine" : 24,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "note:static\/examples\/composer-feature-tour.utab:24:17",
+                "line" : 24,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:1",
+                  "bar",
+                  "sequence:1"
+                ]
+              },
+              "target" : "keys[56]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 2,
+                  "offset" : "1\/2"
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "3\/2"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:1\/bar\/sequence:2:9a8b71cf0653cd66",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 0,
+                  "period" : 5,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:22:13"
+                ],
+                "column" : 17,
+                "endColumn" : 22,
+                "endLine" : 25,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "note:static\/examples\/composer-feature-tour.utab:25:17",
+                "line" : 25,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:1",
+                  "bar",
+                  "sequence:2"
+                ]
+              },
+              "target" : "keys[52]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "2\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:1\/bar\/sequence:3\/technique:ornament:trill:static\/examples\/composer-feature-tour.utab:26:17:0\/sequence:0:3ca96a12a2d416bf",
+              "parameters" : {
+                "ornament" : "trill",
+                "ornamentSubdivision" : "1\/16",
+                "pitch" : {
+                  "degree" : 2,
+                  "period" : 5,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:22:13",
+                  "ornament:trill:static\/examples\/composer-feature-tour.utab:26:17"
+                ],
+                "column" : 36,
+                "endColumn" : 40,
+                "endLine" : 26,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "note:static\/examples\/composer-feature-tour.utab:26:36",
+                "line" : 26,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:1",
+                  "bar",
+                  "sequence:3",
+                  "technique:ornament:trill:static\/examples\/composer-feature-tour.utab:26:17:0",
+                  "sequence:0"
+                ]
+              },
+              "target" : "keys[54]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 3
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0\/sequence:0\/technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0\/sequence:0:5c8203d74cdb8c54",
+              "parameters" : {
+                "intensity" : 0.38,
+                "pitch" : {
+                  "degree" : 0,
+                  "period" : 5,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:28:13",
+                  "dynamic:p:static\/examples\/composer-feature-tour.utab:29:17",
+                  "dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30"
+                ],
+                "column" : 47,
+                "endColumn" : 51,
+                "endLine" : 29,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "note:static\/examples\/composer-feature-tour.utab:29:47",
+                "line" : 29,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:2",
+                  "bar",
+                  "sequence:0",
+                  "technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0",
+                  "sequence:0",
+                  "technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0",
+                  "sequence:0"
+                ]
+              },
+              "target" : "keys[52]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 3
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0\/sequence:0\/technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0\/sequence:1:576cdb6a08d8565a",
+              "parameters" : {
+                "intensity" : 0.48,
+                "pitch" : {
+                  "degree" : 2,
+                  "period" : 5,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:28:13",
+                  "dynamic:p:static\/examples\/composer-feature-tour.utab:29:17",
+                  "dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30"
+                ],
+                "column" : 53,
+                "endColumn" : 57,
+                "endLine" : 29,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "note:static\/examples\/composer-feature-tour.utab:29:53",
+                "line" : 29,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:2",
+                  "bar",
+                  "sequence:0",
+                  "technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0",
+                  "sequence:0",
+                  "technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0",
+                  "sequence:1"
+                ]
+              },
+              "target" : "keys[54]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 3
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0\/sequence:0\/technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0\/sequence:2\/technique:modifier:accent:static\/examples\/composer-feature-tour.utab:29:64:0:119a1c1e5f537395",
+              "parameters" : {
+                "accent" : true,
+                "intensity" : 0.6799999999999999,
+                "pitch" : {
+                  "degree" : 4,
+                  "period" : 5,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:28:13",
+                  "dynamic:p:static\/examples\/composer-feature-tour.utab:29:17",
+                  "dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30",
+                  "modifier:accent:static\/examples\/composer-feature-tour.utab:29:64"
+                ],
+                "column" : 59,
+                "endColumn" : 70,
+                "endLine" : 29,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "note:static\/examples\/composer-feature-tour.utab:29:59",
+                "line" : 29,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:2",
+                  "bar",
+                  "sequence:0",
+                  "technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0",
+                  "sequence:0",
+                  "technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0",
+                  "sequence:2",
+                  "technique:modifier:accent:static\/examples\/composer-feature-tour.utab:29:64:0"
+                ]
+              },
+              "target" : "keys[56]",
+              "techniques" : [
+                "accent"
+              ]
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 3
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:2\/bar\/sequence:0\/technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0\/sequence:0\/technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0\/sequence:3:313d93cf827fa789",
+              "parameters" : {
+                "intensity" : 0.68,
+                "pitch" : {
+                  "degree" : 5,
+                  "period" : 5,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:28:13",
+                  "dynamic:p:static\/examples\/composer-feature-tour.utab:29:17",
+                  "dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30"
+                ],
+                "column" : 72,
+                "endColumn" : 76,
+                "endLine" : 29,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "note:static\/examples\/composer-feature-tour.utab:29:72",
+                "line" : 29,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:2",
+                  "bar",
+                  "sequence:0",
+                  "technique:dynamic:p:static\/examples\/composer-feature-tour.utab:29:17:0",
+                  "sequence:0",
+                  "technique:dynamic-envelope:crescendo:static\/examples\/composer-feature-tour.utab:29:30:0",
+                  "sequence:3"
+                ]
+              },
+              "target" : "keys[57]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 4
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "2\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0\/chord-tone:0:f8fd009d9ec32cf7",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 7,
+                  "period" : 5,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:32:13",
+                  "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0:2530123dabd81f5b"
+                ],
+                "column" : 17,
+                "endColumn" : 35,
+                "endLine" : 33,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "chord:static\/examples\/composer-feature-tour.utab:33:17",
+                "line" : 33,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:4",
+                  "bar",
+                  "sequence:0",
+                  "chord-tone:0"
+                ]
+              },
+              "target" : "keys[59]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 4
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "2\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0\/chord-tone:1:a6bde3130d8f1792",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 9,
+                  "period" : 5,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:32:13",
+                  "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0:2530123dabd81f5b"
+                ],
+                "column" : 17,
+                "endColumn" : 35,
+                "endLine" : 33,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "chord:static\/examples\/composer-feature-tour.utab:33:17",
+                "line" : 33,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:4",
+                  "bar",
+                  "sequence:0",
+                  "chord-tone:1"
+                ]
+              },
+              "target" : "keys[61]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 4
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "2\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0\/chord-tone:2:16d70e763f226e41",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 0,
+                  "period" : 6,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:32:13",
+                  "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0:2530123dabd81f5b"
+                ],
+                "column" : 17,
+                "endColumn" : 35,
+                "endLine" : 33,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "chord:static\/examples\/composer-feature-tour.utab:33:17",
+                "line" : 33,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:4",
+                  "bar",
+                  "sequence:0",
+                  "chord-tone:2"
+                ]
+              },
+              "target" : "keys[64]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 4
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "2\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0\/chord-tone:3:cefc5e6fa349e394",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 4,
+                  "period" : 6,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:32:13",
+                  "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:0:2530123dabd81f5b"
+                ],
+                "column" : 17,
+                "endColumn" : 35,
+                "endLine" : 33,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "chord:static\/examples\/composer-feature-tour.utab:33:17",
+                "line" : 33,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:4",
+                  "bar",
+                  "sequence:0",
+                  "chord-tone:3"
+                ]
+              },
+              "target" : "keys[68]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 4
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "2\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1\/chord-tone:0:55b2a7361268128",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 0,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:32:13",
+                  "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1:5b8ffbf98cb78c4f"
+                ],
+                "column" : 17,
+                "endColumn" : 52,
+                "endLine" : 34,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "chord:static\/examples\/composer-feature-tour.utab:34:17",
+                "line" : 34,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:4",
+                  "bar",
+                  "sequence:1",
+                  "chord-tone:0"
+                ]
+              },
+              "target" : "keys[40]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 4
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "2\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1\/chord-tone:1:3464e1daa24a71b5",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 4,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:32:13",
+                  "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1:5b8ffbf98cb78c4f"
+                ],
+                "column" : 17,
+                "endColumn" : 52,
+                "endLine" : 34,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "chord:static\/examples\/composer-feature-tour.utab:34:17",
+                "line" : 34,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:4",
+                  "bar",
+                  "sequence:1",
+                  "chord-tone:1"
+                ]
+              },
+              "target" : "keys[44]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 4
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "2\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1\/chord-tone:2:b9e7b0f13acabe",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 6,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:32:13",
+                  "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1:5b8ffbf98cb78c4f"
+                ],
+                "column" : 17,
+                "endColumn" : 52,
+                "endLine" : 34,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "chord:static\/examples\/composer-feature-tour.utab:34:17",
+                "line" : 34,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:4",
+                  "bar",
+                  "sequence:1",
+                  "chord-tone:2"
+                ]
+              },
+              "target" : "keys[46]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 4
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "2\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1\/chord-tone:3:f717c2cac9fb8f13",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 10,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:32:13",
+                  "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1:5b8ffbf98cb78c4f"
+                ],
+                "column" : 17,
+                "endColumn" : 52,
+                "endLine" : 34,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "chord:static\/examples\/composer-feature-tour.utab:34:17",
+                "line" : 34,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:4",
+                  "bar",
+                  "sequence:1",
+                  "chord-tone:3"
+                ]
+              },
+              "target" : "keys[50]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 4
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "2\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1\/chord-tone:4:bad24b5589065f04",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 3,
+                  "period" : 5,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:32:13",
+                  "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:4\/bar\/sequence:1:5b8ffbf98cb78c4f"
+                ],
+                "column" : 17,
+                "endColumn" : 52,
+                "endLine" : 34,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "chord:static\/examples\/composer-feature-tour.utab:34:17",
+                "line" : 34,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:4",
+                  "bar",
+                  "sequence:1",
+                  "chord-tone:4"
+                ]
+              },
+              "target" : "keys[55]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 5
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0\/technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0\/sequence:0:43514f5611e46067",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 0,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:36:13",
+                  "pedal:static\/examples\/composer-feature-tour.utab:37:17"
+                ],
+                "column" : 25,
+                "endColumn" : 29,
+                "endLine" : 37,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "note:static\/examples\/composer-feature-tour.utab:37:25",
+                "line" : 37,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:5",
+                  "bar",
+                  "sequence:0",
+                  "technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0",
+                  "sequence:0"
+                ]
+              },
+              "target" : "keys[40]"
+            },
+            {
+              "action" : "pedalDown",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 5
+                }
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0:b1242c19a06af888:pedal:down",
+              "parameters" : {
+                "value" : 1
+              },
+              "source" : {
+                "column" : 17,
+                "endColumn" : 17,
+                "endLine" : 37,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "pedal:static\/examples\/composer-feature-tour.utab:37:17",
+                "line" : 37
+              },
+              "target" : "sustain"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 5
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0\/technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0\/sequence:1:855f0a2cca3031a9",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 4,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:36:13",
+                  "pedal:static\/examples\/composer-feature-tour.utab:37:17"
+                ],
+                "column" : 31,
+                "endColumn" : 35,
+                "endLine" : 37,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "note:static\/examples\/composer-feature-tour.utab:37:31",
+                "line" : 37,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:5",
+                  "bar",
+                  "sequence:0",
+                  "technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0",
+                  "sequence:1"
+                ]
+              },
+              "target" : "keys[44]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 5
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0\/technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0\/sequence:2:c4c5d141ac67cb62",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 7,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:36:13",
+                  "pedal:static\/examples\/composer-feature-tour.utab:37:17"
+                ],
+                "column" : 37,
+                "endColumn" : 41,
+                "endLine" : 37,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "note:static\/examples\/composer-feature-tour.utab:37:37",
+                "line" : 37,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:5",
+                  "bar",
+                  "sequence:0",
+                  "technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0",
+                  "sequence:2"
+                ]
+              },
+              "target" : "keys[47]"
+            },
+            {
+              "action" : "press",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 5
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "5\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0\/technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0\/sequence:3\/technique:modifier:letRing:static\/examples\/composer-feature-tour.utab:37:48:0:ad8cc147db888560",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 0,
+                  "period" : 5,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/composer-feature-tour.utab:36:13",
+                  "pedal:static\/examples\/composer-feature-tour.utab:37:17",
+                  "modifier:letRing:static\/examples\/composer-feature-tour.utab:37:48"
+                ],
+                "column" : 43,
+                "endColumn" : 55,
+                "endLine" : 37,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "note:static\/examples\/composer-feature-tour.utab:37:43",
+                "line" : 37,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/composer-feature-tour.utab:14:11",
+                  "voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21",
+                  "content:5",
+                  "bar",
+                  "sequence:0",
+                  "technique:pedal:static\/examples\/composer-feature-tour.utab:37:17:0",
+                  "sequence:3",
+                  "technique:modifier:letRing:static\/examples\/composer-feature-tour.utab:37:48:0"
+                ]
+              },
+              "target" : "keys[52]",
+              "techniques" : [
+                "letRing"
+              ]
+            },
+            {
+              "action" : "pedalUp",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 6
+                }
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/composer-feature-tour.utab:14:11\/voice:0:voice:static\/examples\/composer-feature-tour.utab:15:21\/content:5\/bar\/sequence:0:b1242c19a06af888:pedal:up",
+              "parameters" : {
+                "value" : 0
+              },
+              "source" : {
+                "column" : 17,
+                "endColumn" : 17,
+                "endLine" : 37,
+                "file" : "static\/examples\/composer-feature-tour.utab",
+                "id" : "pedal:static\/examples\/composer-feature-tour.utab:37:17",
+                "line" : 37
+              },
+              "target" : "sustain"
+            }
+          ],
+          "section" : "section:study",
+          "source" : {
+            "column" : 24,
+            "endColumn" : 2,
+            "endLine" : 42,
+            "file" : "static\/examples\/composer-feature-tour.utab",
+            "id" : "section:study",
+            "line" : 13
+          }
+        }
+      ]
+    }
+  ],
+  "utab" : {
+    "documentId" : "composition:static\/examples\/composer-feature-tour.utab:1:1",
+    "encoding" : {
+      "description" : "Generated from the high-level semantic compiler pipeline",
+      "software" : [
+        "UTABLowering"
+      ]
+    },
+    "miscellaneous" : {
+      "sourceCompositionID" : "composition:static\/examples\/composer-feature-tour.utab:1:1",
+      "sourceMapping" : "event-id-and-parameters"
+    },
+    "title" : "Composer feature tour (original study)",
+    "version" : "0.1-draft"
+  }
+}

@@ -1,0 +1,91 @@
+---
+title: Tour expressive timing and harmony
+linkTitle: Composer feature tour
+weight: 30
+description: An original six-bar study of tuplets, ornaments, dynamics, tempo ramps, harmony, and pedal.
+midi_player: true
+---
+
+This tutorial uses a short original study to demonstrate features that are easy
+to miss in a basic melody. Because the music was written for this documentation,
+the example introduces no third-party composition or arrangement rights.
+
+++++
+<midi-player src="/examples/composer-feature-tour.mid" sound-font></midi-player>
+<p class="small"><a href="/examples/composer-feature-tour.mid" download>Download MIDI</a> · <a href="/examples/composer-feature-tour.utab" download>Composer source</a> · <a href="/examples/composer-feature-tour.utab.json" download>Compiled UTAB JSON</a></p>
+++++
+
+== Exact rhythm
+
+The first bar places three eighth-note weights in the time normally occupied by
+two. Tuplet scaling remains exact even when groups are nested.
+
+[source,utab]
+----
+bar {
+    tuplet 3:2 { C5 e; D5 e; E5 e }
+    F5 q
+    G5 h
+}
+----
+
+The tuplet occupies one quarter note, so the complete bar still equals 4/4.
+Arbitrary values such as `[5/12]`, dotted values such as `q.`, and rational
+`stretch`, `augment`, or `diminish` transforms use the same exact duration model.
+
+== Ornaments and exact values
+
+[source,utab]
+----
+D5 s
+E5 s
+C5 q.
+ornament trill s { D5 h }
+----
+
+Two sixteenths, a dotted quarter, and a half note complete the bar exactly. The
+trill retains its name and subdivision in Universal Tablature; MIDI realization
+is a backend interpretation, not a rewrite of the score's intent. Grace groups
+use the related `grace measured`, `grace stealFollowing`, and `grace beforeBeat`
+forms described in the language reference.
+
+== Shape dynamics and tempo
+
+[source,utab]
+----
+using dynamics mf
+dynamics p { crescendo to f { C5 q; D5 q; E5 q accent; F5 q } }
+tempo ramp to 120 over w steps 4
+----
+
+`using dynamics mf` is the scope-wide policy. The local `dynamics p` block starts
+more quietly, and the crescendo interpolates attack intensity across score
+positions. The following tempo ramp emits four deterministic tempo-map steps
+while score durations remain unchanged.
+
+== Preserve harmonic intent
+
+[source,utab]
+----
+chord A/G minor7 h
+chord C dominant7 h alter 5b add 9#
+----
+
+Slash bass, quality, alterations, and additions remain structured data. A
+keyboard realizes them to keys; another capable instrument can choose its own
+deterministic voicing. Omissions, doublings, inversions, pitch ranges, and
+`using voiceLeading nearest` can constrain that process further.
+
+== Sustain as performance state
+
+[source,utab]
+----
+pedal { C4 q; E4 q; G4 q; C5 q letRing }
+----
+
+The pedal block emits balanced sustain state. `letRing` extends performance
+without changing the written quarter-note duration. On an instrument with a
+`damp` interaction, an explicit zero-time damp ends ringing material.
+
+Read the link:/en/reference/composer/[Composer Language reference] for the full
+syntax and validation rules.
