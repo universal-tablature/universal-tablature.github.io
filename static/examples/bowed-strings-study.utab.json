@@ -1,0 +1,1135 @@
+{
+  "editingMap" : {
+    "containers" : [
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:0\/bar:8e12cf5b91971115",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar:b46cb31509ac5c3c"
+        ],
+        "definitionID" : "voice:static\/examples\/bowed-strings-study.utab:14:22",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22:e452ee8a3fd0a6f0",
+        "sectionID" : "section:study",
+        "source" : {
+          "column" : 22,
+          "endColumn" : 10,
+          "endLine" : 23,
+          "file" : "static\/examples\/bowed-strings-study.utab",
+          "id" : "voice:static\/examples\/bowed-strings-study.utab:14:22",
+          "line" : 14,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+            "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22"
+          ]
+        },
+        "trackID" : "track:violin:voice:static\/examples\/bowed-strings-study.utab:14:22"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:0\/bar\/sequence:0:7b686b8c7f4ec6d1"
+        ],
+        "definitionID" : "sequence:static\/examples\/bowed-strings-study.utab:15:13",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:0\/bar:8e12cf5b91971115",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/bowed-strings-study.utab:15:13"
+          ],
+          "column" : 13,
+          "endColumn" : 13,
+          "endLine" : 15,
+          "file" : "static\/examples\/bowed-strings-study.utab",
+          "id" : "sequence:static\/examples\/bowed-strings-study.utab:15:13",
+          "line" : 15,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+            "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+            "content:0",
+            "bar"
+          ]
+        },
+        "trackID" : "track:violin:voice:static\/examples\/bowed-strings-study.utab:14:22"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:0\/bar\/sequence:0\/technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0:25301c778b002352"
+        ],
+        "definitionID" : "technique:slur:static\/examples\/bowed-strings-study.utab:16:17",
+        "kind" : "technique",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:0\/bar\/sequence:0:7b686b8c7f4ec6d1",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/bowed-strings-study.utab:15:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 16,
+          "file" : "slur:static\/examples\/bowed-strings-study.utab",
+          "id" : "technique:slur:static\/examples\/bowed-strings-study.utab:16:17",
+          "line" : 16,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+            "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+            "content:0",
+            "bar",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:violin:voice:static\/examples\/bowed-strings-study.utab:14:22"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:0\/bar\/sequence:0\/technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0\/sequence:0:f75ece678680faa9",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:0\/bar\/sequence:0\/technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0\/sequence:1:73de5eb8abdc09ad",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:0\/bar\/sequence:0\/technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0\/sequence:2:c65f29adee2fb9a8",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:0\/bar\/sequence:0\/technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0\/sequence:3:2878407a44d86d2d"
+        ],
+        "definitionID" : "sequence:static\/examples\/bowed-strings-study.utab:16:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:0\/bar\/sequence:0\/technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0:25301c778b002352",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/bowed-strings-study.utab:15:13",
+            "technique:slur:static\/examples\/bowed-strings-study.utab:16:17"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 16,
+          "file" : "static\/examples\/bowed-strings-study.utab",
+          "id" : "sequence:static\/examples\/bowed-strings-study.utab:16:17",
+          "line" : 16,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+            "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+            "content:0",
+            "bar",
+            "sequence:0",
+            "technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0"
+          ]
+        },
+        "trackID" : "track:violin:voice:static\/examples\/bowed-strings-study.utab:14:22"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar\/sequence:0:7e088aed33b739f1",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar\/sequence:1:940ca96a0a7ef2ac",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar\/sequence:2:a9f2388976f3221d"
+        ],
+        "definitionID" : "sequence:static\/examples\/bowed-strings-study.utab:18:13",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar:b46cb31509ac5c3c",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/bowed-strings-study.utab:18:13"
+          ],
+          "column" : 13,
+          "endColumn" : 13,
+          "endLine" : 18,
+          "file" : "static\/examples\/bowed-strings-study.utab",
+          "id" : "sequence:static\/examples\/bowed-strings-study.utab:18:13",
+          "line" : 18,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+            "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+            "content:1",
+            "bar"
+          ]
+        },
+        "trackID" : "track:violin:voice:static\/examples\/bowed-strings-study.utab:14:22"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar\/sequence:0\/technique:technique:vibrato:static\/examples\/bowed-strings-study.utab:19:17:0:66c1aefcb68a9341"
+        ],
+        "definitionID" : "technique:vibrato:static\/examples\/bowed-strings-study.utab:19:17",
+        "kind" : "technique",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar\/sequence:0:7e088aed33b739f1",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/bowed-strings-study.utab:18:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 19,
+          "file" : "vibrato:static\/examples\/bowed-strings-study.utab",
+          "id" : "technique:vibrato:static\/examples\/bowed-strings-study.utab:19:17",
+          "line" : 19,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+            "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+            "content:1",
+            "bar",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:violin:voice:static\/examples\/bowed-strings-study.utab:14:22"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar\/sequence:0\/technique:technique:vibrato:static\/examples\/bowed-strings-study.utab:19:17:0\/sequence:0:a27feaac022d8b5"
+        ],
+        "definitionID" : "sequence:static\/examples\/bowed-strings-study.utab:19:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar\/sequence:0\/technique:technique:vibrato:static\/examples\/bowed-strings-study.utab:19:17:0:66c1aefcb68a9341",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/bowed-strings-study.utab:18:13",
+            "technique:vibrato:static\/examples\/bowed-strings-study.utab:19:17"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 19,
+          "file" : "static\/examples\/bowed-strings-study.utab",
+          "id" : "sequence:static\/examples\/bowed-strings-study.utab:19:17",
+          "line" : 19,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+            "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+            "content:1",
+            "bar",
+            "sequence:0",
+            "technique:technique:vibrato:static\/examples\/bowed-strings-study.utab:19:17:0"
+          ]
+        },
+        "trackID" : "track:violin:voice:static\/examples\/bowed-strings-study.utab:14:22"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar\/sequence:1\/technique:technique:pizzicato:static\/examples\/bowed-strings-study.utab:20:17:0:9fb02694ac6e4b78"
+        ],
+        "definitionID" : "technique:pizzicato:static\/examples\/bowed-strings-study.utab:20:17",
+        "kind" : "technique",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar\/sequence:1:940ca96a0a7ef2ac",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/bowed-strings-study.utab:18:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 20,
+          "file" : "pizzicato:static\/examples\/bowed-strings-study.utab",
+          "id" : "technique:pizzicato:static\/examples\/bowed-strings-study.utab:20:17",
+          "line" : 20,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+            "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+            "content:1",
+            "bar",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:violin:voice:static\/examples\/bowed-strings-study.utab:14:22"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar\/sequence:1\/technique:technique:pizzicato:static\/examples\/bowed-strings-study.utab:20:17:0\/sequence:0:71b1ef6f8ff0cfc8"
+        ],
+        "definitionID" : "sequence:static\/examples\/bowed-strings-study.utab:20:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar\/sequence:1\/technique:technique:pizzicato:static\/examples\/bowed-strings-study.utab:20:17:0:9fb02694ac6e4b78",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/bowed-strings-study.utab:18:13",
+            "technique:pizzicato:static\/examples\/bowed-strings-study.utab:20:17"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 20,
+          "file" : "static\/examples\/bowed-strings-study.utab",
+          "id" : "sequence:static\/examples\/bowed-strings-study.utab:20:17",
+          "line" : 20,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+            "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+            "content:1",
+            "bar",
+            "sequence:1",
+            "technique:technique:pizzicato:static\/examples\/bowed-strings-study.utab:20:17:0"
+          ]
+        },
+        "trackID" : "track:violin:voice:static\/examples\/bowed-strings-study.utab:14:22"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar\/sequence:2\/technique:modifier:rearticulate:static\/examples\/bowed-strings-study.utab:21:22:0:e3acaedaa96d99"
+        ],
+        "definitionID" : "modifier:rearticulate:static\/examples\/bowed-strings-study.utab:21:22",
+        "kind" : "technique",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar\/sequence:2:a9f2388976f3221d",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/bowed-strings-study.utab:18:13"
+          ],
+          "column" : 22,
+          "endColumn" : 22,
+          "endLine" : 21,
+          "file" : "rearticulate:static\/examples\/bowed-strings-study.utab",
+          "id" : "modifier:rearticulate:static\/examples\/bowed-strings-study.utab:21:22",
+          "line" : 21,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+            "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+            "content:1",
+            "bar",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:violin:voice:static\/examples\/bowed-strings-study.utab:14:22"
+      }
+    ],
+    "measures" : [
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:0\/bar\/sequence:0\/technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0\/sequence:0:f75ece678680faa9",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:0\/bar\/sequence:0\/technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0\/sequence:1:73de5eb8abdc09ad",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:0\/bar\/sequence:0\/technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0\/sequence:2:c65f29adee2fb9a8",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:0\/bar\/sequence:0\/technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0\/sequence:3:2878407a44d86d2d"
+        ],
+        "id" : "track:violin:voice:static\/examples\/bowed-strings-study.utab:14:22:section:study:measure:1",
+        "measure" : 1,
+        "sectionID" : "section:study",
+        "trackID" : "track:violin:voice:static\/examples\/bowed-strings-study.utab:14:22"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar\/sequence:0\/technique:technique:vibrato:static\/examples\/bowed-strings-study.utab:19:17:0\/sequence:0:a27feaac022d8b5",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar\/sequence:1\/technique:technique:pizzicato:static\/examples\/bowed-strings-study.utab:20:17:0\/sequence:0:71b1ef6f8ff0cfc8",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar\/sequence:2\/technique:modifier:rearticulate:static\/examples\/bowed-strings-study.utab:21:22:0:e3acaedaa96d99"
+        ],
+        "id" : "track:violin:voice:static\/examples\/bowed-strings-study.utab:14:22:section:study:measure:2",
+        "measure" : 2,
+        "sectionID" : "section:study",
+        "trackID" : "track:violin:voice:static\/examples\/bowed-strings-study.utab:14:22"
+      }
+    ],
+    "occurrences" : [
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "note:static\/examples\/bowed-strings-study.utab:16:24",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "note",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:0\/bar\/sequence:0\/technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0\/sequence:0:f75ece678680faa9",
+        "pitchRepresentation" : {
+          "accidental" : 0,
+          "kind" : "absolute",
+          "letter" : "D",
+          "octave" : 4,
+          "resolvedMIDIPitch" : 62,
+          "tuningOffsetCents" : 0
+        },
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/bowed-strings-study.utab:15:13",
+            "technique:slur:static\/examples\/bowed-strings-study.utab:16:17"
+          ],
+          "column" : 24,
+          "endColumn" : 28,
+          "endLine" : 16,
+          "file" : "static\/examples\/bowed-strings-study.utab",
+          "id" : "note:static\/examples\/bowed-strings-study.utab:16:24",
+          "line" : 16,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+            "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+            "content:0",
+            "bar",
+            "sequence:0",
+            "technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:violin:voice:static\/examples\/bowed-strings-study.utab:14:22"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "note:static\/examples\/bowed-strings-study.utab:16:30",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "note",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:0\/bar\/sequence:0\/technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0\/sequence:1:73de5eb8abdc09ad",
+        "pitchRepresentation" : {
+          "accidental" : 0,
+          "kind" : "absolute",
+          "letter" : "E",
+          "octave" : 4,
+          "resolvedMIDIPitch" : 64,
+          "tuningOffsetCents" : 0
+        },
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/bowed-strings-study.utab:15:13",
+            "technique:slur:static\/examples\/bowed-strings-study.utab:16:17"
+          ],
+          "column" : 30,
+          "endColumn" : 34,
+          "endLine" : 16,
+          "file" : "static\/examples\/bowed-strings-study.utab",
+          "id" : "note:static\/examples\/bowed-strings-study.utab:16:30",
+          "line" : 16,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+            "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+            "content:0",
+            "bar",
+            "sequence:0",
+            "technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:violin:voice:static\/examples\/bowed-strings-study.utab:14:22"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "note:static\/examples\/bowed-strings-study.utab:16:36",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "note",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:0\/bar\/sequence:0\/technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0\/sequence:2:c65f29adee2fb9a8",
+        "pitchRepresentation" : {
+          "accidental" : 1,
+          "kind" : "absolute",
+          "letter" : "F",
+          "octave" : 4,
+          "resolvedMIDIPitch" : 66,
+          "tuningOffsetCents" : 0
+        },
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/bowed-strings-study.utab:15:13",
+            "technique:slur:static\/examples\/bowed-strings-study.utab:16:17"
+          ],
+          "column" : 36,
+          "endColumn" : 41,
+          "endLine" : 16,
+          "file" : "static\/examples\/bowed-strings-study.utab",
+          "id" : "note:static\/examples\/bowed-strings-study.utab:16:36",
+          "line" : 16,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+            "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+            "content:0",
+            "bar",
+            "sequence:0",
+            "technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:violin:voice:static\/examples\/bowed-strings-study.utab:14:22"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "note:static\/examples\/bowed-strings-study.utab:16:43",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "note",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:0\/bar\/sequence:0\/technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0\/sequence:3:2878407a44d86d2d",
+        "pitchRepresentation" : {
+          "accidental" : 0,
+          "kind" : "absolute",
+          "letter" : "G",
+          "octave" : 4,
+          "resolvedMIDIPitch" : 67,
+          "tuningOffsetCents" : 0
+        },
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/bowed-strings-study.utab:15:13",
+            "technique:slur:static\/examples\/bowed-strings-study.utab:16:17"
+          ],
+          "column" : 43,
+          "endColumn" : 47,
+          "endLine" : 16,
+          "file" : "static\/examples\/bowed-strings-study.utab",
+          "id" : "note:static\/examples\/bowed-strings-study.utab:16:43",
+          "line" : 16,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+            "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+            "content:0",
+            "bar",
+            "sequence:0",
+            "technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:violin:voice:static\/examples\/bowed-strings-study.utab:14:22"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "note:static\/examples\/bowed-strings-study.utab:19:27",
+        "duration" : {
+          "quarterNotes" : "2\/1"
+        },
+        "kind" : "note",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar\/sequence:0\/technique:technique:vibrato:static\/examples\/bowed-strings-study.utab:19:17:0\/sequence:0:a27feaac022d8b5",
+        "pitchRepresentation" : {
+          "accidental" : 0,
+          "kind" : "absolute",
+          "letter" : "A",
+          "octave" : 4,
+          "resolvedMIDIPitch" : 69,
+          "tuningOffsetCents" : 0
+        },
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/bowed-strings-study.utab:18:13",
+            "technique:vibrato:static\/examples\/bowed-strings-study.utab:19:17"
+          ],
+          "column" : 27,
+          "endColumn" : 31,
+          "endLine" : 19,
+          "file" : "static\/examples\/bowed-strings-study.utab",
+          "id" : "note:static\/examples\/bowed-strings-study.utab:19:27",
+          "line" : 19,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+            "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+            "content:1",
+            "bar",
+            "sequence:0",
+            "technique:technique:vibrato:static\/examples\/bowed-strings-study.utab:19:17:0",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:violin:voice:static\/examples\/bowed-strings-study.utab:14:22"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "note:static\/examples\/bowed-strings-study.utab:20:29",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "note",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar\/sequence:1\/technique:technique:pizzicato:static\/examples\/bowed-strings-study.utab:20:17:0\/sequence:0:71b1ef6f8ff0cfc8",
+        "pitchRepresentation" : {
+          "accidental" : 0,
+          "kind" : "absolute",
+          "letter" : "D",
+          "octave" : 4,
+          "resolvedMIDIPitch" : 62,
+          "tuningOffsetCents" : 0
+        },
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/bowed-strings-study.utab:18:13",
+            "technique:pizzicato:static\/examples\/bowed-strings-study.utab:20:17"
+          ],
+          "column" : 29,
+          "endColumn" : 33,
+          "endLine" : 20,
+          "file" : "static\/examples\/bowed-strings-study.utab",
+          "id" : "note:static\/examples\/bowed-strings-study.utab:20:29",
+          "line" : 20,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+            "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+            "content:1",
+            "bar",
+            "sequence:1",
+            "technique:technique:pizzicato:static\/examples\/bowed-strings-study.utab:20:17:0",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:violin:voice:static\/examples\/bowed-strings-study.utab:14:22"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "note:static\/examples\/bowed-strings-study.utab:21:17",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "note",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar\/sequence:2\/technique:modifier:rearticulate:static\/examples\/bowed-strings-study.utab:21:22:0:e3acaedaa96d99",
+        "pitchRepresentation" : {
+          "accidental" : 0,
+          "kind" : "absolute",
+          "letter" : "G",
+          "octave" : 4,
+          "resolvedMIDIPitch" : 67,
+          "tuningOffsetCents" : 0
+        },
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/bowed-strings-study.utab:18:13",
+            "modifier:rearticulate:static\/examples\/bowed-strings-study.utab:21:22"
+          ],
+          "column" : 17,
+          "endColumn" : 34,
+          "endLine" : 21,
+          "file" : "static\/examples\/bowed-strings-study.utab",
+          "id" : "note:static\/examples\/bowed-strings-study.utab:21:17",
+          "line" : 21,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+            "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+            "content:1",
+            "bar",
+            "sequence:2",
+            "technique:modifier:rearticulate:static\/examples\/bowed-strings-study.utab:21:22:0"
+          ]
+        },
+        "trackID" : "track:violin:voice:static\/examples\/bowed-strings-study.utab:14:22"
+      }
+    ],
+    "scale" : {
+      "centIntervals" : [
+        0,
+        200,
+        400,
+        500,
+        700,
+        900,
+        1100
+      ],
+      "name" : "major",
+      "tonic" : "D"
+    },
+    "version" : 1
+  },
+  "setup" : {
+    "arrangement" : [
+      {
+        "id" : "section-occurrence:main\/sequence:0\/reference:section-reference:static\/examples\/bowed-strings-study.utab:27:8:4f762817765706f1",
+        "section" : "section:study"
+      }
+    ],
+    "instruments" : [
+      {
+        "id" : "violin",
+        "name" : "Violin",
+        "profile" : "profile:generated:violin",
+        "realization" : {
+          "midi" : {
+            "percussion" : false,
+            "program" : 41
+          }
+        }
+      }
+    ],
+    "profiles" : [
+      {
+        "actuators" : {
+          "notes" : {
+            "type" : "generated"
+          }
+        },
+        "id" : "profile:generated:violin",
+        "interactions" : {
+          "play" : {
+
+          }
+        },
+        "name" : "Generated Violin profile",
+        "profileVersion" : "0.1-draft",
+        "techniques" : {
+          "pizzicato" : {
+
+          },
+          "rearticulate" : {
+
+          },
+          "slur" : {
+
+          },
+          "vibrato" : {
+
+          }
+        }
+      }
+    ],
+    "sections" : [
+      {
+        "id" : "section:study",
+        "length" : {
+          "measures" : 2
+        },
+        "meterMap" : [
+          {
+            "at" : {
+              "measure" : 1
+            },
+            "denominator" : 4,
+            "numerator" : 4
+          }
+        ],
+        "name" : "study"
+      }
+    ],
+    "time" : {
+      "meter" : {
+        "denominator" : 4,
+        "numerator" : 4
+      },
+      "tempo" : {
+        "quarterNotesPerMinute" : 84
+      }
+    },
+    "tunings" : [
+      {
+        "divisions" : 12,
+        "id" : "12edo",
+        "names" : {
+          "A" : 9,
+          "Ab" : 8,
+          "B" : 11,
+          "Bb" : 10,
+          "C" : 0,
+          "C#" : 1,
+          "D" : 2,
+          "E" : 4,
+          "Eb" : 3,
+          "F" : 5,
+          "F#" : 6,
+          "G" : 7
+        },
+        "periodRatio" : "2\/1",
+        "reference" : {
+          "frequencyHz" : 440,
+          "pitch" : {
+            "degree" : 9,
+            "period" : 4
+          }
+        },
+        "type" : "equalDivision"
+      }
+    ]
+  },
+  "tracks" : [
+    {
+      "id" : "track:violin:voice:static\/examples\/bowed-strings-study.utab:14:22",
+      "instrument" : "violin",
+      "name" : "Violin — melody",
+      "parts" : [
+        {
+          "events" : [
+            {
+              "action" : "play",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:0\/bar\/sequence:0\/technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0\/sequence:0:f75ece678680faa9",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 2,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                },
+                "spelling" : "D"
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/bowed-strings-study.utab:15:13",
+                  "technique:slur:static\/examples\/bowed-strings-study.utab:16:17"
+                ],
+                "column" : 24,
+                "endColumn" : 28,
+                "endLine" : 16,
+                "file" : "static\/examples\/bowed-strings-study.utab",
+                "id" : "note:static\/examples\/bowed-strings-study.utab:16:24",
+                "line" : 16,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+                  "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+                  "content:0",
+                  "bar",
+                  "sequence:0",
+                  "technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0",
+                  "sequence:0"
+                ]
+              },
+              "target" : "notes",
+              "techniques" : [
+                "slur"
+              ]
+            },
+            {
+              "action" : "play",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:0\/bar\/sequence:0\/technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0\/sequence:1:73de5eb8abdc09ad",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 4,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                },
+                "spelling" : "E"
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/bowed-strings-study.utab:15:13",
+                  "technique:slur:static\/examples\/bowed-strings-study.utab:16:17"
+                ],
+                "column" : 30,
+                "endColumn" : 34,
+                "endLine" : 16,
+                "file" : "static\/examples\/bowed-strings-study.utab",
+                "id" : "note:static\/examples\/bowed-strings-study.utab:16:30",
+                "line" : 16,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+                  "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+                  "content:0",
+                  "bar",
+                  "sequence:0",
+                  "technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0",
+                  "sequence:1"
+                ]
+              },
+              "target" : "notes",
+              "techniques" : [
+                "slur"
+              ]
+            },
+            {
+              "action" : "play",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:0\/bar\/sequence:0\/technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0\/sequence:2:c65f29adee2fb9a8",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 6,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                },
+                "spelling" : "F#"
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/bowed-strings-study.utab:15:13",
+                  "technique:slur:static\/examples\/bowed-strings-study.utab:16:17"
+                ],
+                "column" : 36,
+                "endColumn" : 41,
+                "endLine" : 16,
+                "file" : "static\/examples\/bowed-strings-study.utab",
+                "id" : "note:static\/examples\/bowed-strings-study.utab:16:36",
+                "line" : 16,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+                  "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+                  "content:0",
+                  "bar",
+                  "sequence:0",
+                  "technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0",
+                  "sequence:2"
+                ]
+              },
+              "target" : "notes",
+              "techniques" : [
+                "slur"
+              ]
+            },
+            {
+              "action" : "play",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:0\/bar\/sequence:0\/technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0\/sequence:3:2878407a44d86d2d",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 7,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                },
+                "spelling" : "G"
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/bowed-strings-study.utab:15:13",
+                  "technique:slur:static\/examples\/bowed-strings-study.utab:16:17"
+                ],
+                "column" : 43,
+                "endColumn" : 47,
+                "endLine" : 16,
+                "file" : "static\/examples\/bowed-strings-study.utab",
+                "id" : "note:static\/examples\/bowed-strings-study.utab:16:43",
+                "line" : 16,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+                  "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+                  "content:0",
+                  "bar",
+                  "sequence:0",
+                  "technique:technique:slur:static\/examples\/bowed-strings-study.utab:16:17:0",
+                  "sequence:3"
+                ]
+              },
+              "target" : "notes",
+              "techniques" : [
+                "slur"
+              ]
+            },
+            {
+              "action" : "play",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "2\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar\/sequence:0\/technique:technique:vibrato:static\/examples\/bowed-strings-study.utab:19:17:0\/sequence:0:a27feaac022d8b5",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 9,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                },
+                "spelling" : "A"
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/bowed-strings-study.utab:18:13",
+                  "technique:vibrato:static\/examples\/bowed-strings-study.utab:19:17"
+                ],
+                "column" : 27,
+                "endColumn" : 31,
+                "endLine" : 19,
+                "file" : "static\/examples\/bowed-strings-study.utab",
+                "id" : "note:static\/examples\/bowed-strings-study.utab:19:27",
+                "line" : 19,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+                  "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+                  "content:1",
+                  "bar",
+                  "sequence:0",
+                  "technique:technique:vibrato:static\/examples\/bowed-strings-study.utab:19:17:0",
+                  "sequence:0"
+                ]
+              },
+              "target" : "notes",
+              "techniques" : [
+                "vibrato"
+              ]
+            },
+            {
+              "action" : "play",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar\/sequence:1\/technique:technique:pizzicato:static\/examples\/bowed-strings-study.utab:20:17:0\/sequence:0:71b1ef6f8ff0cfc8",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 2,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                },
+                "spelling" : "D"
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/bowed-strings-study.utab:18:13",
+                  "technique:pizzicato:static\/examples\/bowed-strings-study.utab:20:17"
+                ],
+                "column" : 29,
+                "endColumn" : 33,
+                "endLine" : 20,
+                "file" : "static\/examples\/bowed-strings-study.utab",
+                "id" : "note:static\/examples\/bowed-strings-study.utab:20:29",
+                "line" : 20,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+                  "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+                  "content:1",
+                  "bar",
+                  "sequence:1",
+                  "technique:technique:pizzicato:static\/examples\/bowed-strings-study.utab:20:17:0",
+                  "sequence:0"
+                ]
+              },
+              "target" : "notes",
+              "techniques" : [
+                "pizzicato"
+              ]
+            },
+            {
+              "action" : "play",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/bowed-strings-study.utab:13:12\/voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22\/content:1\/bar\/sequence:2\/technique:modifier:rearticulate:static\/examples\/bowed-strings-study.utab:21:22:0:e3acaedaa96d99",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 7,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                },
+                "spelling" : "G"
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/bowed-strings-study.utab:18:13",
+                  "modifier:rearticulate:static\/examples\/bowed-strings-study.utab:21:22"
+                ],
+                "column" : 17,
+                "endColumn" : 34,
+                "endLine" : 21,
+                "file" : "static\/examples\/bowed-strings-study.utab",
+                "id" : "note:static\/examples\/bowed-strings-study.utab:21:17",
+                "line" : 21,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/bowed-strings-study.utab:13:12",
+                  "voice:0:voice:static\/examples\/bowed-strings-study.utab:14:22",
+                  "content:1",
+                  "bar",
+                  "sequence:2",
+                  "technique:modifier:rearticulate:static\/examples\/bowed-strings-study.utab:21:22:0"
+                ]
+              },
+              "target" : "notes",
+              "techniques" : [
+                "rearticulate"
+              ]
+            }
+          ],
+          "section" : "section:study",
+          "source" : {
+            "column" : 24,
+            "endColumn" : 2,
+            "endLine" : 25,
+            "file" : "static\/examples\/bowed-strings-study.utab",
+            "id" : "section:study",
+            "line" : 12
+          }
+        }
+      ]
+    }
+  ],
+  "utab" : {
+    "documentId" : "composition:static\/examples\/bowed-strings-study.utab:1:1",
+    "encoding" : {
+      "description" : "Generated from the high-level semantic compiler pipeline",
+      "software" : [
+        "UTABLowering"
+      ]
+    },
+    "miscellaneous" : {
+      "sourceCompositionID" : "composition:static\/examples\/bowed-strings-study.utab:1:1",
+      "sourceMapping" : "event-id-and-parameters"
+    },
+    "title" : "Bowed strings study (original)",
+    "version" : "0.1-draft"
+  }
+}

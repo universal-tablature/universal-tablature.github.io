@@ -1,0 +1,37 @@
+module examples.guitar-techniques-study
+import instruments.guitar.electric
+
+title "Guitar techniques study (original)"
+// Original documentation study, authored for the Universal Tablature project.
+meter 4/4
+tempo 92
+scale E minor
+
+instrument guitar : ElectricGuitar as "Electric guitar"
+
+section study : 3 bars {
+    guitar {
+        voice lead {
+            bar {
+                hammerOn { E3 e; F#3 e }
+                pullOff { G3 e; F#3 e }
+                bend(semitones: 2) { A3 q }
+                vibrato { B3 q }
+            }
+            bar {
+                tapping { E4 q }
+                harmonic { B4 q }
+                palmMute { E3 q }
+                slide(to: A3) { F#3 q }
+            }
+            bar {
+                slide(to: [strings[1].frets[5], strings[2].frets[7]]) {
+                    F#3 q, B3 q
+                }
+                rest h.
+            }
+        }
+    }
+}
+
+main { study }

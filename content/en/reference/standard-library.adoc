@@ -71,7 +71,9 @@ scraped, lamellophone, and damped gong/bar instruments
 |`Piano`
 
 |`instruments.guitar`
-|`Guitar`, with standard tuning and several G-major chord shapes
+|`Guitar`, with standard tuning, several G-major chord shapes, and fretted-string
+techniques including slide, bend, vibrato, hammer-on, pull-off, tapping,
+harmonics, and palm muting
 
 |`instruments.guitar.twelve-string`
 |`TwelveStringGuitar`

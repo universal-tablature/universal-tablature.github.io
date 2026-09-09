@@ -31,6 +31,17 @@ link:/en/tutorials/oud-bayati/[Compose an original Bayati oud study]::
 Keep the oud model, standard tuning, maqam scale table, and contextual pitch
 names distinct in a short original exercise.
 
+link:/en/tutorials/bowed-strings/[Combine bowing, slurs, vibrato, and pizzicato]::
+Preserve bowed-string phrasing and attack technique on an original violin study.
+
+link:/en/tutorials/nyckelharpa-key-bow/[Coordinate nyckelharpa keys and bow]::
+Address keys and bowed strings concurrently, then retain double-stop and drone
+intent.
+
+link:/en/tutorials/guitar-techniques/[Author guitar performance techniques]::
+Use transition and scoped technique blocks for hammer-ons, pull-offs, bends,
+vibrato, tapping, harmonics, palm muting, and slides.
+
 The examples target the `0.1-draft` implementation described in the
 link:/en/reference/composer/[Composer Language reference].
 

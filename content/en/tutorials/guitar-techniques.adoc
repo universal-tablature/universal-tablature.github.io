@@ -1,0 +1,65 @@
+---
+title: Author guitar performance techniques
+linkTitle: Guitar techniques
+weight: 90
+description: An original electric-guitar study of transitions, bends, vibrato, tapping, harmonics, palm muting, and slides.
+midi_player: true
+---
+
+This original three-bar electric-guitar study demonstrates general technique
+blocks and validates them against the fretted-string profile.
+
+++++
+<midi-player src="/examples/guitar-techniques-study.mid" sound-font></midi-player>
+<p class="small"><a href="/examples/guitar-techniques-study.mid" download>Download MIDI</a> · <a href="/examples/guitar-techniques-study.utab" download>Composer source</a> · <a href="/examples/guitar-techniques-study.utab.json" download>Compiled UTAB JSON</a></p>
+++++
+
+== Transitions
+
+[source,utab]
+----
+hammerOn { E3 e; F#3 e }
+pullOff { G3 e; F#3 e }
+----
+
+Hammer-ons and pull-offs are transition techniques: both endpoints are retained
+as operands rather than flattened into an anonymous phrase. The profile requires
+them to target strings. A future physical-realization pass can further enforce
+same-string reachability and suppress the second MIDI attack; the current MIDI
+output is deliberately an audible approximation.
+
+== Arguments and performed material
+
+[source,utab]
+----
+bend(semitones: 2) { A3 q }
+vibrato { B3 q }
+tapping { E4 q }
+harmonic { B4 q }
+palmMute { E3 q }
+slide(to: A3) { F#3 q }
+----
+
+Parentheses hold values that configure a technique but do not consume score
+time. The block holds the performed musical material: it supplies duration,
+voice and instrument context, and the event from which the transition starts.
+Consequently the bend's sounded `A3 q` is in the block while its relative
+two-semitone destination is an argument. A slide instead names its absolute
+destination `A3` as an argument while the sounded `F#3 q` remains in the block.
+Hammer-ons and pull-offs place both notes in the block because both are authored
+performed endpoints, not merely configuration.
+
+The same rule works with physical string coordinates and parallel strings:
+
+[source,utab]
+----
+slide(to: [strings[1].frets[5], strings[2].frets[7]]) {
+    F#3 q, B3 q
+}
+----
+
+The bracketed destinations correspond in order to the parallel events in the
+block. This preserves each string's independent endpoint while giving the
+simultaneous slide one shared duration. Technique names and their arguments are
+retained on the realized events. Harmonic-node and tapping-hand details remain
+future typed arguments rather than free-form technique names.

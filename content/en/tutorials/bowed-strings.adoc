@@ -1,0 +1,33 @@
+---
+title: Combine bowing, slurs, vibrato, and pizzicato
+linkTitle: Bowed-string techniques
+weight: 70
+description: An original violin study using instrument-supported technique blocks.
+midi_player: true
+---
+
+This original two-bar violin study demonstrates the difference between musical
+notes, physical realization, and retained technique intent.
+
+++++
+<midi-player src="/examples/bowed-strings-study.mid" sound-font></midi-player>
+<p class="small"><a href="/examples/bowed-strings-study.mid" download>Download MIDI</a> · <a href="/examples/bowed-strings-study.utab" download>Composer source</a> · <a href="/examples/bowed-strings-study.utab.json" download>Compiled UTAB JSON</a></p>
+++++
+
+[source,utab]
+----
+slur { D4 q; E4 q; F#4 q; G4 q }
+vibrato { A4 h }
+pizzicato { D4 q }
+G4 q rearticulate
+----
+
+The violin model realizes ordinary pitches against its strings and standard
+tuning. `slur`, `vibrato`, and `pizzicato` remain named techniques on their
+resolved events; `rearticulate` explicitly requests a fresh attack. MIDI gives a
+useful approximation, while UTAB retains the distinctions needed by notation,
+training, and instrument-aware renderers.
+
+Technique blocks are validated against the selected instrument profile. For
+example, `pizzicato` is valid for `Violin` but is not silently accepted for an
+instrument whose profile does not declare it.

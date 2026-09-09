@@ -1,0 +1,1933 @@
+{
+  "editingMap" : {
+    "containers" : [
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar:b1c42e26123aaf87",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar:fd44e7a37854e702",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:2\/bar:5449abfbb73bd28d"
+        ],
+        "definitionID" : "voice:static\/examples\/guitar-techniques-study.utab:14:20",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20:c36a6b71ad54bec0",
+        "sectionID" : "section:study",
+        "source" : {
+          "column" : 20,
+          "endColumn" : 10,
+          "endLine" : 33,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "voice:static\/examples\/guitar-techniques-study.utab:14:20",
+          "line" : 14,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:0:c516ce9f4565f01a",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:1:a2c5f196b6f23923",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:2:b42d185667b5a6d6",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:3:a8e17864ca16d1b0"
+        ],
+        "definitionID" : "sequence:static\/examples\/guitar-techniques-study.utab:15:13",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar:b1c42e26123aaf87",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:15:13"
+          ],
+          "column" : 13,
+          "endColumn" : 13,
+          "endLine" : 15,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "sequence:static\/examples\/guitar-techniques-study.utab:15:13",
+          "line" : 15,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:0",
+            "bar"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:0\/technique:technique:hammerOn:static\/examples\/guitar-techniques-study.utab:16:17:0:820e493d8e58dab3",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:0\/technique:technique:hammerOn:static\/examples\/guitar-techniques-study.utab:16:17:1:1fdacf43d7d8c22b"
+        ],
+        "definitionID" : "technique:hammerOn:static\/examples\/guitar-techniques-study.utab:16:17",
+        "kind" : "technique",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:0:c516ce9f4565f01a",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:15:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 16,
+          "file" : "hammerOn:static\/examples\/guitar-techniques-study.utab",
+          "id" : "technique:hammerOn:static\/examples\/guitar-techniques-study.utab:16:17",
+          "line" : 16,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:0",
+            "bar",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:1\/technique:technique:pullOff:static\/examples\/guitar-techniques-study.utab:17:17:0:8fd134f29237d77c",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:1\/technique:technique:pullOff:static\/examples\/guitar-techniques-study.utab:17:17:1:40b75a2665b7896a"
+        ],
+        "definitionID" : "technique:pullOff:static\/examples\/guitar-techniques-study.utab:17:17",
+        "kind" : "technique",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:1:a2c5f196b6f23923",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:15:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 17,
+          "file" : "pullOff:static\/examples\/guitar-techniques-study.utab",
+          "id" : "technique:pullOff:static\/examples\/guitar-techniques-study.utab:17:17",
+          "line" : 17,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:0",
+            "bar",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:2\/technique:technique:bend:static\/examples\/guitar-techniques-study.utab:18:17:0:7ec09ec8d6bb2c1e"
+        ],
+        "definitionID" : "technique:bend:static\/examples\/guitar-techniques-study.utab:18:17",
+        "kind" : "technique",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:2:b42d185667b5a6d6",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:15:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 18,
+          "file" : "bend:static\/examples\/guitar-techniques-study.utab",
+          "id" : "technique:bend:static\/examples\/guitar-techniques-study.utab:18:17",
+          "line" : 18,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:0",
+            "bar",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:2\/technique:technique:bend:static\/examples\/guitar-techniques-study.utab:18:17:0\/sequence:0:756959d85646808e"
+        ],
+        "definitionID" : "sequence:static\/examples\/guitar-techniques-study.utab:18:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:2\/technique:technique:bend:static\/examples\/guitar-techniques-study.utab:18:17:0:7ec09ec8d6bb2c1e",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:15:13",
+            "technique:bend:static\/examples\/guitar-techniques-study.utab:18:17"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 18,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "sequence:static\/examples\/guitar-techniques-study.utab:18:17",
+          "line" : 18,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:0",
+            "bar",
+            "sequence:2",
+            "technique:technique:bend:static\/examples\/guitar-techniques-study.utab:18:17:0"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:3\/technique:technique:vibrato:static\/examples\/guitar-techniques-study.utab:19:17:0:8a450453a741e4d0"
+        ],
+        "definitionID" : "technique:vibrato:static\/examples\/guitar-techniques-study.utab:19:17",
+        "kind" : "technique",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:3:a8e17864ca16d1b0",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:15:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 19,
+          "file" : "vibrato:static\/examples\/guitar-techniques-study.utab",
+          "id" : "technique:vibrato:static\/examples\/guitar-techniques-study.utab:19:17",
+          "line" : 19,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:0",
+            "bar",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:3\/technique:technique:vibrato:static\/examples\/guitar-techniques-study.utab:19:17:0\/sequence:0:f4522570263efff4"
+        ],
+        "definitionID" : "sequence:static\/examples\/guitar-techniques-study.utab:19:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:3\/technique:technique:vibrato:static\/examples\/guitar-techniques-study.utab:19:17:0:8a450453a741e4d0",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:15:13",
+            "technique:vibrato:static\/examples\/guitar-techniques-study.utab:19:17"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 19,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "sequence:static\/examples\/guitar-techniques-study.utab:19:17",
+          "line" : 19,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:0",
+            "bar",
+            "sequence:3",
+            "technique:technique:vibrato:static\/examples\/guitar-techniques-study.utab:19:17:0"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:0:bc416046731b1e35",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:1:d1f3dcd83672b369",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:2:ae0a7f78bdac865b",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:3:a8e8a371e4f38eff"
+        ],
+        "definitionID" : "sequence:static\/examples\/guitar-techniques-study.utab:21:13",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar:fd44e7a37854e702",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:21:13"
+          ],
+          "column" : 13,
+          "endColumn" : 13,
+          "endLine" : 21,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "sequence:static\/examples\/guitar-techniques-study.utab:21:13",
+          "line" : 21,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:1",
+            "bar"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:0\/technique:technique:tapping:static\/examples\/guitar-techniques-study.utab:22:17:0:555625d06b16ba15"
+        ],
+        "definitionID" : "technique:tapping:static\/examples\/guitar-techniques-study.utab:22:17",
+        "kind" : "technique",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:0:bc416046731b1e35",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:21:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 22,
+          "file" : "tapping:static\/examples\/guitar-techniques-study.utab",
+          "id" : "technique:tapping:static\/examples\/guitar-techniques-study.utab:22:17",
+          "line" : 22,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:1",
+            "bar",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:0\/technique:technique:tapping:static\/examples\/guitar-techniques-study.utab:22:17:0\/sequence:0:79a0019ccab7ddb9"
+        ],
+        "definitionID" : "sequence:static\/examples\/guitar-techniques-study.utab:22:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:0\/technique:technique:tapping:static\/examples\/guitar-techniques-study.utab:22:17:0:555625d06b16ba15",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:21:13",
+            "technique:tapping:static\/examples\/guitar-techniques-study.utab:22:17"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 22,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "sequence:static\/examples\/guitar-techniques-study.utab:22:17",
+          "line" : 22,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:1",
+            "bar",
+            "sequence:0",
+            "technique:technique:tapping:static\/examples\/guitar-techniques-study.utab:22:17:0"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:1\/technique:technique:harmonic:static\/examples\/guitar-techniques-study.utab:23:17:0:19d0ca288f7548c5"
+        ],
+        "definitionID" : "technique:harmonic:static\/examples\/guitar-techniques-study.utab:23:17",
+        "kind" : "technique",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:1:d1f3dcd83672b369",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:21:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 23,
+          "file" : "harmonic:static\/examples\/guitar-techniques-study.utab",
+          "id" : "technique:harmonic:static\/examples\/guitar-techniques-study.utab:23:17",
+          "line" : 23,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:1",
+            "bar",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:1\/technique:technique:harmonic:static\/examples\/guitar-techniques-study.utab:23:17:0\/sequence:0:a305b6d673ba08d0"
+        ],
+        "definitionID" : "sequence:static\/examples\/guitar-techniques-study.utab:23:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:1\/technique:technique:harmonic:static\/examples\/guitar-techniques-study.utab:23:17:0:19d0ca288f7548c5",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:21:13",
+            "technique:harmonic:static\/examples\/guitar-techniques-study.utab:23:17"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 23,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "sequence:static\/examples\/guitar-techniques-study.utab:23:17",
+          "line" : 23,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:1",
+            "bar",
+            "sequence:1",
+            "technique:technique:harmonic:static\/examples\/guitar-techniques-study.utab:23:17:0"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:2\/technique:technique:palmMute:static\/examples\/guitar-techniques-study.utab:24:17:0:edef5c457de5c54b"
+        ],
+        "definitionID" : "technique:palmMute:static\/examples\/guitar-techniques-study.utab:24:17",
+        "kind" : "technique",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:2:ae0a7f78bdac865b",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:21:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 24,
+          "file" : "palmMute:static\/examples\/guitar-techniques-study.utab",
+          "id" : "technique:palmMute:static\/examples\/guitar-techniques-study.utab:24:17",
+          "line" : 24,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:1",
+            "bar",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:2\/technique:technique:palmMute:static\/examples\/guitar-techniques-study.utab:24:17:0\/sequence:0:739535dabb371766"
+        ],
+        "definitionID" : "sequence:static\/examples\/guitar-techniques-study.utab:24:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:2\/technique:technique:palmMute:static\/examples\/guitar-techniques-study.utab:24:17:0:edef5c457de5c54b",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:21:13",
+            "technique:palmMute:static\/examples\/guitar-techniques-study.utab:24:17"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 24,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "sequence:static\/examples\/guitar-techniques-study.utab:24:17",
+          "line" : 24,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:1",
+            "bar",
+            "sequence:2",
+            "technique:technique:palmMute:static\/examples\/guitar-techniques-study.utab:24:17:0"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:3\/technique:technique:slide:static\/examples\/guitar-techniques-study.utab:25:17:0:1df3d87485d7e64d"
+        ],
+        "definitionID" : "technique:slide:static\/examples\/guitar-techniques-study.utab:25:17",
+        "kind" : "technique",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:3:a8e8a371e4f38eff",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:21:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 25,
+          "file" : "slide:static\/examples\/guitar-techniques-study.utab",
+          "id" : "technique:slide:static\/examples\/guitar-techniques-study.utab:25:17",
+          "line" : 25,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:1",
+            "bar",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:3\/technique:technique:slide:static\/examples\/guitar-techniques-study.utab:25:17:0\/sequence:0:559c36af32f92d38"
+        ],
+        "definitionID" : "sequence:static\/examples\/guitar-techniques-study.utab:25:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:3\/technique:technique:slide:static\/examples\/guitar-techniques-study.utab:25:17:0:1df3d87485d7e64d",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:21:13",
+            "technique:slide:static\/examples\/guitar-techniques-study.utab:25:17"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 25,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "sequence:static\/examples\/guitar-techniques-study.utab:25:17",
+          "line" : 25,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:1",
+            "bar",
+            "sequence:3",
+            "technique:technique:slide:static\/examples\/guitar-techniques-study.utab:25:17:0"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:2\/bar\/sequence:0:9e2d48818a404ce2",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:2\/bar\/sequence:1:d057d270590f7b50"
+        ],
+        "definitionID" : "sequence:static\/examples\/guitar-techniques-study.utab:27:13",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:2\/bar:5449abfbb73bd28d",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:27:13"
+          ],
+          "column" : 13,
+          "endColumn" : 13,
+          "endLine" : 27,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "sequence:static\/examples\/guitar-techniques-study.utab:27:13",
+          "line" : 27,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:2",
+            "bar"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:2\/bar\/sequence:0\/technique:technique:slide:static\/examples\/guitar-techniques-study.utab:28:17:0:22e716ad69932244"
+        ],
+        "definitionID" : "technique:slide:static\/examples\/guitar-techniques-study.utab:28:17",
+        "kind" : "technique",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:2\/bar\/sequence:0:9e2d48818a404ce2",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:27:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 28,
+          "file" : "slide:static\/examples\/guitar-techniques-study.utab",
+          "id" : "technique:slide:static\/examples\/guitar-techniques-study.utab:28:17",
+          "line" : 28,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:2",
+            "bar",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:2\/bar\/sequence:0\/technique:technique:slide:static\/examples\/guitar-techniques-study.utab:28:17:0\/sequence:0:f449f3ff392d8cb8"
+        ],
+        "definitionID" : "sequence:static\/examples\/guitar-techniques-study.utab:28:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:2\/bar\/sequence:0\/technique:technique:slide:static\/examples\/guitar-techniques-study.utab:28:17:0:22e716ad69932244",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:27:13",
+            "technique:slide:static\/examples\/guitar-techniques-study.utab:28:17"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 28,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "sequence:static\/examples\/guitar-techniques-study.utab:28:17",
+          "line" : 28,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:2",
+            "bar",
+            "sequence:0",
+            "technique:technique:slide:static\/examples\/guitar-techniques-study.utab:28:17:0"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:2\/bar\/sequence:0\/technique:technique:slide:static\/examples\/guitar-techniques-study.utab:28:17:0\/sequence:0\/parallel:0:f8b0c4c60449d859",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:2\/bar\/sequence:0\/technique:technique:slide:static\/examples\/guitar-techniques-study.utab:28:17:0\/sequence:0\/parallel:1:72083ac5ca812cf9"
+        ],
+        "definitionID" : "parallel:static\/examples\/guitar-techniques-study.utab:29:21",
+        "kind" : "parallel",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:2\/bar\/sequence:0\/technique:technique:slide:static\/examples\/guitar-techniques-study.utab:28:17:0\/sequence:0:f449f3ff392d8cb8",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:27:13",
+            "technique:slide:static\/examples\/guitar-techniques-study.utab:28:17"
+          ],
+          "column" : 21,
+          "endColumn" : 21,
+          "endLine" : 29,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "parallel:static\/examples\/guitar-techniques-study.utab:29:21",
+          "line" : 29,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:2",
+            "bar",
+            "sequence:0",
+            "technique:technique:slide:static\/examples\/guitar-techniques-study.utab:28:17:0",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      }
+    ],
+    "measures" : [
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:0\/technique:technique:hammerOn:static\/examples\/guitar-techniques-study.utab:16:17:0:820e493d8e58dab3",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:0\/technique:technique:hammerOn:static\/examples\/guitar-techniques-study.utab:16:17:1:1fdacf43d7d8c22b",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:1\/technique:technique:pullOff:static\/examples\/guitar-techniques-study.utab:17:17:0:8fd134f29237d77c",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:1\/technique:technique:pullOff:static\/examples\/guitar-techniques-study.utab:17:17:1:40b75a2665b7896a",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:2\/technique:technique:bend:static\/examples\/guitar-techniques-study.utab:18:17:0\/sequence:0:756959d85646808e",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:3\/technique:technique:vibrato:static\/examples\/guitar-techniques-study.utab:19:17:0\/sequence:0:f4522570263efff4"
+        ],
+        "id" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20:section:study:measure:1",
+        "measure" : 1,
+        "sectionID" : "section:study",
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:0\/technique:technique:tapping:static\/examples\/guitar-techniques-study.utab:22:17:0\/sequence:0:79a0019ccab7ddb9",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:1\/technique:technique:harmonic:static\/examples\/guitar-techniques-study.utab:23:17:0\/sequence:0:a305b6d673ba08d0",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:2\/technique:technique:palmMute:static\/examples\/guitar-techniques-study.utab:24:17:0\/sequence:0:739535dabb371766",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:3\/technique:technique:slide:static\/examples\/guitar-techniques-study.utab:25:17:0\/sequence:0:559c36af32f92d38"
+        ],
+        "id" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20:section:study:measure:2",
+        "measure" : 2,
+        "sectionID" : "section:study",
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:2\/bar\/sequence:0\/technique:technique:slide:static\/examples\/guitar-techniques-study.utab:28:17:0\/sequence:0\/parallel:0:f8b0c4c60449d859",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:2\/bar\/sequence:0\/technique:technique:slide:static\/examples\/guitar-techniques-study.utab:28:17:0\/sequence:0\/parallel:1:72083ac5ca812cf9",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:2\/bar\/sequence:1:d057d270590f7b50"
+        ],
+        "id" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20:section:study:measure:3",
+        "measure" : 3,
+        "sectionID" : "section:study",
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      }
+    ],
+    "occurrences" : [
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "note:static\/examples\/guitar-techniques-study.utab:16:28",
+        "duration" : {
+          "quarterNotes" : "1\/2"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:0\/technique:technique:hammerOn:static\/examples\/guitar-techniques-study.utab:16:17:0:820e493d8e58dab3",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:15:13",
+            "technique:hammerOn:static\/examples\/guitar-techniques-study.utab:16:17"
+          ],
+          "column" : 28,
+          "endColumn" : 32,
+          "endLine" : 16,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "note:static\/examples\/guitar-techniques-study.utab:16:28",
+          "line" : 16,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:0",
+            "bar",
+            "sequence:0",
+            "technique:technique:hammerOn:static\/examples\/guitar-techniques-study.utab:16:17:0"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 1,
+            "offset" : "1\/2"
+          }
+        },
+        "definitionID" : "note:static\/examples\/guitar-techniques-study.utab:16:34",
+        "duration" : {
+          "quarterNotes" : "1\/2"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:0\/technique:technique:hammerOn:static\/examples\/guitar-techniques-study.utab:16:17:1:1fdacf43d7d8c22b",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:15:13",
+            "technique:hammerOn:static\/examples\/guitar-techniques-study.utab:16:17"
+          ],
+          "column" : 34,
+          "endColumn" : 39,
+          "endLine" : 16,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "note:static\/examples\/guitar-techniques-study.utab:16:34",
+          "line" : 16,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:0",
+            "bar",
+            "sequence:0",
+            "technique:technique:hammerOn:static\/examples\/guitar-techniques-study.utab:16:17:1"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "note:static\/examples\/guitar-techniques-study.utab:17:27",
+        "duration" : {
+          "quarterNotes" : "1\/2"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:1\/technique:technique:pullOff:static\/examples\/guitar-techniques-study.utab:17:17:0:8fd134f29237d77c",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:15:13",
+            "technique:pullOff:static\/examples\/guitar-techniques-study.utab:17:17"
+          ],
+          "column" : 27,
+          "endColumn" : 31,
+          "endLine" : 17,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "note:static\/examples\/guitar-techniques-study.utab:17:27",
+          "line" : 17,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:0",
+            "bar",
+            "sequence:1",
+            "technique:technique:pullOff:static\/examples\/guitar-techniques-study.utab:17:17:0"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 1,
+            "offset" : "1\/2"
+          }
+        },
+        "definitionID" : "note:static\/examples\/guitar-techniques-study.utab:17:33",
+        "duration" : {
+          "quarterNotes" : "1\/2"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:1\/technique:technique:pullOff:static\/examples\/guitar-techniques-study.utab:17:17:1:40b75a2665b7896a",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:15:13",
+            "technique:pullOff:static\/examples\/guitar-techniques-study.utab:17:17"
+          ],
+          "column" : 33,
+          "endColumn" : 38,
+          "endLine" : 17,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "note:static\/examples\/guitar-techniques-study.utab:17:33",
+          "line" : 17,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:0",
+            "bar",
+            "sequence:1",
+            "technique:technique:pullOff:static\/examples\/guitar-techniques-study.utab:17:17:1"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "note:static\/examples\/guitar-techniques-study.utab:18:38",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:2\/technique:technique:bend:static\/examples\/guitar-techniques-study.utab:18:17:0\/sequence:0:756959d85646808e",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:15:13",
+            "technique:bend:static\/examples\/guitar-techniques-study.utab:18:17"
+          ],
+          "column" : 38,
+          "endColumn" : 42,
+          "endLine" : 18,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "note:static\/examples\/guitar-techniques-study.utab:18:38",
+          "line" : 18,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:0",
+            "bar",
+            "sequence:2",
+            "technique:technique:bend:static\/examples\/guitar-techniques-study.utab:18:17:0",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "note:static\/examples\/guitar-techniques-study.utab:19:27",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:3\/technique:technique:vibrato:static\/examples\/guitar-techniques-study.utab:19:17:0\/sequence:0:f4522570263efff4",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:15:13",
+            "technique:vibrato:static\/examples\/guitar-techniques-study.utab:19:17"
+          ],
+          "column" : 27,
+          "endColumn" : 31,
+          "endLine" : 19,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "note:static\/examples\/guitar-techniques-study.utab:19:27",
+          "line" : 19,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:0",
+            "bar",
+            "sequence:3",
+            "technique:technique:vibrato:static\/examples\/guitar-techniques-study.utab:19:17:0",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "note:static\/examples\/guitar-techniques-study.utab:22:27",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:0\/technique:technique:tapping:static\/examples\/guitar-techniques-study.utab:22:17:0\/sequence:0:79a0019ccab7ddb9",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:21:13",
+            "technique:tapping:static\/examples\/guitar-techniques-study.utab:22:17"
+          ],
+          "column" : 27,
+          "endColumn" : 31,
+          "endLine" : 22,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "note:static\/examples\/guitar-techniques-study.utab:22:27",
+          "line" : 22,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:1",
+            "bar",
+            "sequence:0",
+            "technique:technique:tapping:static\/examples\/guitar-techniques-study.utab:22:17:0",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "note:static\/examples\/guitar-techniques-study.utab:23:28",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:1\/technique:technique:harmonic:static\/examples\/guitar-techniques-study.utab:23:17:0\/sequence:0:a305b6d673ba08d0",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:21:13",
+            "technique:harmonic:static\/examples\/guitar-techniques-study.utab:23:17"
+          ],
+          "column" : 28,
+          "endColumn" : 32,
+          "endLine" : 23,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "note:static\/examples\/guitar-techniques-study.utab:23:28",
+          "line" : 23,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:1",
+            "bar",
+            "sequence:1",
+            "technique:technique:harmonic:static\/examples\/guitar-techniques-study.utab:23:17:0",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "note:static\/examples\/guitar-techniques-study.utab:24:28",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:2\/technique:technique:palmMute:static\/examples\/guitar-techniques-study.utab:24:17:0\/sequence:0:739535dabb371766",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:21:13",
+            "technique:palmMute:static\/examples\/guitar-techniques-study.utab:24:17"
+          ],
+          "column" : 28,
+          "endColumn" : 32,
+          "endLine" : 24,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "note:static\/examples\/guitar-techniques-study.utab:24:28",
+          "line" : 24,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:1",
+            "bar",
+            "sequence:2",
+            "technique:technique:palmMute:static\/examples\/guitar-techniques-study.utab:24:17:0",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "note:static\/examples\/guitar-techniques-study.utab:25:33",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:3\/technique:technique:slide:static\/examples\/guitar-techniques-study.utab:25:17:0\/sequence:0:559c36af32f92d38",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:21:13",
+            "technique:slide:static\/examples\/guitar-techniques-study.utab:25:17"
+          ],
+          "column" : 33,
+          "endColumn" : 38,
+          "endLine" : 25,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "note:static\/examples\/guitar-techniques-study.utab:25:33",
+          "line" : 25,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:1",
+            "bar",
+            "sequence:3",
+            "technique:technique:slide:static\/examples\/guitar-techniques-study.utab:25:17:0",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 3
+          }
+        },
+        "definitionID" : "note:static\/examples\/guitar-techniques-study.utab:29:21",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:2\/bar\/sequence:0\/technique:technique:slide:static\/examples\/guitar-techniques-study.utab:28:17:0\/sequence:0\/parallel:0:f8b0c4c60449d859",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:27:13",
+            "technique:slide:static\/examples\/guitar-techniques-study.utab:28:17"
+          ],
+          "column" : 21,
+          "endColumn" : 26,
+          "endLine" : 29,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "note:static\/examples\/guitar-techniques-study.utab:29:21",
+          "line" : 29,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:2",
+            "bar",
+            "sequence:0",
+            "technique:technique:slide:static\/examples\/guitar-techniques-study.utab:28:17:0",
+            "sequence:0",
+            "parallel:0"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 3
+          }
+        },
+        "definitionID" : "note:static\/examples\/guitar-techniques-study.utab:29:28",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:2\/bar\/sequence:0\/technique:technique:slide:static\/examples\/guitar-techniques-study.utab:28:17:0\/sequence:0\/parallel:1:72083ac5ca812cf9",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:27:13",
+            "technique:slide:static\/examples\/guitar-techniques-study.utab:28:17"
+          ],
+          "column" : 28,
+          "endColumn" : 32,
+          "endLine" : 29,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "note:static\/examples\/guitar-techniques-study.utab:29:28",
+          "line" : 29,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:2",
+            "bar",
+            "sequence:0",
+            "technique:technique:slide:static\/examples\/guitar-techniques-study.utab:28:17:0",
+            "sequence:0",
+            "parallel:1"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 3
+          }
+        },
+        "definitionID" : "rest:static\/examples\/guitar-techniques-study.utab:31:17",
+        "duration" : {
+          "quarterNotes" : "3\/1"
+        },
+        "kind" : "rest",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:2\/bar\/sequence:1:d057d270590f7b50",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/guitar-techniques-study.utab:27:13"
+          ],
+          "column" : 17,
+          "endColumn" : 24,
+          "endLine" : 31,
+          "file" : "static\/examples\/guitar-techniques-study.utab",
+          "id" : "rest:static\/examples\/guitar-techniques-study.utab:31:17",
+          "line" : 31,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+            "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+            "content:2",
+            "bar",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20"
+      }
+    ],
+    "scale" : {
+      "centIntervals" : [
+        0,
+        200,
+        300,
+        500,
+        700,
+        800,
+        1000
+      ],
+      "name" : "natural minor",
+      "tonic" : "E"
+    },
+    "version" : 1
+  },
+  "setup" : {
+    "arrangement" : [
+      {
+        "id" : "section-occurrence:main\/sequence:0\/reference:section-reference:static\/examples\/guitar-techniques-study.utab:37:8:f74b48df032f2730",
+        "section" : "section:study"
+      }
+    ],
+    "instruments" : [
+      {
+        "id" : "guitar",
+        "name" : "Electric guitar",
+        "profile" : "profile:generated:guitar",
+        "realization" : {
+          "midi" : {
+            "percussion" : false,
+            "program" : 28
+          }
+        }
+      }
+    ],
+    "profiles" : [
+      {
+        "actuators" : {
+          "strings" : {
+            "count" : 4,
+            "type" : "generated"
+          }
+        },
+        "id" : "profile:generated:guitar",
+        "interactions" : {
+          "pluck" : {
+
+          }
+        },
+        "name" : "Generated Electric guitar profile",
+        "profileVersion" : "0.1-draft",
+        "techniques" : {
+          "bend" : {
+
+          },
+          "hammerOn" : {
+
+          },
+          "harmonic" : {
+
+          },
+          "palmMute" : {
+
+          },
+          "pullOff" : {
+
+          },
+          "slide" : {
+
+          },
+          "tapping" : {
+
+          },
+          "vibrato" : {
+
+          }
+        }
+      }
+    ],
+    "sections" : [
+      {
+        "id" : "section:study",
+        "length" : {
+          "measures" : 3
+        },
+        "meterMap" : [
+          {
+            "at" : {
+              "measure" : 1
+            },
+            "denominator" : 4,
+            "numerator" : 4
+          }
+        ],
+        "name" : "study"
+      }
+    ],
+    "time" : {
+      "meter" : {
+        "denominator" : 4,
+        "numerator" : 4
+      },
+      "tempo" : {
+        "quarterNotesPerMinute" : 92
+      }
+    },
+    "tunings" : [
+      {
+        "divisions" : 12,
+        "id" : "12edo",
+        "names" : {
+          "A" : 9,
+          "Ab" : 8,
+          "B" : 11,
+          "Bb" : 10,
+          "C" : 0,
+          "C#" : 1,
+          "D" : 2,
+          "E" : 4,
+          "Eb" : 3,
+          "F" : 5,
+          "F#" : 6,
+          "G" : 7
+        },
+        "periodRatio" : "2\/1",
+        "reference" : {
+          "frequencyHz" : 440,
+          "pitch" : {
+            "degree" : 9,
+            "period" : 4
+          }
+        },
+        "type" : "equalDivision"
+      }
+    ]
+  },
+  "tracks" : [
+    {
+      "id" : "track:guitar:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+      "instrument" : "guitar",
+      "name" : "Electric guitar — lead",
+      "parts" : [
+        {
+          "events" : [
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/2"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:0\/technique:technique:hammerOn:static\/examples\/guitar-techniques-study.utab:16:17:0:820e493d8e58dab3",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 4,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                },
+                "position" : 2
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/guitar-techniques-study.utab:15:13",
+                  "technique:hammerOn:static\/examples\/guitar-techniques-study.utab:16:17"
+                ],
+                "column" : 28,
+                "endColumn" : 32,
+                "endLine" : 16,
+                "file" : "static\/examples\/guitar-techniques-study.utab",
+                "id" : "note:static\/examples\/guitar-techniques-study.utab:16:28",
+                "line" : 16,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+                  "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+                  "content:0",
+                  "bar",
+                  "sequence:0",
+                  "technique:technique:hammerOn:static\/examples\/guitar-techniques-study.utab:16:17:0"
+                ]
+              },
+              "target" : "strings[4]",
+              "techniques" : [
+                "hammerOn"
+              ]
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 1,
+                  "offset" : "1\/2"
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/2"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:0\/technique:technique:hammerOn:static\/examples\/guitar-techniques-study.utab:16:17:1:1fdacf43d7d8c22b",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 6,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                },
+                "position" : 4
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/guitar-techniques-study.utab:15:13",
+                  "technique:hammerOn:static\/examples\/guitar-techniques-study.utab:16:17"
+                ],
+                "column" : 34,
+                "endColumn" : 39,
+                "endLine" : 16,
+                "file" : "static\/examples\/guitar-techniques-study.utab",
+                "id" : "note:static\/examples\/guitar-techniques-study.utab:16:34",
+                "line" : 16,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+                  "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+                  "content:0",
+                  "bar",
+                  "sequence:0",
+                  "technique:technique:hammerOn:static\/examples\/guitar-techniques-study.utab:16:17:1"
+                ]
+              },
+              "target" : "strings[4]",
+              "techniques" : [
+                "hammerOn"
+              ]
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/2"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:1\/technique:technique:pullOff:static\/examples\/guitar-techniques-study.utab:17:17:0:8fd134f29237d77c",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 7,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                },
+                "position" : 0
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/guitar-techniques-study.utab:15:13",
+                  "technique:pullOff:static\/examples\/guitar-techniques-study.utab:17:17"
+                ],
+                "column" : 27,
+                "endColumn" : 31,
+                "endLine" : 17,
+                "file" : "static\/examples\/guitar-techniques-study.utab",
+                "id" : "note:static\/examples\/guitar-techniques-study.utab:17:27",
+                "line" : 17,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+                  "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+                  "content:0",
+                  "bar",
+                  "sequence:1",
+                  "technique:technique:pullOff:static\/examples\/guitar-techniques-study.utab:17:17:0"
+                ]
+              },
+              "target" : "strings[3]",
+              "techniques" : [
+                "pullOff"
+              ]
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 1,
+                  "offset" : "1\/2"
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/2"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:1\/technique:technique:pullOff:static\/examples\/guitar-techniques-study.utab:17:17:1:40b75a2665b7896a",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 6,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                },
+                "position" : 4
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/guitar-techniques-study.utab:15:13",
+                  "technique:pullOff:static\/examples\/guitar-techniques-study.utab:17:17"
+                ],
+                "column" : 33,
+                "endColumn" : 38,
+                "endLine" : 17,
+                "file" : "static\/examples\/guitar-techniques-study.utab",
+                "id" : "note:static\/examples\/guitar-techniques-study.utab:17:33",
+                "line" : 17,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+                  "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+                  "content:0",
+                  "bar",
+                  "sequence:1",
+                  "technique:technique:pullOff:static\/examples\/guitar-techniques-study.utab:17:17:1"
+                ]
+              },
+              "target" : "strings[4]",
+              "techniques" : [
+                "pullOff"
+              ]
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:2\/technique:technique:bend:static\/examples\/guitar-techniques-study.utab:18:17:0\/sequence:0:756959d85646808e",
+              "parameters" : {
+                "bendSemitones" : 2,
+                "pitch" : {
+                  "degree" : 9,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                },
+                "position" : 2
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/guitar-techniques-study.utab:15:13",
+                  "technique:bend:static\/examples\/guitar-techniques-study.utab:18:17"
+                ],
+                "column" : 38,
+                "endColumn" : 42,
+                "endLine" : 18,
+                "file" : "static\/examples\/guitar-techniques-study.utab",
+                "id" : "note:static\/examples\/guitar-techniques-study.utab:18:38",
+                "line" : 18,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+                  "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+                  "content:0",
+                  "bar",
+                  "sequence:2",
+                  "technique:technique:bend:static\/examples\/guitar-techniques-study.utab:18:17:0",
+                  "sequence:0"
+                ]
+              },
+              "target" : "strings[3]",
+              "techniques" : [
+                "bend"
+              ]
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:0\/bar\/sequence:3\/technique:technique:vibrato:static\/examples\/guitar-techniques-study.utab:19:17:0\/sequence:0:f4522570263efff4",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 11,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                },
+                "position" : 0
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/guitar-techniques-study.utab:15:13",
+                  "technique:vibrato:static\/examples\/guitar-techniques-study.utab:19:17"
+                ],
+                "column" : 27,
+                "endColumn" : 31,
+                "endLine" : 19,
+                "file" : "static\/examples\/guitar-techniques-study.utab",
+                "id" : "note:static\/examples\/guitar-techniques-study.utab:19:27",
+                "line" : 19,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+                  "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+                  "content:0",
+                  "bar",
+                  "sequence:3",
+                  "technique:technique:vibrato:static\/examples\/guitar-techniques-study.utab:19:17:0",
+                  "sequence:0"
+                ]
+              },
+              "target" : "strings[2]",
+              "techniques" : [
+                "vibrato"
+              ]
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:0\/technique:technique:tapping:static\/examples\/guitar-techniques-study.utab:22:17:0\/sequence:0:79a0019ccab7ddb9",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 4,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                },
+                "position" : 0
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/guitar-techniques-study.utab:21:13",
+                  "technique:tapping:static\/examples\/guitar-techniques-study.utab:22:17"
+                ],
+                "column" : 27,
+                "endColumn" : 31,
+                "endLine" : 22,
+                "file" : "static\/examples\/guitar-techniques-study.utab",
+                "id" : "note:static\/examples\/guitar-techniques-study.utab:22:27",
+                "line" : 22,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+                  "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+                  "content:1",
+                  "bar",
+                  "sequence:0",
+                  "technique:technique:tapping:static\/examples\/guitar-techniques-study.utab:22:17:0",
+                  "sequence:0"
+                ]
+              },
+              "target" : "strings[1]",
+              "techniques" : [
+                "tapping"
+              ]
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:1\/technique:technique:harmonic:static\/examples\/guitar-techniques-study.utab:23:17:0\/sequence:0:a305b6d673ba08d0",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 11,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                },
+                "position" : 7
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/guitar-techniques-study.utab:21:13",
+                  "technique:harmonic:static\/examples\/guitar-techniques-study.utab:23:17"
+                ],
+                "column" : 28,
+                "endColumn" : 32,
+                "endLine" : 23,
+                "file" : "static\/examples\/guitar-techniques-study.utab",
+                "id" : "note:static\/examples\/guitar-techniques-study.utab:23:28",
+                "line" : 23,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+                  "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+                  "content:1",
+                  "bar",
+                  "sequence:1",
+                  "technique:technique:harmonic:static\/examples\/guitar-techniques-study.utab:23:17:0",
+                  "sequence:0"
+                ]
+              },
+              "target" : "strings[1]",
+              "techniques" : [
+                "harmonic"
+              ]
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:2\/technique:technique:palmMute:static\/examples\/guitar-techniques-study.utab:24:17:0\/sequence:0:739535dabb371766",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 4,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                },
+                "position" : 2
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/guitar-techniques-study.utab:21:13",
+                  "technique:palmMute:static\/examples\/guitar-techniques-study.utab:24:17"
+                ],
+                "column" : 28,
+                "endColumn" : 32,
+                "endLine" : 24,
+                "file" : "static\/examples\/guitar-techniques-study.utab",
+                "id" : "note:static\/examples\/guitar-techniques-study.utab:24:28",
+                "line" : 24,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+                  "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+                  "content:1",
+                  "bar",
+                  "sequence:2",
+                  "technique:technique:palmMute:static\/examples\/guitar-techniques-study.utab:24:17:0",
+                  "sequence:0"
+                ]
+              },
+              "target" : "strings[4]",
+              "techniques" : [
+                "palmMute"
+              ]
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:1\/bar\/sequence:3\/technique:technique:slide:static\/examples\/guitar-techniques-study.utab:25:17:0\/sequence:0:559c36af32f92d38",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 6,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                },
+                "position" : 4,
+                "slideTo" : "A3"
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/guitar-techniques-study.utab:21:13",
+                  "technique:slide:static\/examples\/guitar-techniques-study.utab:25:17"
+                ],
+                "column" : 33,
+                "endColumn" : 38,
+                "endLine" : 25,
+                "file" : "static\/examples\/guitar-techniques-study.utab",
+                "id" : "note:static\/examples\/guitar-techniques-study.utab:25:33",
+                "line" : 25,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+                  "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+                  "content:1",
+                  "bar",
+                  "sequence:3",
+                  "technique:technique:slide:static\/examples\/guitar-techniques-study.utab:25:17:0",
+                  "sequence:0"
+                ]
+              },
+              "target" : "strings[4]",
+              "techniques" : [
+                "slide"
+              ]
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 3
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:2\/bar\/sequence:0\/technique:technique:slide:static\/examples\/guitar-techniques-study.utab:28:17:0\/sequence:0\/parallel:0:f8b0c4c60449d859",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 6,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                },
+                "position" : 4,
+                "slideTo" : [
+                  {
+                    "group" : "strings",
+                    "member" : 1,
+                    "position" : 5,
+                    "positionGroup" : "frets"
+                  },
+                  {
+                    "group" : "strings",
+                    "member" : 2,
+                    "position" : 7,
+                    "positionGroup" : "frets"
+                  }
+                ]
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/guitar-techniques-study.utab:27:13",
+                  "technique:slide:static\/examples\/guitar-techniques-study.utab:28:17"
+                ],
+                "column" : 21,
+                "endColumn" : 26,
+                "endLine" : 29,
+                "file" : "static\/examples\/guitar-techniques-study.utab",
+                "id" : "note:static\/examples\/guitar-techniques-study.utab:29:21",
+                "line" : 29,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+                  "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+                  "content:2",
+                  "bar",
+                  "sequence:0",
+                  "technique:technique:slide:static\/examples\/guitar-techniques-study.utab:28:17:0",
+                  "sequence:0",
+                  "parallel:0"
+                ]
+              },
+              "target" : "strings[4]",
+              "techniques" : [
+                "slide"
+              ]
+            },
+            {
+              "action" : "pluck",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 3
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/guitar-techniques-study.utab:13:12\/voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20\/content:2\/bar\/sequence:0\/technique:technique:slide:static\/examples\/guitar-techniques-study.utab:28:17:0\/sequence:0\/parallel:1:72083ac5ca812cf9",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 11,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                },
+                "position" : 0,
+                "slideTo" : [
+                  {
+                    "group" : "strings",
+                    "member" : 1,
+                    "position" : 5,
+                    "positionGroup" : "frets"
+                  },
+                  {
+                    "group" : "strings",
+                    "member" : 2,
+                    "position" : 7,
+                    "positionGroup" : "frets"
+                  }
+                ]
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/guitar-techniques-study.utab:27:13",
+                  "technique:slide:static\/examples\/guitar-techniques-study.utab:28:17"
+                ],
+                "column" : 28,
+                "endColumn" : 32,
+                "endLine" : 29,
+                "file" : "static\/examples\/guitar-techniques-study.utab",
+                "id" : "note:static\/examples\/guitar-techniques-study.utab:29:28",
+                "line" : 29,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/guitar-techniques-study.utab:13:12",
+                  "voice:0:voice:static\/examples\/guitar-techniques-study.utab:14:20",
+                  "content:2",
+                  "bar",
+                  "sequence:0",
+                  "technique:technique:slide:static\/examples\/guitar-techniques-study.utab:28:17:0",
+                  "sequence:0",
+                  "parallel:1"
+                ]
+              },
+              "target" : "strings[2]",
+              "techniques" : [
+                "slide"
+              ]
+            }
+          ],
+          "section" : "section:study",
+          "source" : {
+            "column" : 24,
+            "endColumn" : 2,
+            "endLine" : 35,
+            "file" : "static\/examples\/guitar-techniques-study.utab",
+            "id" : "section:study",
+            "line" : 12
+          }
+        }
+      ]
+    }
+  ],
+  "utab" : {
+    "documentId" : "composition:static\/examples\/guitar-techniques-study.utab:1:1",
+    "encoding" : {
+      "description" : "Generated from the high-level semantic compiler pipeline",
+      "software" : [
+        "UTABLowering"
+      ]
+    },
+    "miscellaneous" : {
+      "sourceCompositionID" : "composition:static\/examples\/guitar-techniques-study.utab:1:1",
+      "sourceMapping" : "event-id-and-parameters"
+    },
+    "title" : "Guitar techniques study (original)",
+    "version" : "0.1-draft"
+  }
+}

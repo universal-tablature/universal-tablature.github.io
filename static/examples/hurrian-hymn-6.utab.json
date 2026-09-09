@@ -1789,7 +1789,13 @@
       {
         "id" : "sammu",
         "name" : "Nine-string Sammûm \/ Lyre",
-        "profile" : "profile:generated:sammu"
+        "profile" : "profile:generated:sammu",
+        "realization" : {
+          "midi" : {
+            "percussion" : false,
+            "program" : 47
+          }
+        }
       }
     ],
     "profiles" : [

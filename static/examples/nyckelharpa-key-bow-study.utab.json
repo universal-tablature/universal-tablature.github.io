@@ -1,0 +1,1571 @@
+{
+  "editingMap" : {
+    "containers" : [
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar:50f45d609c80d5d4",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar:896b52ad5fef8a11"
+        ],
+        "definitionID" : "voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28:e63d3c22a872690d",
+        "sectionID" : "section:study",
+        "source" : {
+          "column" : 28,
+          "endColumn" : 10,
+          "endLine" : 26,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+          "line" : 13,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:0:fca78f68db704e6f",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:1:7a9cc707d657c219",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:2:511bc1f104f2c973",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:3:aea9545e40cc8199"
+        ],
+        "definitionID" : "sequence:static\/examples\/nyckelharpa-key-bow-study.utab:14:13",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar:50f45d609c80d5d4",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+          ],
+          "column" : 13,
+          "endColumn" : 13,
+          "endLine" : 14,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "sequence:static\/examples\/nyckelharpa-key-bow-study.utab:14:13",
+          "line" : 14,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:0",
+            "bar"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:0\/sequence:0:c10493ad2e32ef36"
+        ],
+        "definitionID" : "sequence:static\/examples\/nyckelharpa-key-bow-study.utab:15:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:0:fca78f68db704e6f",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 15,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "sequence:static\/examples\/nyckelharpa-key-bow-study.utab:15:17",
+          "line" : 15,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:0",
+            "bar",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:0\/sequence:0\/parallel:0:81309244f11edc7a",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:0\/sequence:0\/parallel:1:d2d04d5daf52e3a5"
+        ],
+        "definitionID" : "parallel:static\/examples\/nyckelharpa-key-bow-study.utab:15:18",
+        "kind" : "parallel",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:0\/sequence:0:c10493ad2e32ef36",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+          ],
+          "column" : 18,
+          "endColumn" : 18,
+          "endLine" : 15,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "parallel:static\/examples\/nyckelharpa-key-bow-study.utab:15:18",
+          "line" : 15,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:0",
+            "bar",
+            "sequence:0",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:1\/sequence:0:fc5152c6f6cfcf1a"
+        ],
+        "definitionID" : "sequence:static\/examples\/nyckelharpa-key-bow-study.utab:16:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:1:7a9cc707d657c219",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 16,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "sequence:static\/examples\/nyckelharpa-key-bow-study.utab:16:17",
+          "line" : 16,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:0",
+            "bar",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:1\/sequence:0\/parallel:0:aac5804c8ef0fa94",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:1\/sequence:0\/parallel:1:3ceb6b4d2f988ddf"
+        ],
+        "definitionID" : "parallel:static\/examples\/nyckelharpa-key-bow-study.utab:16:18",
+        "kind" : "parallel",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:1\/sequence:0:fc5152c6f6cfcf1a",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+          ],
+          "column" : 18,
+          "endColumn" : 18,
+          "endLine" : 16,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "parallel:static\/examples\/nyckelharpa-key-bow-study.utab:16:18",
+          "line" : 16,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:0",
+            "bar",
+            "sequence:1",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:2\/sequence:0:2c9b19ca4fdcaeea"
+        ],
+        "definitionID" : "sequence:static\/examples\/nyckelharpa-key-bow-study.utab:17:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:2:511bc1f104f2c973",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 17,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "sequence:static\/examples\/nyckelharpa-key-bow-study.utab:17:17",
+          "line" : 17,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:0",
+            "bar",
+            "sequence:2"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:2\/sequence:0\/parallel:0:5571b47a8b666556",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:2\/sequence:0\/parallel:1:4a211cd3937c57c1"
+        ],
+        "definitionID" : "parallel:static\/examples\/nyckelharpa-key-bow-study.utab:17:18",
+        "kind" : "parallel",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:2\/sequence:0:2c9b19ca4fdcaeea",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+          ],
+          "column" : 18,
+          "endColumn" : 18,
+          "endLine" : 17,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "parallel:static\/examples\/nyckelharpa-key-bow-study.utab:17:18",
+          "line" : 17,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:0",
+            "bar",
+            "sequence:2",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:3\/sequence:0:52213e61bf040b16"
+        ],
+        "definitionID" : "sequence:static\/examples\/nyckelharpa-key-bow-study.utab:18:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:3:aea9545e40cc8199",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 18,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "sequence:static\/examples\/nyckelharpa-key-bow-study.utab:18:17",
+          "line" : 18,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:0",
+            "bar",
+            "sequence:3"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:3\/sequence:0\/parallel:0:55ab6e3eb83ef23c",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:3\/sequence:0\/parallel:1:37b875e1025347bf"
+        ],
+        "definitionID" : "parallel:static\/examples\/nyckelharpa-key-bow-study.utab:18:18",
+        "kind" : "parallel",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:3\/sequence:0:52213e61bf040b16",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+          ],
+          "column" : 18,
+          "endColumn" : 18,
+          "endLine" : 18,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "parallel:static\/examples\/nyckelharpa-key-bow-study.utab:18:18",
+          "line" : 18,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:0",
+            "bar",
+            "sequence:3",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:0:cdccc058d66aafa4",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:1:69467f015736e8d7"
+        ],
+        "definitionID" : "sequence:static\/examples\/nyckelharpa-key-bow-study.utab:20:13",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar:896b52ad5fef8a11",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:20:13"
+          ],
+          "column" : 13,
+          "endColumn" : 13,
+          "endLine" : 20,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "sequence:static\/examples\/nyckelharpa-key-bow-study.utab:20:13",
+          "line" : 20,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:1",
+            "bar"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:0\/technique:technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17:0:4eb40df0c6ccadac"
+        ],
+        "definitionID" : "technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17",
+        "kind" : "technique",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:0:cdccc058d66aafa4",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:20:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 21,
+          "file" : "doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17",
+          "line" : 21,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:1",
+            "bar",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:0\/technique:technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17:0\/sequence:0:269f77623049d70c"
+        ],
+        "definitionID" : "sequence:static\/examples\/nyckelharpa-key-bow-study.utab:21:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:0\/technique:technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17:0:4eb40df0c6ccadac",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:20:13",
+            "technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 21,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "sequence:static\/examples\/nyckelharpa-key-bow-study.utab:21:17",
+          "line" : 21,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:1",
+            "bar",
+            "sequence:0",
+            "technique:technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17:0"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:0\/technique:technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17:0\/sequence:0\/sequence:0:4818396f89c54afd"
+        ],
+        "definitionID" : "sequence:static\/examples\/nyckelharpa-key-bow-study.utab:22:21",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:0\/technique:technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17:0\/sequence:0:269f77623049d70c",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:20:13",
+            "technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17"
+          ],
+          "column" : 21,
+          "endColumn" : 21,
+          "endLine" : 22,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "sequence:static\/examples\/nyckelharpa-key-bow-study.utab:22:21",
+          "line" : 22,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:1",
+            "bar",
+            "sequence:0",
+            "technique:technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17:0",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:0\/technique:technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17:0\/sequence:0\/sequence:0\/parallel:0:d5a7baf344fe4f51",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:0\/technique:technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17:0\/sequence:0\/sequence:0\/parallel:1:58a293739b146a2f"
+        ],
+        "definitionID" : "parallel:static\/examples\/nyckelharpa-key-bow-study.utab:22:22",
+        "kind" : "parallel",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:0\/technique:technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17:0\/sequence:0\/sequence:0:4818396f89c54afd",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:20:13",
+            "technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17"
+          ],
+          "column" : 22,
+          "endColumn" : 22,
+          "endLine" : 22,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "parallel:static\/examples\/nyckelharpa-key-bow-study.utab:22:22",
+          "line" : 22,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:1",
+            "bar",
+            "sequence:0",
+            "technique:technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17:0",
+            "sequence:0",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:1\/technique:technique:drone:static\/examples\/nyckelharpa-key-bow-study.utab:24:17:0:45a2a543cb5a4fca"
+        ],
+        "definitionID" : "technique:drone:static\/examples\/nyckelharpa-key-bow-study.utab:24:17",
+        "kind" : "technique",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:1:69467f015736e8d7",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:20:13"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 24,
+          "file" : "drone:static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "technique:drone:static\/examples\/nyckelharpa-key-bow-study.utab:24:17",
+          "line" : 24,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:1",
+            "bar",
+            "sequence:1"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "childOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:1\/technique:technique:drone:static\/examples\/nyckelharpa-key-bow-study.utab:24:17:0\/sequence:0:c44fdb6c922f2c25"
+        ],
+        "definitionID" : "sequence:static\/examples\/nyckelharpa-key-bow-study.utab:24:17",
+        "kind" : "sequence",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:1\/technique:technique:drone:static\/examples\/nyckelharpa-key-bow-study.utab:24:17:0:45a2a543cb5a4fca",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:20:13",
+            "technique:drone:static\/examples\/nyckelharpa-key-bow-study.utab:24:17"
+          ],
+          "column" : 17,
+          "endColumn" : 17,
+          "endLine" : 24,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "sequence:static\/examples\/nyckelharpa-key-bow-study.utab:24:17",
+          "line" : 24,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:1",
+            "bar",
+            "sequence:1",
+            "technique:technique:drone:static\/examples\/nyckelharpa-key-bow-study.utab:24:17:0"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      }
+    ],
+    "measures" : [
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:0\/sequence:0\/parallel:0:81309244f11edc7a",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:0\/sequence:0\/parallel:1:d2d04d5daf52e3a5",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:1\/sequence:0\/parallel:0:aac5804c8ef0fa94",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:1\/sequence:0\/parallel:1:3ceb6b4d2f988ddf",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:2\/sequence:0\/parallel:0:5571b47a8b666556",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:2\/sequence:0\/parallel:1:4a211cd3937c57c1",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:3\/sequence:0\/parallel:0:55ab6e3eb83ef23c",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:3\/sequence:0\/parallel:1:37b875e1025347bf"
+        ],
+        "id" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28:section:study:measure:1",
+        "measure" : 1,
+        "sectionID" : "section:study",
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "contributorOccurrenceIDs" : [
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:0\/technique:technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17:0\/sequence:0\/sequence:0\/parallel:0:d5a7baf344fe4f51",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:0\/technique:technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17:0\/sequence:0\/sequence:0\/parallel:1:58a293739b146a2f",
+          "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:1\/technique:technique:drone:static\/examples\/nyckelharpa-key-bow-study.utab:24:17:0\/sequence:0:c44fdb6c922f2c25"
+        ],
+        "id" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28:section:study:measure:2",
+        "measure" : 2,
+        "sectionID" : "section:study",
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      }
+    ],
+    "occurrences" : [
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:15:18",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:0\/sequence:0\/parallel:0:81309244f11edc7a",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+          ],
+          "column" : 18,
+          "endColumn" : 39,
+          "endLine" : 15,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:15:18",
+          "line" : 15,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:0",
+            "bar",
+            "sequence:0",
+            "sequence:0",
+            "parallel:0"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:15:41",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:0\/sequence:0\/parallel:1:d2d04d5daf52e3a5",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+          ],
+          "column" : 41,
+          "endColumn" : 62,
+          "endLine" : 15,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:15:41",
+          "line" : 15,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:0",
+            "bar",
+            "sequence:0",
+            "sequence:0",
+            "parallel:1"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:16:18",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:1\/sequence:0\/parallel:0:aac5804c8ef0fa94",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+          ],
+          "column" : 18,
+          "endColumn" : 39,
+          "endLine" : 16,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:16:18",
+          "line" : 16,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:0",
+            "bar",
+            "sequence:1",
+            "sequence:0",
+            "parallel:0"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 2,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:16:41",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:1\/sequence:0\/parallel:1:3ceb6b4d2f988ddf",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+          ],
+          "column" : 41,
+          "endColumn" : 62,
+          "endLine" : 16,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:16:41",
+          "line" : 16,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:0",
+            "bar",
+            "sequence:1",
+            "sequence:0",
+            "parallel:1"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:17:18",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:2\/sequence:0\/parallel:0:5571b47a8b666556",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+          ],
+          "column" : 18,
+          "endColumn" : 39,
+          "endLine" : 17,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:17:18",
+          "line" : 17,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:0",
+            "bar",
+            "sequence:2",
+            "sequence:0",
+            "parallel:0"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:17:41",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:2\/sequence:0\/parallel:1:4a211cd3937c57c1",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+          ],
+          "column" : 41,
+          "endColumn" : 62,
+          "endLine" : 17,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:17:41",
+          "line" : 17,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:0",
+            "bar",
+            "sequence:2",
+            "sequence:0",
+            "parallel:1"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:18:18",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:3\/sequence:0\/parallel:0:55ab6e3eb83ef23c",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+          ],
+          "column" : 18,
+          "endColumn" : 39,
+          "endLine" : 18,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:18:18",
+          "line" : 18,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:0",
+            "bar",
+            "sequence:3",
+            "sequence:0",
+            "parallel:0"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 4,
+            "measure" : 1
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:18:41",
+        "duration" : {
+          "quarterNotes" : "1\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:3\/sequence:0\/parallel:1:37b875e1025347bf",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+          ],
+          "column" : 41,
+          "endColumn" : 62,
+          "endLine" : 18,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:18:41",
+          "line" : 18,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:0",
+            "bar",
+            "sequence:3",
+            "sequence:0",
+            "parallel:1"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:22:22",
+        "duration" : {
+          "quarterNotes" : "2\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:0\/technique:technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17:0\/sequence:0\/sequence:0\/parallel:0:d5a7baf344fe4f51",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:20:13",
+            "technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17"
+          ],
+          "column" : 22,
+          "endColumn" : 43,
+          "endLine" : 22,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:22:22",
+          "line" : 22,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:1",
+            "bar",
+            "sequence:0",
+            "technique:technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17:0",
+            "sequence:0",
+            "sequence:0",
+            "parallel:0"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 1,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:22:45",
+        "duration" : {
+          "quarterNotes" : "2\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:0\/technique:technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17:0\/sequence:0\/sequence:0\/parallel:1:58a293739b146a2f",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:20:13",
+            "technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17"
+          ],
+          "column" : 45,
+          "endColumn" : 66,
+          "endLine" : 22,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:22:45",
+          "line" : 22,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:1",
+            "bar",
+            "sequence:0",
+            "technique:technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17:0",
+            "sequence:0",
+            "sequence:0",
+            "parallel:1"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      },
+      {
+        "at" : {
+          "musical" : {
+            "beat" : 3,
+            "measure" : 2
+          }
+        },
+        "definitionID" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:24:25",
+        "duration" : {
+          "quarterNotes" : "2\/1"
+        },
+        "kind" : "actuator",
+        "occurrenceID" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:1\/technique:technique:drone:static\/examples\/nyckelharpa-key-bow-study.utab:24:17:0\/sequence:0:c44fdb6c922f2c25",
+        "sectionID" : "section:study",
+        "source" : {
+          "ancestry" : [
+            "bar:static\/examples\/nyckelharpa-key-bow-study.utab:20:13",
+            "technique:drone:static\/examples\/nyckelharpa-key-bow-study.utab:24:17"
+          ],
+          "column" : 25,
+          "endColumn" : 46,
+          "endLine" : 24,
+          "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+          "id" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:24:25",
+          "line" : 24,
+          "path" : [
+            "section:section:study",
+            "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+            "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+            "content:1",
+            "bar",
+            "sequence:1",
+            "technique:technique:drone:static\/examples\/nyckelharpa-key-bow-study.utab:24:17:0",
+            "sequence:0"
+          ]
+        },
+        "trackID" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28"
+      }
+    ],
+    "version" : 1
+  },
+  "setup" : {
+    "arrangement" : [
+      {
+        "id" : "section-occurrence:main\/sequence:0\/reference:section-reference:static\/examples\/nyckelharpa-key-bow-study.utab:30:8:bd5b513a99e56cbe",
+        "section" : "section:study"
+      }
+    ],
+    "instruments" : [
+      {
+        "id" : "harpa",
+        "name" : "Chromatic nyckelharpa",
+        "profile" : "profile:generated:harpa",
+        "realization" : {
+          "midi" : {
+            "percussion" : false,
+            "program" : 111
+          }
+        }
+      }
+    ],
+    "profiles" : [
+      {
+        "actuators" : {
+          "bowedStrings" : {
+            "count" : 3,
+            "type" : "generated"
+          },
+          "keys" : {
+            "count" : 8,
+            "type" : "generated"
+          }
+        },
+        "id" : "profile:generated:harpa",
+        "interactions" : {
+          "bow" : {
+
+          },
+          "setKeyState" : {
+
+          }
+        },
+        "name" : "Generated Chromatic nyckelharpa profile",
+        "profileVersion" : "0.1-draft",
+        "techniques" : {
+          "doubleStop" : {
+
+          },
+          "drone" : {
+
+          }
+        }
+      }
+    ],
+    "sections" : [
+      {
+        "id" : "section:study",
+        "length" : {
+          "measures" : 2
+        },
+        "meterMap" : [
+          {
+            "at" : {
+              "measure" : 1
+            },
+            "denominator" : 4,
+            "numerator" : 4
+          }
+        ],
+        "name" : "study"
+      }
+    ],
+    "time" : {
+      "meter" : {
+        "denominator" : 4,
+        "numerator" : 4
+      },
+      "tempo" : {
+        "quarterNotesPerMinute" : 76
+      }
+    },
+    "tunings" : [
+      {
+        "divisions" : 12,
+        "id" : "12edo",
+        "names" : {
+          "A" : 9,
+          "Ab" : 8,
+          "B" : 11,
+          "Bb" : 10,
+          "C" : 0,
+          "C#" : 1,
+          "D" : 2,
+          "E" : 4,
+          "Eb" : 3,
+          "F" : 5,
+          "F#" : 6,
+          "G" : 7
+        },
+        "periodRatio" : "2\/1",
+        "reference" : {
+          "frequencyHz" : 440,
+          "pitch" : {
+            "degree" : 9,
+            "period" : 4
+          }
+        },
+        "type" : "equalDivision"
+      }
+    ]
+  },
+  "tracks" : [
+    {
+      "id" : "track:harpa:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+      "instrument" : "harpa",
+      "name" : "Chromatic nyckelharpa — coordination",
+      "parts" : [
+        {
+          "events" : [
+            {
+              "action" : "setKeyState",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:0\/sequence:0\/parallel:0:81309244f11edc7a",
+              "parameters" : {
+
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+                ],
+                "column" : 18,
+                "endColumn" : 39,
+                "endLine" : 15,
+                "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+                "id" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:15:18",
+                "line" : 15,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+                  "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+                  "content:0",
+                  "bar",
+                  "sequence:0",
+                  "sequence:0",
+                  "parallel:0"
+                ]
+              },
+              "target" : "keys[1]"
+            },
+            {
+              "action" : "bow",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:0\/sequence:0\/parallel:1:d2d04d5daf52e3a5",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 9,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+                ],
+                "column" : 41,
+                "endColumn" : 62,
+                "endLine" : 15,
+                "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+                "id" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:15:41",
+                "line" : 15,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+                  "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+                  "content:0",
+                  "bar",
+                  "sequence:0",
+                  "sequence:0",
+                  "parallel:1"
+                ]
+              },
+              "target" : "bowedStrings[1]"
+            },
+            {
+              "action" : "setKeyState",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:1\/sequence:0\/parallel:0:aac5804c8ef0fa94",
+              "parameters" : {
+
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+                ],
+                "column" : 18,
+                "endColumn" : 39,
+                "endLine" : 16,
+                "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+                "id" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:16:18",
+                "line" : 16,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+                  "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+                  "content:0",
+                  "bar",
+                  "sequence:1",
+                  "sequence:0",
+                  "parallel:0"
+                ]
+              },
+              "target" : "keys[3]"
+            },
+            {
+              "action" : "bow",
+              "at" : {
+                "musical" : {
+                  "beat" : 2,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:1\/sequence:0\/parallel:1:3ceb6b4d2f988ddf",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 9,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+                ],
+                "column" : 41,
+                "endColumn" : 62,
+                "endLine" : 16,
+                "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+                "id" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:16:41",
+                "line" : 16,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+                  "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+                  "content:0",
+                  "bar",
+                  "sequence:1",
+                  "sequence:0",
+                  "parallel:1"
+                ]
+              },
+              "target" : "bowedStrings[1]"
+            },
+            {
+              "action" : "setKeyState",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:2\/sequence:0\/parallel:0:5571b47a8b666556",
+              "parameters" : {
+
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+                ],
+                "column" : 18,
+                "endColumn" : 39,
+                "endLine" : 17,
+                "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+                "id" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:17:18",
+                "line" : 17,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+                  "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+                  "content:0",
+                  "bar",
+                  "sequence:2",
+                  "sequence:0",
+                  "parallel:0"
+                ]
+              },
+              "target" : "keys[5]"
+            },
+            {
+              "action" : "bow",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:2\/sequence:0\/parallel:1:4a211cd3937c57c1",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 0,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+                ],
+                "column" : 41,
+                "endColumn" : 62,
+                "endLine" : 17,
+                "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+                "id" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:17:41",
+                "line" : 17,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+                  "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+                  "content:0",
+                  "bar",
+                  "sequence:2",
+                  "sequence:0",
+                  "parallel:1"
+                ]
+              },
+              "target" : "bowedStrings[2]"
+            },
+            {
+              "action" : "setKeyState",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:3\/sequence:0\/parallel:0:55ab6e3eb83ef23c",
+              "parameters" : {
+
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+                ],
+                "column" : 18,
+                "endColumn" : 39,
+                "endLine" : 18,
+                "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+                "id" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:18:18",
+                "line" : 18,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+                  "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+                  "content:0",
+                  "bar",
+                  "sequence:3",
+                  "sequence:0",
+                  "parallel:0"
+                ]
+              },
+              "target" : "keys[8]"
+            },
+            {
+              "action" : "bow",
+              "at" : {
+                "musical" : {
+                  "beat" : 4,
+                  "measure" : 1
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "1\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:0\/bar\/sequence:3\/sequence:0\/parallel:1:37b875e1025347bf",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 0,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/nyckelharpa-key-bow-study.utab:14:13"
+                ],
+                "column" : 41,
+                "endColumn" : 62,
+                "endLine" : 18,
+                "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+                "id" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:18:41",
+                "line" : 18,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+                  "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+                  "content:0",
+                  "bar",
+                  "sequence:3",
+                  "sequence:0",
+                  "parallel:1"
+                ]
+              },
+              "target" : "bowedStrings[2]"
+            },
+            {
+              "action" : "bow",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "2\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:0\/technique:technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17:0\/sequence:0\/sequence:0\/parallel:0:d5a7baf344fe4f51",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 9,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/nyckelharpa-key-bow-study.utab:20:13",
+                  "technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17"
+                ],
+                "column" : 22,
+                "endColumn" : 43,
+                "endLine" : 22,
+                "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+                "id" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:22:22",
+                "line" : 22,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+                  "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+                  "content:1",
+                  "bar",
+                  "sequence:0",
+                  "technique:technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17:0",
+                  "sequence:0",
+                  "sequence:0",
+                  "parallel:0"
+                ]
+              },
+              "target" : "bowedStrings[1]",
+              "techniques" : [
+                "doubleStop"
+              ]
+            },
+            {
+              "action" : "bow",
+              "at" : {
+                "musical" : {
+                  "beat" : 1,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "2\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:0\/technique:technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17:0\/sequence:0\/sequence:0\/parallel:1:58a293739b146a2f",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 0,
+                  "period" : 4,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/nyckelharpa-key-bow-study.utab:20:13",
+                  "technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17"
+                ],
+                "column" : 45,
+                "endColumn" : 66,
+                "endLine" : 22,
+                "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+                "id" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:22:45",
+                "line" : 22,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+                  "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+                  "content:1",
+                  "bar",
+                  "sequence:0",
+                  "technique:technique:doubleStop:static\/examples\/nyckelharpa-key-bow-study.utab:21:17:0",
+                  "sequence:0",
+                  "sequence:0",
+                  "parallel:1"
+                ]
+              },
+              "target" : "bowedStrings[2]",
+              "techniques" : [
+                "doubleStop"
+              ]
+            },
+            {
+              "action" : "bow",
+              "at" : {
+                "musical" : {
+                  "beat" : 3,
+                  "measure" : 2
+                }
+              },
+              "duration" : {
+                "quarterNotes" : "2\/1"
+              },
+              "id" : "occurrence:section:section:study\/part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11\/voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28\/content:1\/bar\/sequence:1\/technique:technique:drone:static\/examples\/nyckelharpa-key-bow-study.utab:24:17:0\/sequence:0:c44fdb6c922f2c25",
+              "parameters" : {
+                "pitch" : {
+                  "degree" : 7,
+                  "period" : 3,
+                  "tuning" : "12edo"
+                }
+              },
+              "source" : {
+                "ancestry" : [
+                  "bar:static\/examples\/nyckelharpa-key-bow-study.utab:20:13",
+                  "technique:drone:static\/examples\/nyckelharpa-key-bow-study.utab:24:17"
+                ],
+                "column" : 25,
+                "endColumn" : 46,
+                "endLine" : 24,
+                "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+                "id" : "actuator:static\/examples\/nyckelharpa-key-bow-study.utab:24:25",
+                "line" : 24,
+                "path" : [
+                  "section:section:study",
+                  "part:0:part:static\/examples\/nyckelharpa-key-bow-study.utab:12:11",
+                  "voice:0:voice:static\/examples\/nyckelharpa-key-bow-study.utab:13:28",
+                  "content:1",
+                  "bar",
+                  "sequence:1",
+                  "technique:technique:drone:static\/examples\/nyckelharpa-key-bow-study.utab:24:17:0",
+                  "sequence:0"
+                ]
+              },
+              "target" : "bowedStrings[3]",
+              "techniques" : [
+                "drone"
+              ]
+            }
+          ],
+          "section" : "section:study",
+          "source" : {
+            "column" : 24,
+            "endColumn" : 2,
+            "endLine" : 28,
+            "file" : "static\/examples\/nyckelharpa-key-bow-study.utab",
+            "id" : "section:study",
+            "line" : 11
+          }
+        }
+      ]
+    }
+  ],
+  "utab" : {
+    "documentId" : "composition:static\/examples\/nyckelharpa-key-bow-study.utab:1:1",
+    "encoding" : {
+      "description" : "Generated from the high-level semantic compiler pipeline",
+      "software" : [
+        "UTABLowering"
+      ]
+    },
+    "miscellaneous" : {
+      "sourceCompositionID" : "composition:static\/examples\/nyckelharpa-key-bow-study.utab:1:1",
+      "sourceMapping" : "event-id-and-parameters"
+    },
+    "title" : "Nyckelharpa key and bow study (original)",
+    "version" : "0.1-draft"
+  }
+}

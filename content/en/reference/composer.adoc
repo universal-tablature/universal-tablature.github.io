@@ -289,6 +289,29 @@ Postfix `rearticulate` forces a new attack. Postfix `letRing` extends performed
 duration until a zero-time `damp` interaction or the section boundary, without
 changing written duration.
 
+Any technique declared by the active instrument profile can be applied as a
+named block, for example `vibrato { A4 h }`, `pizzicato { D4 q }`, or
+`doubleStop { ... }`. Unsupported names are diagnosed during instrument
+realization. `hammerOn { from; to }` and `pullOff { from; to }` are retained as
+two-endpoint transition techniques. Bends and slides carry typed transition
+configuration: `bend(semitones: 2) { A3 q }` and
+`slide(to: A3) { F#3 q }`.
+
+Technique arguments describe non-temporal configuration or a destination;
+expressions inside the block are performed material and therefore own duration,
+voice, instrument context, and the transition's starting state. A bend is
+normally specified relative to its performed note, so its semitone distance is
+an argument. A slide can target a pitch or a physical coordinate. Parallel
+strings use an ordered coordinate list whose entries correspond to the parallel
+block operands:
+
+[source,utab]
+----
+slide(to: [strings[1].frets[5], strings[2].frets[7]]) {
+    F#3 q, B3 q
+}
+----
+
 === Grace notes and ornaments
 
 [source,utab]

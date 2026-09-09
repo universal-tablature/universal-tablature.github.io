@@ -1,0 +1,30 @@
+module examples.nyckelharpa-key-bow-study
+import instruments.nyckelharpa
+
+title "Nyckelharpa key and bow study (original)"
+// Original actuator-coordinate study, authored for the Universal Tablature project.
+meter 4/4
+tempo 76
+
+instrument harpa : KromatiskNyckelharpa as "Chromatic nyckelharpa"
+
+section study : 2 bars {
+    harpa {
+        voice coordination {
+            bar {
+                (setKeyState keys[1] q, bow bowedStrings[1] q)
+                (setKeyState keys[3] q, bow bowedStrings[1] q)
+                (setKeyState keys[5] q, bow bowedStrings[2] q)
+                (setKeyState keys[8] q, bow bowedStrings[2] q)
+            }
+            bar {
+                doubleStop {
+                    (bow bowedStrings[1] h, bow bowedStrings[2] h)
+                }
+                drone { bow bowedStrings[3] h }
+            }
+        }
+    }
+}
+
+main { study }

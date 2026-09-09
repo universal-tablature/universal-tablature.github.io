@@ -478,7 +478,13 @@
       {
         "id" : "oud",
         "name" : "Arabic oud",
-        "profile" : "profile:generated:oud"
+        "profile" : "profile:generated:oud",
+        "realization" : {
+          "midi" : {
+            "percussion" : false,
+            "program" : 25
+          }
+        }
       }
     ],
     "profiles" : [

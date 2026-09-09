@@ -1,0 +1,41 @@
+---
+title: Coordinate nyckelharpa keys and bow
+linkTitle: Nyckelharpa keying and bowing
+weight: 80
+description: An original actuator study for key state, bowed strings, double stops, and drones.
+midi_player: true
+---
+
+The nyckelharpa is not modeled as a generic violin. This original two-bar study
+addresses its key and bowed-string actuator groups separately.
+
+++++
+<midi-player src="/examples/nyckelharpa-key-bow-study.mid" sound-font></midi-player>
+<p class="small"><a href="/examples/nyckelharpa-key-bow-study.mid" download>Download MIDI</a> · <a href="/examples/nyckelharpa-key-bow-study.utab" download>Composer source</a> · <a href="/examples/nyckelharpa-key-bow-study.utab.json" download>Compiled UTAB JSON</a></p>
+++++
+
+== Coordinate two actuator groups
+
+[source,utab]
+----
+(setKeyState keys[1] q, bow bowedStrings[1] q)
+(setKeyState keys[3] q, bow bowedStrings[1] q)
+----
+
+The comma makes key state and bow motion simultaneous. Their targets survive as
+distinct coordinates in UTAB. Direct bows resolve their open-string pitch from
+the `KromatiskNyckelharpa` model's bundled standard tuning.
+
+== Retain playing intent
+
+[source,utab]
+----
+doubleStop {
+    (bow bowedStrings[1] h, bow bowedStrings[2] h)
+}
+drone { bow bowedStrings[3] h }
+----
+
+`doubleStop` and `drone` are capabilities of the nyckelharpa profile. MIDI can
+sound the resulting pitches, but the named techniques and physical string
+coordinates remain available to richer renderers and training software.

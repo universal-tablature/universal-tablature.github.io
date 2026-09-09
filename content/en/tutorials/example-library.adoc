@@ -85,6 +85,21 @@ link:/en/tutorials/oud-bayati/[oud tutorial].
 <p class="small"><a href="/examples/oud-bayati-study.mid" download>Download MIDI</a> · <a href="/examples/oud-bayati-study.utab" download>Composer source</a> · <a href="/examples/oud-bayati-study.utab.json" download>Compiled UTAB JSON</a></p>
 ++++
 
+== Original bowed-string, nyckelharpa, and guitar studies
+
+Three further original studies focus on physical performance information rather
+than repertoire transcription:
+
+* link:/en/tutorials/bowed-strings/[Bowed strings] — slur, vibrato, pizzicato,
+  and rearticulation on violin.
+* link:/en/tutorials/nyckelharpa-key-bow/[Nyckelharpa keying and bowing] —
+  simultaneous key state and bow coordinates, double stops, and drones.
+* link:/en/tutorials/guitar-techniques/[Guitar techniques] — hammer-on,
+  pull-off, bend, vibrato, tapping, harmonic, palm mute, and slide blocks.
+
+Each tutorial provides its `.utab` source, compiled UTAB JSON, and MIDI preview.
+All three scores were authored specifically for this documentation.
+
 == Reuse policy
 
 For future examples, prefer an original study or a composer whose works are

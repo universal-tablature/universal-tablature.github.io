@@ -1,0 +1,27 @@
+module examples.bowed-strings-study
+import instruments.violin
+
+title "Bowed strings study (original)"
+// Original documentation study, authored for the Universal Tablature project.
+meter 4/4
+tempo 84
+scale D major
+
+instrument violin : Violin as "Violin"
+
+section study : 2 bars {
+    violin {
+        voice melody {
+            bar {
+                slur { D4 q; E4 q; F#4 q; G4 q }
+            }
+            bar {
+                vibrato { A4 h }
+                pizzicato { D4 q }
+                G4 q rearticulate
+            }
+        }
+    }
+}
+
+main { study }
