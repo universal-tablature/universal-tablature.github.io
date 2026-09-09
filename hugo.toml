@@ -12,6 +12,11 @@ name = 'Tutorials'
 pageRef = '/en/tutorials'
 weight = 20
 
+[[menu.main]]
+name = 'Tools & installation'
+pageRef = '/en/tools'
+weight = 30
+
 [markup.asciidocExt]
 backend = 'html5'
 safeMode = 'safe'

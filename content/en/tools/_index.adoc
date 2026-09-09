@@ -1,0 +1,76 @@
+---
+title: Tools and installation
+linkTitle: Tools & installation
+weight: 30
+---
+
+The link:https://github.com/universal-tablature/UniversalTabs[UniversalTabs repository]
+contains the command-line tools for compiling, validating, converting, and
+integrating Universal Tablature scores.
+
+== Build from source
+
+Install Git and a Swift 6.3 toolchain, then clone and build the package:
+
+[source,shell]
+----
+git clone https://github.com/universal-tablature/UniversalTabs.git
+cd UniversalTabs
+swift build --configuration release
+----
+
+Ask SwiftPM for the platform-specific executable directory:
+
+[source,shell]
+----
+swift build --configuration release --show-bin-path
+----
+
+Run tools from that directory, copy the executables into a directory on your
+`PATH`, or use `swift run <tool>`. Run the test suite with `swift test`.
+
+On Linux, install the zlib development package supplied by your distribution.
+The PDMX utilities are not built on Windows; all other listed tools are available
+on macOS, Linux, and Windows.
+
+== Included tools
+
+`utabc`::
+Compiles Composer `.utab` source into `.utab.json` or Standard MIDI. It supports
+additional module search paths, compact JSON, and verification of expected
+diagnostics embedded in source comments.
++
+[source,shell]
+----
+swift run utabc --emit utab-json score.utab
+swift run utabc --emit midi -o score.mid score.utab
+----
+
+`utab-lsp`::
+Runs the Universal Tabs language server over standard input and output for editor
+integration. Use `-I <directory>` to add module search paths.
+
+`utab-midi`::
+Converts resolved `.utab.json` documents to Standard MIDI files. Add `--strict`
+to reject conversions that produce mapping diagnostics.
++
+[source,shell]
+----
+swift run utab-midi score.utab.json score.mid
+----
+
+`utab-musicxml`::
+Imports MusicXML into Universal Tablature JSON or exports Universal Tablature JSON
+as MusicXML.
++
+[source,shell]
+----
+swift run utab-musicxml import score.musicxml score.utab.json
+swift run utab-musicxml export score.utab.json score.musicxml
+----
+
+`utab-pdmx-index` and `utab-pdmx-import`::
+Index and import the PDMX dataset. These ZIP-dependent utilities are available on
+macOS and Linux, but are excluded from Windows builds.
+
+Each command provides its current arguments through `--help` where supported.

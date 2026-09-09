@@ -23,3 +23,13 @@ without understanding the high-level source.
 
 See the link:/en/reference/[language reference index] for an overview of both
 formats.
+
+== Get the tools
+
+UniversalTabs includes a compiler, language server, MIDI and MusicXML converters,
+and PDMX import utilities. Build them from the
+link:https://github.com/universal-tablature/UniversalTabs[UniversalTabs repository]
+with Swift 6.3 on macOS, Linux, or Windows.
+
+See link:/en/tools/[Tools & installation] for platform notes, build commands,
+and a guide to each executable.
