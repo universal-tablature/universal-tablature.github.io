@@ -172,4 +172,4 @@ main { tablet }
 ----
 
 For the available instrument definition and tuning, see the
-link:/en/reference/standard-library/#_historical_and_regional_strings[standard-library overview].
+link:/reference/standard-library/#_historical_and_regional_strings[standard-library overview].

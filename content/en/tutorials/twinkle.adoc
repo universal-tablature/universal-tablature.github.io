@@ -234,5 +234,5 @@ section verse : 12 bars {
 main { verse }
 ----
 
-Next, compare the link:/en/tutorials/hurrian-hymn/[Hurrian Hymn tutorial], which
+Next, compare the link:/tutorials/hurrian-hymn/[Hurrian Hymn tutorial], which
 uses absolute pitches and records uncertainty directly in its source comments.

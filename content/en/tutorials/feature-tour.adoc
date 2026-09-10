@@ -87,5 +87,5 @@ The pedal block emits balanced sustain state. `letRing` extends performance
 without changing the written quarter-note duration. On an instrument with a
 `damp` interaction, an explicit zero-time damp ends ringing material.
 
-Read the link:/en/reference/composer/[Composer Language reference] for the full
+Read the link:/reference/composer/[Composer Language reference] for the full
 syntax and validation rules.

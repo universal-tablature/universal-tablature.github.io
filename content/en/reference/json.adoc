@@ -195,7 +195,7 @@ to it and, when available, the source of an explicit bar.
 
 A source reference always has an `id`. It may include file and one-based source
 coordinates, an ancestry list, and an object `path`. These fields allow emitted
-events to be traced back to link:/en/reference/composer/[Composer Language] source.
+events to be traced back to link:/reference/composer/[Composer Language] source.
 
 Pitch representations are either `absolute` or `scaleRelative`. Absolute forms
 carry `letter`, integer `accidental`, integer `tuningOffsetCents`, and `octave`.

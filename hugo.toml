@@ -1,25 +1,36 @@
 baseURL = 'https://universal-tablature.github.io/'
 locale = 'en-us'
 title = 'Universal Tablature'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+
+[languages.en]
+label = 'English'
+locale = 'en-us'
+contentDir = 'content/en'
+weight = 1
 
 [[menu.main]]
 name = 'Language reference'
-pageRef = '/en/reference'
+pageRef = '/reference'
 weight = 10
 
 [[menu.main]]
 name = 'Tutorials'
-pageRef = '/en/tutorials'
+pageRef = '/tutorials'
 weight = 20
 
 [[menu.main]]
 name = 'Tools & installation'
-pageRef = '/en/tools'
+pageRef = '/tools'
 weight = 30
 
 [markup.asciidocExt]
 backend = 'html5'
 safeMode = 'safe'
+
+[markup.goldmark.renderer]
+unsafe = true
 
 [security.exec]
 allow = ['^(dart-)?sass(-embedded)?$', '^asciidoctor$', '^go$', '^git$', '^npx$', '^postcss$', '^tailwindcss$']

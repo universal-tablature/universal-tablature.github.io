@@ -53,7 +53,7 @@ texture.
 
 == Original Composer feature study
 
-The six-bar study from the link:/en/tutorials/feature-tour/[feature tour]
+The six-bar study from the link:/tutorials/feature-tour/[feature tour]
 combines tuplets, ornaments, dynamics, a tempo ramp, altered
 harmony, and pedal state.
 
@@ -66,7 +66,7 @@ harmony, and pedal state.
 
 This two-bar drum-kit example is original documentation music. It demonstrates
 parallel physical strikes and named kit surfaces in the
-link:/en/tutorials/percussion-groove/[percussion tutorial].
+link:/tutorials/percussion-groove/[percussion tutorial].
 
 ++++
 <midi-player src="/examples/percussion-groove-study.mid" sound-font></midi-player>
@@ -78,7 +78,7 @@ link:/en/tutorials/percussion-groove/[percussion tutorial].
 This two-bar oud exercise is original documentation music. It demonstrates the
 Arabic oud's bundled standard tuning, a reference maqam table, and explicitly
 scoped contextual pitch names in the
-link:/en/tutorials/oud-bayati/[oud tutorial].
+link:/tutorials/oud-bayati/[oud tutorial].
 
 ++++
 <midi-player src="/examples/oud-bayati-study.mid" sound-font></midi-player>
@@ -90,11 +90,11 @@ link:/en/tutorials/oud-bayati/[oud tutorial].
 Three further original studies focus on physical performance information rather
 than repertoire transcription:
 
-* link:/en/tutorials/bowed-strings/[Bowed strings] — slur, vibrato, pizzicato,
+* link:/tutorials/bowed-strings/[Bowed strings] — slur, vibrato, pizzicato,
   and rearticulation on violin.
-* link:/en/tutorials/nyckelharpa-key-bow/[Nyckelharpa keying and bowing] —
+* link:/tutorials/nyckelharpa-key-bow/[Nyckelharpa keying and bowing] —
   simultaneous key state and bow coordinates, double stops, and drones.
-* link:/en/tutorials/guitar-techniques/[Guitar techniques] — hammer-on,
+* link:/tutorials/guitar-techniques/[Guitar techniques] — hammer-on,
   pull-off, bend, vibrato, tapping, harmonic, palm mute, and slide blocks.
 
 Each tutorial provides its `.utab` source, compiled UTAB JSON, and MIDI preview.

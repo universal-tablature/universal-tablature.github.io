@@ -217,7 +217,7 @@ press manuals.upper.keys[3] h
 The selector may be a positive one-based integer or a quoted member name. Omit
 the selector to address the complete group. The action and target are validated
 against the surrounding instrument's profile, and the exact coordinate survives
-lowering. See the link:/en/tutorials/hurrian-hymn/[Hurrian Hymn tutorial] for a
+lowering. See the link:/tutorials/hurrian-hymn/[Hurrian Hymn tutorial] for a
 score whose source material is best represented as instrument coordinates.
 
 == Sections, instruments, voices, and lyrics
@@ -460,14 +460,14 @@ extension Guitar {
 
 Compilation parses and validates Composer source, expands references and the
 `main` arrangement, resolves scales and chords, realizes notes for concrete
-instruments, and emits link:/en/reference/json/[Universal Tablature JSON]. Diagnostics use
+instruments, and emits link:/reference/json/[Universal Tablature JSON]. Diagnostics use
 one-based line and column positions. Source references may be preserved in the
 JSON editing map so authoring tools can trace resolved events back to Composer
 declarations.
 
 == Next steps
 
-* Browse the link:/en/reference/standard-library/[Composer standard library].
-* Work through the link:/en/tutorials/twinkle/[complete Twinkle arrangement].
-* Study the link:/en/tutorials/hurrian-hymn/[Hurrian Hymn reconstruction] for an
+* Browse the link:/reference/standard-library/[Composer standard library].
+* Work through the link:/tutorials/twinkle/[complete Twinkle arrangement].
+* Study the link:/tutorials/hurrian-hymn/[Hurrian Hymn reconstruction] for an
   example that documents uncertainty in its source material.

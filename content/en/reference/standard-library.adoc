@@ -108,7 +108,7 @@ sixth-comma meantone scale definitions, plus model tunings.
 `MaqamAjam`, and `MaqamSaba` cent-based scales.
 
 `instruments.lyre.sammu` exports `NineStringSammu` and a reconstructed tuning.
-The link:/en/tutorials/hurrian-hymn/[Hurrian Hymn tutorial] uses this model.
+The link:/tutorials/hurrian-hymn/[Hurrian Hymn tutorial] uses this model.
 
 `instruments.nyckelharpa` exports `KromatiskNyckelharpa`, `Kontrabasharpa`,
 `Silverbasharpa`, `Oktavharpa`, `Moraharpa`, `Esseharpa`, and `Vefsenharpa`, each

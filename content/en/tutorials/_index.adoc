@@ -7,43 +7,43 @@ weight: 20
 These tutorials develop complete Composer Language scores and explain how their
 modules, phrases, sections, voices, and arrangements fit together.
 
-link:/en/tutorials/twinkle/[Arrange “Twinkle, Twinkle, Little Star”]::
+link:/tutorials/twinkle/[Arrange “Twinkle, Twinkle, Little Star”]::
 Build a complete 12-bar arrangement for piano, two guitars, and voice using
 scale-relative melody phrases, chords, lyrics, and repetition.
 
-link:/en/tutorials/hurrian-hymn/[Encode a reconstruction of Hurrian Hymn No. 6]::
+link:/tutorials/hurrian-hymn/[Encode a reconstruction of Hurrian Hymn No. 6]::
 Represent a nine-bar reconstruction for the standard-library sammûm while
 keeping editorial choices visible in the source.
 
-link:/en/tutorials/feature-tour/[Tour expressive timing and harmony]::
+link:/tutorials/feature-tour/[Tour expressive timing and harmony]::
 Use an original six-bar study to explore tuplets, ornaments,
 dynamics, tempo ramps, altered harmony, and pedal state.
 
-link:/en/tutorials/example-library/[Public-domain and original example scores]::
+link:/tutorials/example-library/[Public-domain and original example scores]::
 Download fresh UTAB transcriptions of Beethoven and Bach excerpts alongside an
 original feature study, with provenance and reuse guidance.
 
-link:/en/tutorials/percussion-groove/[Write a drum-kit groove with actuator coordinates]::
+link:/tutorials/percussion-groove/[Write a drum-kit groove with actuator coordinates]::
 Build an original two-bar groove from simultaneous kick, snare, hi-hat, and
 crash interactions.
 
-link:/en/tutorials/oud-bayati/[Compose an original Bayati oud study]::
+link:/tutorials/oud-bayati/[Compose an original Bayati oud study]::
 Keep the oud model, standard tuning, maqam scale table, and contextual pitch
 names distinct in a short original exercise.
 
-link:/en/tutorials/bowed-strings/[Combine bowing, slurs, vibrato, and pizzicato]::
+link:/tutorials/bowed-strings/[Combine bowing, slurs, vibrato, and pizzicato]::
 Preserve bowed-string phrasing and attack technique on an original violin study.
 
-link:/en/tutorials/nyckelharpa-key-bow/[Coordinate nyckelharpa keys and bow]::
+link:/tutorials/nyckelharpa-key-bow/[Coordinate nyckelharpa keys and bow]::
 Address keys and bowed strings concurrently, then retain double-stop and drone
 intent.
 
-link:/en/tutorials/guitar-techniques/[Author guitar performance techniques]::
+link:/tutorials/guitar-techniques/[Author guitar performance techniques]::
 Use transition and scoped technique blocks for hammer-ons, pull-offs, bends,
 vibrato, tapping, harmonics, palm muting, and slides.
 
 The examples target the `0.1-draft` implementation described in the
-link:/en/reference/composer/[Composer Language reference].
+link:/reference/composer/[Composer Language reference].
 
 Each tutorial includes an inline MIDI player and links to its Composer source,
 compiled Universal Tablature JSON, and Standard MIDI File. Maintainers can

@@ -8,14 +8,14 @@ This section documents the two Universal Tablature formats.
 
 == Formats
 
-link:/en/reference/composer/[Universal Tablature Composer Language]::
+link:/reference/composer/[Universal Tablature Composer Language]::
 The high-level, human-authored composition language stored in `.utab` files.
 
-link:/en/reference/json/[Universal Tablature JSON]::
+link:/reference/json/[Universal Tablature JSON]::
 The resolved interchange and playback representation stored in `.utab.json`
 files.
 
-link:/en/reference/standard-library/[Composer standard library]::
+link:/reference/standard-library/[Composer standard library]::
 The modules, profiles, instruments, tunings, and musical symbols bundled with
 the Composer implementation.
 
@@ -23,4 +23,4 @@ Both references currently describe the implemented `0.1-draft` formats. The
 formats are evolving, so producers should emit an explicit version and consumers
 should report unsupported versions.
 
-For complete scores with commentary, continue to the link:/en/tutorials/[tutorials].
+For complete scores with commentary, continue to the link:/tutorials/[tutorials].
