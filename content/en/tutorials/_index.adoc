@@ -40,7 +40,8 @@ intent.
 
 link:/tutorials/guitar-techniques/[Author guitar performance techniques]::
 Use transition and scoped technique blocks for hammer-ons, pull-offs, bends,
-vibrato, tapping, harmonics, palm muting, and slides.
+vibrato, tapping, harmonics, palm muting, slides, movable power chords, and a
+drop-D galloping riff.
 
 The examples target the `0.1-draft` implementation described in the
 link:/reference/composer/[Composer Language reference].

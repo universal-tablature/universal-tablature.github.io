@@ -163,19 +163,39 @@ final { E5 h. }
 === Chords
 
 An absolute chord has the form `chord root quality duration`. A relative chord
-starts with a scale degree. `using` selects a named instrument-specific shape.
+starts with a scale degree. `using` selects a named instrument-specific shape;
+`on string n` optionally relocates a movable shape's root string.
 
 [source,utab]
 ----
 chord C major w
 chord F# minor h
 chord @5 dominant7 q
-chord G major w using cowboyG
+chord G major w using openG
+chord G major w using openGHighD
+chord C power q using powerChord on string 5
 ----
 
 Chord quality is an identifier resolved by the semantic layer. Common built-in
 qualities include `major`, `minor`, `diminished`, `augmented`, `dominant7`,
-`major7`, `minor7`, `sus2`, and `sus4`.
+`major7`, `minor7`, `sus2`, `sus4`, and `power` (also spelled `fifth` or
+`powerChord`).
+
+A `let` declaration may bind a complete chord without binding its duration.
+Writing the name with a duration creates an occurrence of that chord. Root,
+quality, shape, and root-string selection come from the declaration:
+
+[source,utab]
+----
+let verseG = chord G major using openGHighD
+let myE = chord E power using compactPower
+
+verseG h
+myE q
+----
+
+Named chords are valid wherever a chord progression is expected, including
+performance-pattern and bass-pattern input.
 
 === Grouping and reuse
 
@@ -418,8 +438,8 @@ techniques. Profile items include `actuator`, `interaction`, and `technique`.
 `model Name : Profile { ... }`:: Defines an instrument model conforming to a
 profile. Model bodies contain properties and `geometry name { ... }` blocks.
 
-`extension Model { ... }`:: Adds `tuning`, `fingering`, or `chordShape`
-definitions to a model.
+`extension Model { ... }`:: Adds `tuning`, `fingering`, `chordShape`, or
+`movableChordShape` definitions to a model.
 
 Properties accept identifiers, strings, integers, decimals, qualified symbol
 references, or comma-separated values. The meaning and validation of individual
@@ -445,7 +465,7 @@ extension Guitar {
         course B3
         course E4
     }
-    chordShape cowboyG : G major {
+    chordShape openG : G major {
         string 6 fret 3
         string 5 fret 2
         string 4 fret 0
@@ -453,8 +473,43 @@ extension Guitar {
         string 2 fret 0
         string 1 fret 3
     }
+
+    movableChordShape powerChord : power {
+        root string 6
+        string 6 fret 0
+        string 5 fret 2
+        string 4 fret 2
+    }
 }
 ----
+
+A concrete `chordShape` declares a fixed root, quality, and set of frets. A
+`movableChordShape` declares a quality, a root string, and a transposable fret
+pattern. At realization time the compiler derives a fret shift from the
+requested chord root and the active tuning, then validates every resulting
+pitch and required chord tone.
+
+Add `for tuning Name` after the quality to create a tuning-specific overload:
+
+[source,utab]
+----
+movableChordShape compactPower : power for tuning standard {
+    root string 6
+    string 6 fret 0
+    string 5 fret 2
+}
+
+movableChordShape compactPower : power for tuning dropD {
+    root string 6
+    string 6 fret 0
+    string 5 fret 0
+}
+----
+
+Shape names may be overloaded for different tunings of the same model. Duplicate
+definitions for the same model, name, and tuning are rejected. Resolution uses
+the exact active-tuning overload first and a tuning-independent overload as its
+fallback. A root-string override is valid only for a movable shape.
 
 == Compilation model
 

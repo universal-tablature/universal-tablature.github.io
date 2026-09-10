@@ -71,12 +71,20 @@ scraped, lamellophone, and damped gong/bar instruments
 |`Piano`
 
 |`instruments.guitar`
-|`Guitar`, with standard tuning, several G-major chord shapes, and fretted-string
-techniques including slide, bend, vibrato, hammer-on, pull-off, tapping,
-harmonics, and palm muting
+|`Guitar`, with standard tuning; common open, first-position barre, movable
+CAGED, and power-chord shapes; and fretted-string techniques including slide,
+bend, vibrato, hammer-on, pull-off, tapping, harmonics, and palm muting
+
+|`instruments.ukulele`
+|`SopranoUkulele`, with re-entrant high-G tuning and common open major, minor,
+and dominant-seventh chord shapes
 
 |`instruments.guitar.twelve-string`
 |`TwelveStringGuitar`
+
+|`instruments.guitar.electric`
+|`ElectricGuitar`, with standard tuning plus movable `powerChord` and
+standard-tuning `compactPower` shapes
 
 |`instruments.guitarlele`
 |`Guitarlele`
@@ -205,7 +213,8 @@ topology, controls, ranges, and—where applicable—a default tuning or fingeri
 |Module |Contribution
 
 |`tunings.guitar.drop`
-|Adds the `dropD` tuning to `Guitar`.
+|Adds `dropD` tunings to `Guitar` and `ElectricGuitar`, together with their
+`compactPower` shape overloads.
 
 |`tunings.guitar.dadgad`
 |Adds the `dadgad` tuning to `Guitar`.
@@ -214,6 +223,26 @@ topology, controls, ranges, and—where applicable—a default tuning or fingeri
 Instrument modules also carry their default tunings. A score can select a
 particular model extension when the compiler and authoring API expose tuning
 selection for an instance.
+
+=== Guitar chord shapes
+
+`instruments.guitar` exports concrete open shapes including `openA`,
+`openAMinor`, `openA7`, `openB7`, `openC`, `openC7`, `openD`, `openDMinor`,
+`openD7`, `openE`, `openEMinor`, `openE7`, `openG`, `openGHighD`, and `openG7`.
+It also exports the concrete first-position barre shapes `cagedEBarreF`,
+`cagedEMinorBarreF`, and `cagedAMinorBarreB`.
+
+Movable templates are `cagedEMajor`, `cagedEMinor`, `cagedE7`, `cagedAMajor`,
+`cagedAMinor`, `cagedA7`, `powerChord`, and `compactPower`. The
+`compactPower` name has separate standard- and drop-D-tuning implementations;
+the active tuning selects the overload.
+
+=== Ukulele chord shapes
+
+`instruments.ukulele` exports soprano high-G shapes for A, A minor, A7, C,
+C minor, C7, D, D minor, D7, E, E minor, E7, F, G, and G7. Their identifiers
+use the same professional naming convention as the guitar library, such as
+`openC`, `openDMinor`, and `openG7`.
 
 == Musical symbols and utility constants
 

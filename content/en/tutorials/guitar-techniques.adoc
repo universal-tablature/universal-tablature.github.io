@@ -2,7 +2,7 @@
 title: Author guitar performance techniques
 linkTitle: Guitar techniques
 weight: 90
-description: An original electric-guitar study of transitions, bends, vibrato, tapping, harmonics, palm muting, and slides.
+description: Guitar chords, reusable voicings, alternate tunings, transitions, bends, vibrato, tapping, harmonics, palm muting, and slides.
 midi_player: true
 ---
 
@@ -13,6 +13,151 @@ blocks and validates them against the fretted-string profile.
 <midi-player src="/examples/guitar-techniques-study.mid" sound-font></midi-player>
 <p class="small"><a href="/examples/guitar-techniques-study.mid" download>Download MIDI</a> · <a href="/examples/guitar-techniques-study.utab" download>Composer source</a> · <a href="/examples/guitar-techniques-study.utab.json" download>Compiled UTAB JSON</a></p>
 ++++
+
+== Open chords and reusable voicings
+
+The guitar library includes concrete open shapes such as `openA`, `openAMinor`,
+`openC`, `openD`, `openDMinor`, `openE`, `openEMinor`, `openG`, and their common
+dominant-seventh variants. The alternate G voicing with D on the second string
+is named `openGHighD`. Concrete first-position barre shapes include
+`cagedEBarreF`, `cagedEMinorBarreF`, and `cagedAMinorBarreB`.
+
+Select a physical shape with `using`:
+
+[source,utab]
+----
+chord G major q using openG
+chord G major q using openGHighD
+chord F minor h using cagedEMinorBarreF
+----
+
+When a score repeatedly uses the same chord and voicing, bind the complete
+musical value once. The duration belongs to each use site:
+
+[source,utab]
+----
+let verseG = chord G major using openGHighD
+let myE = chord E power using compactPower
+
+verseG h
+myE q
+myE e
+----
+
+The binding retains the root, quality, and requested shape. Physical frets are
+chosen later for the active instrument and tuning.
+
+== Movable shapes and power chords
+
+A movable shape records a transposable physical pattern. Its `root string`
+identifies the template member from which the compiler derives the fret shift.
+The standard guitar module provides CAGED E- and A-family major, minor, and
+dominant-seventh shapes, plus `powerChord` and `compactPower`.
+
+[source,utab]
+----
+chord G major h using cagedEMajor
+chord C power q using powerChord on string 5
+----
+
+`on string 5` relocates the template's root string and all its members together.
+The realized pitches must still contain only chord tones and collectively
+cover the requested quality. An impossible relocation is diagnosed.
+
+Scores and imported modules can define reusable movable shapes too:
+
+[source,utab]
+----
+extension Guitar {
+    movableChordShape compactFifth : power {
+        root string 6
+        string 6 fret 0
+        string 5 fret 2
+    }
+}
+
+let chorusC = chord C power using compactFifth on string 5
+----
+
+== Tuning-specific overloads
+
+One shape name may have different physical definitions for different tunings.
+For standard tuning, adjacent sixth- and fifth-string power-chord notes use a
+two-fret offset:
+
+[source,utab]
+----
+movableChordShape compactPower : power for tuning standard {
+    root string 6
+    string 6 fret 0
+    string 5 fret 2
+}
+----
+
+The drop-D module overloads the same name because those strings are now a fifth
+apart:
+
+[source,utab]
+----
+movableChordShape compactPower : power for tuning dropD {
+    root string 6
+    string 6 fret 0
+    string 5 fret 0
+}
+----
+
+Consequently `let myE = chord E power using compactPower` realizes as frets
+`0–2` in standard tuning and `2–2` in drop D. Resolution first chooses an exact
+active-tuning overload, then a tuning-independent definition when available.
+If neither exists, compilation reports the missing tuning overload.
+
+== Build a muted drop-D gallop
+
+This original four-bar example turns those pieces into a rhythm-guitar part at
+156 BPM. Its anchor is the classic gallop: an eighth note followed by two
+sixteenths. With sixteenth-note subdivision, one attack plus `hold` occupies the
+eighth-note span, followed by the two shorter attacks.
+
+++++
+<midi-player src="/examples/drop-d-gallop.mid" sound-font></midi-player>
+<p class="small"><a href="/examples/drop-d-gallop.mid" download>Download MIDI</a> · <a href="/examples/drop-d-gallop.utab" download>Composer source</a> · <a href="/examples/drop-d-gallop.utab.json" download>Compiled UTAB JSON</a></p>
+++++
+
+[source,utab]
+----
+import instruments.guitar.electric
+import tunings.guitar.drop
+
+meter 4/4
+tempo 156
+instrument guitar : ElectricGuitar tuning dropD
+
+let lowD = chord D power using compactPower
+let lowF = chord F power using compactPower
+let lowG = chord G power using compactPower
+
+performancePattern gallop {
+    subdivision s
+    steps {
+        strum down accent
+        hold
+        strum down
+        strum down
+    }
+}
+
+bar {
+    palmMute {
+        perform gallop { lowD h; lowF q; lowG q }
+    }
+}
+----
+
+`palmMute` scopes the articulation over the realized strums. The repeated low D
+provides the pedal-point weight; F and G preserve the rhythmic identity while
+moving the harmony. Later bars vary the chord order and phrase length without
+changing the gallop itself. The downloadable source contains the complete
+four-bar riff.
 
 == Transitions
 

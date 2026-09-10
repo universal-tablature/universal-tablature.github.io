@@ -95,10 +95,11 @@ than repertoire transcription:
 * link:/tutorials/nyckelharpa-key-bow/[Nyckelharpa keying and bowing] —
   simultaneous key state and bow coordinates, double stops, and drones.
 * link:/tutorials/guitar-techniques/[Guitar techniques] — hammer-on,
-  pull-off, bend, vibrato, tapping, harmonic, palm mute, and slide blocks.
+  pull-off, bend, vibrato, tapping, harmonic, palm mute, slide blocks, and an
+  additional drop-D gallop built from named power chords.
 
 Each tutorial provides its `.utab` source, compiled UTAB JSON, and MIDI preview.
-All three scores were authored specifically for this documentation.
+All four studies were authored specifically for this documentation.
 
 == Reuse policy
 

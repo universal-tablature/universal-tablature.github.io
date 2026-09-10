@@ -1,0 +1,55 @@
+module examples.drop-d-gallop
+import instruments.guitar.electric
+import tunings.guitar.drop
+
+title "Drop-D gallop (original)"
+// Original documentation riff, authored for the Universal Tablature project.
+meter 4/4
+tempo 156
+
+instrument guitar : ElectricGuitar tuning dropD as "Drop-D electric guitar"
+
+let lowD = chord D power using compactPower
+let lowF = chord F power using compactPower
+let lowG = chord G power using compactPower
+let lowBb = chord Bb power using compactPower
+let lowC = chord C power using compactPower
+
+performancePattern gallop {
+    subdivision s
+    steps {
+        strum down accent
+        hold
+        strum down
+        strum down
+    }
+}
+
+section riff : 4 bars {
+    guitar {
+        voice rhythm {
+            bar {
+                palmMute {
+                    perform gallop { lowD h; lowF q; lowG q }
+                }
+            }
+            bar {
+                palmMute {
+                    perform gallop { lowD h; lowC q; lowBb q }
+                }
+            }
+            bar {
+                palmMute {
+                    perform gallop { lowD q; lowF q; lowG h }
+                }
+            }
+            bar {
+                palmMute {
+                    perform gallop { lowC q; lowBb q; lowD h }
+                }
+            }
+        }
+    }
+}
+
+main { riff }
