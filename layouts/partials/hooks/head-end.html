@@ -1,3 +1,19 @@
 {{- if .Params.midi_player }}
 <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/html-midi-player@1.5.0"></script>
+<script>
+  // Browsers create Tone's AudioContext in a suspended state on a fresh visit.
+  // Resume it from the first user gesture, before midi-player handles the click.
+  (() => {
+    const unlockAudio = () => {
+      if (window.Tone && typeof window.Tone.start === "function") {
+        window.Tone.start().catch((error) => {
+          console.warn("Could not start MIDI audio", error);
+        });
+      }
+    };
+
+    document.addEventListener("pointerdown", unlockAudio, { capture: true });
+    document.addEventListener("keydown", unlockAudio, { capture: true });
+  })();
+</script>
 {{- end }}
