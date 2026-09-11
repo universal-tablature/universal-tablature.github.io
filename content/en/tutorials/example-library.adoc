@@ -100,12 +100,3 @@ than repertoire transcription:
 
 Each tutorial provides its `.utab` source, compiled UTAB JSON, and MIDI preview.
 All four studies were authored specifically for this documentation.
-
-== Reuse policy
-
-For future examples, prefer an original study or a composer whose works are
-unambiguously out of copyright in the target jurisdiction. Verify the
-composition separately from the source edition: a centuries-old melody can
-still appear in a copyrighted arrangement, engraving, recording, or dataset.
-Record the composer, work, excerpt, transcription source, and editorial changes
-beside every example.

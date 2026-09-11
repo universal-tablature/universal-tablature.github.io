@@ -47,5 +47,4 @@ The examples target the `0.1-draft` implementation described in the
 link:/reference/composer/[Composer Language reference].
 
 Each tutorial includes an inline MIDI player and links to its Composer source,
-compiled Universal Tablature JSON, and Standard MIDI File. Maintainers can
-regenerate these committed artifacts with `scripts/generate-tutorial-media.sh`.
+compiled Universal Tablature JSON, and Standard MIDI File.
