@@ -5,8 +5,9 @@ weight: 30
 ---
 
 The link:https://github.com/universal-tablature/UniversalTabs[UniversalTabs repository]
-contains the command-line tools for compiling, validating, converting, and
-integrating Universal Tablature scores.
+contains command-line tools for compiling, validating, converting, and
+integrating Universal Tablature scores. The compiler, language server, and
+general-purpose conversion tools run on macOS, Linux, and Windows.
 
 == Build from source
 
@@ -36,19 +37,28 @@ on macOS, Linux, and Windows.
 == Included tools
 
 `utabc`::
-Compiles Composer `.utab` source into `.utab.json` or Standard MIDI. It supports
-additional module search paths, compact JSON, and verification of expected
-diagnostics embedded in source comments.
+Compiles Composer `.utab` source into Universal Tablature JSON, MIDI, MusicXML,
+LilyPond, MEI, or MNX. Repeat `--emit` to create several outputs in one run. Use
+`-o` when emitting exactly one format. The compiler also supports additional
+module search paths, compact JSON, and verification of expected diagnostics
+embedded in source comments.
 +
 [source,shell]
 ----
 swift run utabc --emit utab-json score.utab
 swift run utabc --emit midi -o score.mid score.utab
+swift run utabc --emit musicxml --emit lilypond score.utab
 ----
++
+Supported output names are `utab-json`, `midi`, `musicxml`, `lilypond`, `mei`,
+and `mnx`. Without `-o`, files are written beside the input with their standard
+extensions. MNX output targets the experimental MNX 1.0 draft, not a final
+specification.
 
 `utab-lsp`::
 Runs the Universal Tabs language server over standard input and output for editor
-integration. Use `-I <directory>` to add module search paths.
+integration. It speaks LSP/JSON-RPC and runs on macOS, Linux, and Windows. Use
+`-I <directory>` to add module search paths.
 
 `utab-midi`::
 Converts resolved `.utab.json` documents to Standard MIDI files. Add `--strict`
@@ -69,8 +79,59 @@ swift run utab-musicxml import score.musicxml score.utab.json
 swift run utab-musicxml export score.utab.json score.musicxml
 ----
 
-`utab-pdmx-index` and `utab-pdmx-import`::
-Index and import the PDMX dataset. These ZIP-dependent utilities are available on
+`utab-lilypond`::
+Exports Universal Tablature JSON as LilyPond source. Pass `--render` to invoke an
+installed LilyPond executable and produce a PDF; `--open` also opens the rendered
+PDF in the platform's default viewer.
++
+[source,shell]
+----
+swift run utab-lilypond score.utab.json score.ly
+swift run utab-lilypond score.utab.json score.ly --render
+----
+
+`utab-mei`::
+Imports or exports MEI 5.1 Common Music Notation.
++
+[source,shell]
+----
+swift run utab-mei import score.mei score.utab.json
+swift run utab-mei export score.utab.json score.mei
+----
+
+`utab-mnx`::
+Imports or exports the experimental MNX 1.0 draft. The command prints a reminder
+that this is not a final MNX specification.
++
+[source,shell]
+----
+swift run utab-mnx import score.mnx score.utab.json
+swift run utab-mnx export score.utab.json score.mnx
+----
+
+`utab-decompile`::
+Turns resolved `.utab.json` back into standalone Composer `.utab` source. Output
+defaults to standard output, which is useful for inspection or piping.
++
+[source,shell]
+----
+swift run utab-decompile score.utab.json score.utab
+----
+
+`utab-convert`::
+Autodetects the input and converts between Composer `.utab`, `.utab.json`, MEI,
+LilyPond, MusicXML, and MNX. Use `--from` when the input cannot be identified by
+its filename, and use `-` for standard input or output.
++
+[source,shell]
+----
+swift run utab-convert score.musicxml --to utab-json
+swift run utab-convert score.utab.json score.mei --to mei
+----
+
+`utab-pdmx-index`, `utab-pdmx-import`, and `utab-pdmx-validate`::
+Index a PDMX dataset, import indexed entries, and validate round trips through
+Universal Tablature and MusicXML. These ZIP-dependent utilities are available on
 macOS and Linux, but are excluded from Windows builds.
 
 Each command provides its current arguments through `--help` where supported.
